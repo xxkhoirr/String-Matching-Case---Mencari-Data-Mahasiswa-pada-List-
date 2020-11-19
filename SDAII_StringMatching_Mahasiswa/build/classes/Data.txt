@@ -1,0 +1,1795 @@
+1	A131508018	Christine Elia Benedicta	951292018000047	06-08-2018	selesai	selesai	Sudah
+2	A131508022	Sigma Saputra Suryanegara	951292018000030	27-07-2018	selesai	selesai	Sudah
+3	A131608009	Farhati Mardiyah	183/UN27.20/S2/2018	07-08-2018	selesai	selesai	Sudah
+4	A131608011	Indri Hapsari Pusponegoro	180/UN27.20/S2/2018	02-08-2018	selesai	selesai	Sudah
+5	A131608014	Riani Dwi Utari	182/UN27.20/S2/2018	08-08-2018	selesai	selesai	Sudah
+6	A131608015	Siwi Harning Pambudi	181/UN27.20/S2/2018	24-07-2018	selesai	selesai	Sudah
+7	B3115005	Andika Pratama	794022018000429	04-07-2018	selesai	selesai	Sudah
+8	B3115010	Anugerah Satria Bangkit Pratama	794022018000443	19-07-2018	selesai	selesai	Sudah
+9	B3115015	Dewi Ayu Ilmasari	794022018000368	25-07-2018	selesai	selesai	Sudah
+10	B3115024	Faisal Septiaji	794022018000436	27-07-2018	selesai	selesai	Sudah
+11	B3115025	Galang Yoga Mahendra	794022018000450	26-07-2018	selesai	selesai	Sudah
+12	B3115032	Indah Siti Fatimah	794022018000474	25-07-2018	selesai	selesai	Sudah
+13	B3115034	Karima	794022018000481	27-07-2018	selesai	selesai	Sudah
+14	B3115038	Murti Riani	794022018000399	25-07-2018	selesai	selesai	Sudah
+15	B3115039	Nanda Inggrid Tritanti	794022018000375	26-07-2018	selesai	selesai	Sudah
+16	B3115042	Nur Rochmah Yulianti	794022018000344	25-06-2018	selesai	selesai	Sudah
+17	B3115045	Olivia Putri Yoseny	794022018000313	20-07-2018	selesai	selesai	Sudah
+18	B3115051	Reisida Kumala Putri	794022018000337	19-07-2018	selesai	selesai	Sudah
+19	B3115055	Rita Lestari	794022018000351	02-07-2018	selesai	selesai	Sudah
+20	B3115058	Silvia Sanusi	794022018000320	06-07-2018	selesai	selesai	Sudah
+21	B3215009	Ari Prasetyo	934012018000488	23-07-2018	selesai	selesai	Sudah
+22	B3215013	Corry Shafia Siti Khoeyriah	934012018000518	05-07-2018	selesai	selesai	Sudah
+23	B3215018	Erfikania Kusuma Arti	934012018000426	29-06-2018	selesai	selesai	Sudah
+24	B3215030	Luthfi Agustin Fajriani	934012018000464	27-07-2018	selesai	selesai	Sudah
+25	B3215031	Maydhitta Nanda Ayunda Putri	934012018000419	24-07-2018	selesai	selesai	Sudah
+26	B3215034	Nova Erlina	934012018000389	03-07-2018	selesai	selesai	Sudah
+27	B3215044	Rizka Rachmayanti Herdis P	934012018000471	06-07-2018	selesai	selesai	Sudah
+28	B3215046	Silvia Winda Adisti	934012018000440	28-06-2018	selesai	selesai	Sudah
+29	B3215047	Siti Muthiah	934012018000495	28-06-2018	selesai	selesai	Sudah
+30	B3215048	Sonya Carissa Anastasya	934012018000372	28-06-2018	selesai	selesai	Sudah
+31	B3215052	Thanthowi Muhammad	934012018000501	30-05-2018	selesai	selesai	Sudah
+32	B3215054	Veronika Lousye Agustine	934012018000396	24-07-2018	selesai	selesai	Sudah
+33	B3215057	Wira Yulihara	934012018000457	25-06-2018	selesai	selesai	Sudah
+34	B3215059	Nissa Nur Fadillah	934012018000402	02-07-2018	selesai	selesai	Sudah
+35	B3215060	Giovanni Herlambang Wicaksono	934012018000433	03-07-2018	selesai	selesai	Sudah
+36	B3315002	Atika Desi	794092018000163	31-07-2018	selesai	selesai	Sudah
+37	B3315005	Eky Detiana Fitriyani	794092018000170	31-07-2018	selesai	selesai	Sudah
+38	B3315015	Nur Fahmiatus Sholikhah	794092018000132	10-07-2018	selesai	selesai	Sudah
+39	B3315016	Puji Gustary	794092018000118	06-07-2018	selesai	selesai	Sudah
+40	B3315026	Vidya Luvy Marentha	794092018000156	30-07-2018	selesai	selesai	Sudah
+41	B3315029	Arimbi Nandyasha Sekarlangit	794092018000125	31-07-2018	selesai	selesai	Sudah
+42	C0112043	Patrisia Tandiesti Margahayu	792112018000481	25-07-2018	selesai	selesai	Sudah
+43	C0112055	Tantri Octaviyarti	792112018000450	22-05-2018	selesai	selesai	Sudah
+44	C0113001	Achmad Ma'ruf Gantang RS	792112018000467	25-06-2018	selesai	selesai	Sudah
+45	C0113026	Frengki Nur Fariya Pratama	792112018000535	25-07-2018	selesai	selesai	Sudah
+46	C0113036	Muhamad Wahyu Nugroho	792112018000542	09-07-2018	selesai	selesai	Sudah
+47	C0113064	Yudi Setyo Nugroho	792112018000559	28-05-2018	selesai	selesai	Sudah
+48	C0114025	Hanif Burhanudin	792112018000573	31-07-2018	selesai	selesai	Sudah
+49	C0114029	Kartika Dyah Sekarleta	792112018000528	24-07-2018	selesai	selesai	Sudah
+50	C0114042	Margareta Noviani	792112018000504	26-07-2018	selesai	selesai	Sudah
+51	C0114043	Monika Novita Pratiwi	792112018000498	18-07-2018	selesai	selesai	Sudah
+52	C0114050	Puti Kharisma Ning	792112018000566	16-07-2018	selesai	selesai	Sudah
+53	C0114055	Ratna Yunita Sari	792112018000474	03-07-2018	selesai	selesai	Sudah
+54	C0114063	Tutut Herwinda	792112018000511	18-07-2018	selesai	selesai	Sudah
+55	C0212037	Isnin Prilia Prisma	792012018000422	22-05-2018	selesai	selesai	Sudah
+56	C0213005	Ananda Astri Dianka Rivaldi Gita Mulia	792012018000361	16-07-2018	selesai	selesai	Sudah
+57	C0213032	Ikawati Sukarna	792012018000354	28-05-2018	selesai	selesai	Sudah
+58	C0213063	Sofia Naim	792012018000408	19-07-2018	selesai	selesai	Sudah
+59	C0214007	Anisa Faulia	792012018000309	10-07-2018	selesai	selesai	Sudah
+60	C0214010	Asmaul Kharisma	792012018000446	25-07-2018	selesai	selesai	Sudah
+61	C0214015	Corvi Aldhecca Russida	792012018000255	13-07-2018	selesai	selesai	Sudah
+62	C0214019	Dita Sukmawati Putri	792012018000477	31-07-2018	selesai	selesai	Sudah
+63	C0214020	Dwi Nur Mashitoh	792012018000262	10-07-2018	selesai	selesai	Sudah
+64	C0214022	Eka Kristina Anggasari	792012018000323	21-05-2018	selesai	selesai	Sudah
+65	C0214023	Eka Puji Astiti	792012018000279	13-07-2018	selesai	selesai	Sudah
+66	C0214024	Eki Putri Ma'rufi	792012018000460	12-07-2018	selesai	selesai	Sudah
+67	C0214026	Ericka Primadany Arie P.	792012018000316	21-05-2018	selesai	selesai	Sudah
+68	C0214029	Febryana Dwi Puspitasari	792012018000378	30-07-2018	selesai	selesai	Sudah
+69	C0214030	Fidiah Nuzul Aini	792012018000293	23-07-2018	selesai	selesai	Sudah
+70	C0214034	Icha Latifa Hanum	792012018000385	04-06-2018	selesai	selesai	Sudah
+71	C0214038	Irma Nur Cahyani	792012018000453	31-07-2018	selesai	selesai	Sudah
+72	C0214039	Isti Tri Prasetyo	792012018000439	25-07-2018	selesai	selesai	Sudah
+73	C0214041	Mariah Gipty Awahah	792012018000347	09-07-2018	selesai	selesai	Sudah
+74	C0214050	Nuraini Isti Kusumah	792012018000392	24-07-2018	selesai	selesai	Sudah
+75	C0214052	Partini	792012018000415	24-07-2018	selesai	selesai	Sudah
+76	C0214062	Tri Janarti	792012018000286	19-07-2018	selesai	selesai	Sudah
+77	C0214067	Yuria Anisa	792012018000330	08-06-2018	selesai	selesai	Sudah
+78	C0310037	Muhammad Syaifulloh Al Faqih	792022018000155	26-01-2018	selesai	selesai	Sudah
+79	C0313001	Adithea Rake Sanjaya	792022018000179	10-07-2018	selesai	selesai	Sudah
+80	C0313030	Khafidhta Qudsiana Nurul Arifah	792022018000124	30-04-2018	selesai	selesai	Sudah
+81	C0313034	Marchido Putramastya	792022018000117	25-04-2018	selesai	selesai	Sudah
+82	C0313048	Ramadhiansyah Nur Pratama	792022018000162	25-05-2018	selesai	selesai	Sudah
+83	C0313054	Sutam Ardy Syabana	002/R/UN27.01/S1/2018	30-04-2018	selesai	selesai	Sudah
+84	C0314035	Rahnabilla Ashna Luthfa	792022018000131	31-07-2018	selesai	selesai	Sudah
+85	C0314039	Risa Aulia	792022018000148	27-07-2018	selesai	selesai	Sudah
+86	C0511019	Ghazian Al Wafi	802012018000183	05-07-2018	selesai	selesai	Sudah
+87	C0511021	Muchamad Pandu Irawan	802012018000268	23-01-2018	selesai	selesai	Sudah
+88	C0513012	Efel Indhurian	802012018000244	31-07-2018	selesai	selesai	Sudah
+89	C0513022	Isnatin Khusna	802012018000251	27-07-2018	selesai	selesai	Sudah
+90	C0513045	Rizki Novitasari	802012018000237	26-06-2018	selesai	selesai	Sudah
+91	C0514008	Bama Basonta	802012018000213	31-07-2018	selesai	selesai	Sudah
+92	C0514017	Evita Kurnia Dewi	802012018000206	21-08-2018	selesai	selesai	Sudah
+93	C0514027	Johan Tabah Andriyanto	802012018000169	27-07-2018	selesai	selesai	Sudah
+94	C0514033	Mega Rachmalia Wibawanti	802012018000176	31-07-2018	selesai	selesai	Sudah
+95	C0514039	Muhammad Rizal Setiawan	802012018000220	31-07-2018	selesai	selesai	Sudah
+96	C0514042	Nunung Aliyati Fajer	802012018000145	23-07-2018	selesai	selesai	Sudah
+97	C0514048	Punta Rizky	802012018000152	30-07-2018	selesai	selesai	Sudah
+98	C0514052	Sandika Aris Nugroho	802012018000190	31-07-2018	selesai	selesai	Sudah
+99	C0613051	Ummu Muslihah	902012018000144	24-07-2018	selesai	selesai	Sudah
+100	C0614003	Almira Puspita Yashi	902012018000106	31-07-2018	selesai	selesai	Sudah
+101	C0614011	Dinia Agustia Artika Sari	902012018000090	25-07-2018	selesai	selesai	Sudah
+102	C0614018	Febi Nasikha Fitri	902012018000151	30-07-2018	selesai	selesai	Sudah
+103	C0614019	Firman Azis	902012018000182	30-07-2018	selesai	selesai	Sudah
+104	C0614022	Gita Pratiwi	902012018000113	27-07-2018	selesai	selesai	Sudah
+105	C0614024	Imam Bukhori	902012018000120	26-07-2018	selesai	selesai	Sudah
+106	C0614033	Pandu Setyo Adji	902012018000175	30-07-2018	selesai	selesai	Sudah
+107	C0614039	Sharon L. E. Siahaan	902012018000137	25-07-2018	selesai	selesai	Sudah
+108	C0614042	Tri Yuliana	902012018000168	31-07-2018	selesai	selesai	Sudah
+109	C0712006	Alfandy Pranoto Utomo	902412018000210	18-07-2018	selesai	selesai	Sudah
+110	C0713009	Anggrae Yuhasufa Tionanda	902412018000333	18-07-2018	selesai	selesai	Sudah
+111	C0713033	Mega Ayu Ratih Mekarsari	902412018000401	08-01-2018	selesai	selesai	Sudah
+112	C0713044	Yusuf Syarifudin Aziz	902412018000418	18-07-2018	selesai	selesai	Sudah
+113	C0714001	Adam Hadiwiranata	902412018000319	19-07-2018	proses	belum	belum
+114	C0714002	Andies Maftu Khanan	902412018000326	19-07-2018	selesai	selesai	Sudah
+115	C0714005	Ary Fajriyanto Putro	902412018000142	17-07-2018	proses	belum	belum
+116	C0714006	Assalisa Mahardika	902412018000166	17-07-2018	proses	belum	belum
+117	C0714007	Christina Kenya Palupi Galuh Pamagetsari	902412018000289	17-07-2018	selesai	selesai	Sudah
+118	C0714008	Deby Amaliasari	902412018000241	18-07-2018	selesai	selesai	Sudah
+119	C0714009	Dito Bagastama	902412018000302	19-07-2018	proses	belum	belum
+120	C0714011	Evi Nilasari	902412018000135	18-07-2018	selesai	selesai	Sudah
+121	C0714012	Fahmi Ardiansyah	902412018000180	19-07-2018	selesai	selesai	Sudah
+122	C0714013	Faiz Rifqi Zain Syahputra	902412018000357	18-07-2018	proses	belum	belum
+123	C0714014	Gafi Prajanti Wandita	902412018000159	17-07-2018	selesai	selesai	Sudah
+124	C0714015	Galang Pinandita	902412018000340	18-07-2018	proses	belum	belum
+125	C0714016	Hesti Maharasmi	902412018000258	18-07-2018	selesai	selesai	Sudah
+126	C0714017	Ilham Yoga Perdana	902412018000265	17-07-2018	proses	belum	belum
+127	C0714019	Jusup Agung Setyowibowo	902412018000296	19-07-2018	selesai	selesai	Sudah
+128	C0714023	Mufid Islam	902412018000272	17-07-2018	proses	belum	belum
+129	C0714026	Muhammad Fajri	902412018000364	19-07-2018	proses	belum	belum
+130	C0714029	Nugraha Brata Kurnia Antaka	902412018000227	17-07-2018	selesai	selesai	Sudah
+131	C0714031	Nurul Hidayat	902412018000173	18-07-2018	proses	belum	belum
+132	C0714032	Panji Anggoro Putro	902412018000128	17-07-2018	selesai	selesai	Sudah
+133	C0714034	Riyan Hendarto	902412018000203	18-07-2018	selesai	selesai	Sudah
+134	C0714035	Runi Ayu Sumantri	902412018000388	19-07-2018	selesai	selesai	Sudah
+135	C0714036	Rusintha Mahayusanty Nugrahaningtyas	902412018000234	18-07-2018	selesai	selesai	Sudah
+136	C0714037	Siti Aisyah Putri Artini	902412018000197	19-07-2018	selesai	selesai	Sudah
+137	C0714040	Wildan Arroisi	902412018000371	17-07-2018	selesai	selesai	Sudah
+138	C0714042	Yunior Susanto	902412018000395	19-07-2018	selesai	selesai	Sudah
+139	C0808032	Muhammad Cholid Arba'in	149/R/UN27.10/S1/2016	26-01-2016	proses	belum	belum
+140	C0811010	Bayu Prasetyo Hutomo	902212018000254	12-01-2018	selesai	selesai	Sudah
+141	C0812003	Ahmad Zaky Azzami	902212018000094	23-01-2018	selesai	selesai	Sudah
+142	C0812007	Dwi Debora Sitanggang	902212018000131	16-05-2018	selesai	selesai	Sudah
+143	C0813004	Ailzha Fabrianni	902212018000230	16-01-2018	selesai	selesai	Sudah
+144	C0813036	Rizki Nuraeni Rahmawati	138/R/UN27.10/S1/2017	07-12-2017	selesai	selesai	Sudah
+145	C0814004	Anisa Febriana Rahmadhani	902212018000193	25-07-2018	selesai	selesai	Sudah
+146	C0814005	Bayhaqi Ismail	902212018000261	19-07-2018	selesai	selesai	Sudah
+147	C0814008	Chantika Karina	902212018000179	20-07-2018	selesai	selesai	Sudah
+148	C0814009	Denadia Rachmania	902212018000223	18-07-2018	selesai	selesai	Sudah
+149	C0814014	Febrina Qodria Tsania	902212018000209	19-07-2018	selesai	selesai	Sudah
+150	C0814015	Ganis Farahiya	902212018000162	13-07-2018	selesai	selesai	Sudah
+151	C0814016	Iik Arifandi	902212018000155	20-07-2018	selesai	selesai	Sudah
+152	C0814020	Kristiana Yunita	902212018000278	19-07-2018	selesai	selesai	Sudah
+153	C0814021	Luthfi Quasimah Widoyo	902212018000117	18-07-2018	selesai	selesai	Sudah
+154	C0814025	Nisrina Aathirah	902212018000216	13-07-2018	selesai	selesai	Sudah
+155	C0814027	Padyan Kurniasari	902212018000100	19-07-2018	selesai	selesai	Sudah
+156	C0814031	Rifqi Fuadi	902212018000148	13-07-2018	selesai	selesai	Sudah
+157	C0814034	Satriyo Wibowo	902212018000124	20-07-2018	selesai	selesai	Sudah
+158	C0814038	Ulfah Nur Aini	902212018000186	20-07-2018	selesai	selesai	Sudah
+159	C0814039	Shahnaz Hilma Aini	902212018000247	19-07-2018	selesai	selesai	Sudah
+160	C0910034	Rahasto Alimarauf	137/R/UN27.10/S1/2017	05-10-2017	proses	belum	belum
+161	C1011020	Hanif Fakhrunnisa	792032018000260	10-07-2018	selesai	selesai	Sudah
+162	C1011036	Patimah	792032018000277	22-01-2018	selesai	selesai	Sudah
+163	C1012056	Yoki Purnawan	792032018000284	26-06-2018	selesai	selesai	Sudah
+164	C1014002	Aisyah Suko Andriani	792032018000321	31-07-2018	selesai	selesai	Sudah
+165	C1014006	Ayu Sholichah	792032018000307	19-07-2018	selesai	selesai	Sudah
+166	C1014030	Muhammad	792032018000314	28-06-2018	selesai	selesai	Sudah
+167	C1014034	Nail Ghusthaf	792032018000291	31-07-2018	selesai	selesai	Sudah
+168	C1306006	Gunung Dewantara	019/E/UN27.1/S1/2014	22-01-2014	belum	belum	belum
+169	C1314005	Khoirina Masruroh	002/E/UN27.01/S1/2018	26-04-2018	selesai	selesai	Sudah
+170	C9313014	Bayu Priyambodo	794022018000382	31-07-2018	selesai	selesai	Sudah
+171	C9313027	Dwiatma Secarvianto	794022018000405	31-07-2018	selesai	selesai	Sudah
+172	C9314029	Jeannette Chrysilla. K	794022018000412	26-07-2018	selesai	selesai	Sudah
+173	C9314055	Ridwan Adi Prakarsa	794022018000467	31-07-2018	selesai	selesai	Sudah
+174	C9513001	Abel Putra Iswan	904412018000836	17-07-2018	selesai	selesai	Sudah
+175	C9513015	Bayu Adi Prastowo	904412018000669	17-07-2018	selesai	selesai	Sudah
+176	C9513079	Sidik Prayoga	904412018000737	29-06-2018	selesai	selesai	Sudah
+177	C9514047	Ivan Nur Wardiman	904412018000713	18-07-2018	selesai	selesai	Sudah
+178	C9514065	Muhammad Hardian Zen	904412018000621	17-07-2018	selesai	selesai	Sudah
+179	C9515007	Andra Gembara Perdana	904412018000645	09-07-2018	proses	belum	belum
+180	C9515013	Arus Alam	904412018000782	12-07-2018	selesai	selesai	Sudah
+181	C9515015	Bagus Deny Tri Sakti	904412018000690	13-07-2018	selesai	selesai	Sudah
+182	C9515017	Bobby Wahyu Ramadhan	904412018000744	06-07-2018	selesai	selesai	Sudah
+183	C9515019	Calista Aziza Prasetiani	904412018000614	18-07-2018	proses	belum	belum
+184	C9515022	Dewi Ratri Yuliastuti	904412018000720	20-07-2018	selesai	selesai	Sudah
+185	C9515024	Dian Intan Prastika Bulan Pamungkas	904412018000829	20-07-2018	selesai	selesai	Sudah
+186	C9515027	Dodit Wahyu Setyawan	904412018000850	16-07-2018	selesai	selesai	Sudah
+187	C9515028	Eden Denta Pratama	904412018000898	16-07-2018	selesai	selesai	Sudah
+188	C9515032	Erlangga Luthfi Bennardi	904412018000874	19-07-2018	selesai	selesai	Sudah
+189	C9515036	Giri Seno Kusumo	904412018000812	20-07-2018	selesai	selesai	Sudah
+190	C9515042	Jacob Dwiky Setiawan	904412018000805	19-07-2018	selesai	selesai	Sudah
+191	C9515044	Jefferson Syaputra	904412018000683	19-07-2018	selesai	selesai	Sudah
+192	C9515045	Karlinda Pertiwi	904412018000607	19-07-2018	proses	belum	belum
+193	C9515047	Kurniawan Dwi Romadhoni Ali Saputra	904412018000652	25-07-2018	proses	belum	belum
+194	C9515050	Lutfian Rio Ari Wardana	904412018000881	17-07-2018	selesai	selesai	Sudah
+195	C9515053	Marcha Roselini Yulianto	904412018000768	30-07-2018	selesai	selesai	Sudah
+196	C9515054	Masitha Febrila Rahman	904412018000676	19-07-2018	proses	belum	belum
+197	C9515056	Mohandiz Achnas	904412018000706	12-07-2018	proses	belum	belum
+198	C9515060	Muhammad Fatkhurrohman Yuhdi Setiawan	904412018000775	16-07-2018	selesai	selesai	Sudah
+199	C9515062	Muhammad Iqbal Syahrizal	904412018000638	20-07-2018	selesai	selesai	Sudah
+200	C9515064	Muhammad Reza Kurniawan	904412018000799	04-07-2018	selesai	selesai	Sudah
+201	C9515070	Nicholas Arjulian Leorency	904412018000867	20-07-2018	selesai	selesai	Sudah
+202	C9515071	Nike Purwitasari	904412018000843	13-07-2018	selesai	selesai	Sudah
+203	C9515078	Ricky Aji Pradana	904412018000751	10-07-2018	selesai	selesai	Sudah
+204	C9614015	Mesy Nika Endriani	794092018000149	30-07-2018	selesai	selesai	Sudah
+205	D0113013	Arum Dwiangkatri	632012018000438	17-07-2018	selesai	selesai	Sudah
+206	D0114002	Adi Priya Utama	632012018000537	23-08-2018	selesai	selesai	Sudah
+207	D0114008	Angga Setiawan	632012018000544	10-09-2018	selesai	selesai	Sudah
+208	D0114009	Anggi Ayu Intan Pramesti	632012018000445	30-07-2018	selesai	selesai	Sudah
+209	D0114010	Anisa Rachmawati	632012018000407	31-07-2018	selesai	proses	belum
+210	D0114012	Annisa Nur Fitriana S	632012018000452	30-07-2018	selesai	selesai	Sudah
+211	D0114017	Arifah Ratna Adilah	632012018000469	23-07-2018	selesai	selesai	Sudah
+212	D0114023	Ayu Pratiwi	632012018000414	20-07-2018	selesai	proses	belum
+213	D0114032	Destik Tri Susilo	632012018000582	09-08-2018	selesai	selesai	Sudah
+214	D0114039	Dwitya Sekar Octasari	632012018000421	20-07-2018	selesai	selesai	Sudah
+215	D0114040	Dyah Ayu Kristiya Andriyani Kusumaningrum	632012018000551	10-08-2018	selesai	selesai	Sudah
+216	D0114044	Erna Kusuma Astuti	632012018000476	24-07-2018	selesai	selesai	Sudah
+217	D0114062	Heippy Rosa Praninda	632012018000483	31-07-2018	selesai	selesai	Sudah
+218	D0114072	Lianggi Agustina	632012018000490	25-07-2018	selesai	selesai	Sudah
+219	D0114078	Mohammad Syaroful Husna	632012018000506	31-07-2018	selesai	proses	belum
+220	D0114081	Muslikhah Norma Fajari	632012018000568	13-08-2018	selesai	selesai	Sudah
+221	D0114096	Safira Hasna Hayzaki	632012018000575	30-07-2018	selesai	selesai	Sudah
+222	D0114102	Theodora Curia Novit	632012018000599	20-08-2018	selesai	selesai	Sudah
+223	D0114104	Wahyu Utami	632012018000513	25-07-2018	selesai	selesai	Sudah
+224	D0114106	Yulia Puspitasari	632012018000605	06-09-2018	selesai	selesai	Sudah
+225	D0114107	Yuliana Kusuma Dewi	632012018000520	23-07-2018	selesai	selesai	Sudah
+226	D0208119	Andika Fatmawati Putri	321/R/UN27.05/S1/2016	23-02-2016	selesai	selesai	Sudah
+227	D0211005	Andika Permata Sari	702012018000429	26-07-2018	selesai	selesai	Sudah
+228	D0211010	Ardian Nur Hudha	702012018000436	26-07-2018	selesai	selesai	Sudah
+229	D0211013	As'ad Syamsul Arifin	702012018000443	26-07-2018	selesai	selesai	Sudah
+230	D0211017	Berliananda Pratama	702012018000450	26-07-2018	selesai	selesai	Sudah
+231	D0211022	Daniel Revelino Arsono	702012018000467	30-07-2018	selesai	selesai	Sudah
+232	D0211059	Marakhilda Namora Hana Siregar	702012018000474	09-07-2018	selesai	selesai	Sudah
+233	D0211088	Rizky Listya Pratama	702012018000481	27-07-2018	selesai	selesai	Sudah
+234	D0211095	Thya Evamaya Nur'aini	702012018000498	30-07-2018	selesai	selesai	Sudah
+235	D0213003	Addin Hanifa Abdurrohman	702012018000504	13-07-2018	selesai	selesai	Sudah
+236	D0213018	Azhari Widhiyanto Saputro	702012018000511	24-07-2018	selesai	selesai	Sudah
+237	D0213078	Rino Basudewa	702012018000528	30-07-2018	selesai	selesai	Sudah
+238	D0214033	Dorotea Vita Ayudya	702012018000566	14-08-2018	selesai	selesai	Sudah
+239	D0214038	Fahrizal Alhamdani	702012018000399	31-07-2018	selesai	selesai	Sudah
+240	D0214048	Hernowo Prasojo	702012018000405	18-07-2018	selesai	selesai	Sudah
+241	D0214050	Irine Novianti	702012018000535	27-08-2018	selesai	selesai	Sudah
+242	D0214063	Muhammad Rifqi Zakaria	702012018000573	15-08-2018	selesai	selesai	Sudah
+243	D0214068	Naomi Hosma Trisna	702012018000382	25-07-2018	selesai	selesai	Sudah
+244	D0214070	Nirmala Kurnianingrum	702012018000368	06-06-2018	selesai	proses	belum
+245	D0214081	Rahmad Nurfakin	702012018000412	31-07-2018	selesai	selesai	Sudah
+246	D0214095	Siti Nurjanah	702012018000542	31-07-2018	selesai	selesai	Sudah
+247	D0214096	Siti Nur Litasari	702012018000375	18-07-2018	selesai	selesai	Sudah
+248	D0214103	Widi Rasti Afanie	702012018000559	24-07-2018	selesai	selesai	Sudah
+249	D0312044	Ilvan Fauzi Nurani	692012018000492	16-05-2018	selesai	selesai	Sudah
+250	D0313033	Herwin Kanugrahani	692012018000430	17-07-2018	selesai	selesai	Sudah
+251	D0313034	Hilmy Mohammad	692012018000416	25-07-2018	selesai	proses	belum
+252	D0313057	Radin Suryo Pranoto	692012018000386	26-07-2018	selesai	proses	belum
+253	D0313067	Risti Ambarwati	692012018000393	13-07-2018	selesai	selesai	Sudah
+254	D0314001	Adzka Rif'ati	692012018000485	20-07-2018	selesai	selesai	Sudah
+255	D0314002	Ahmad Nova Akhsani Taqwim	692012018000478	30-07-2018	selesai	selesai	Sudah
+256	D0314003	Alfa Tiara Akihita	692012018000560	13-09-2018	selesai	selesai	Sudah
+257	D0314006	Anggara Bagus Satrio	692012018000409	12-07-2018	selesai	proses	belum
+258	D0314016	Damayanti Tri Utami	692012018000515	31-07-2018	selesai	selesai	Sudah
+259	D0314017	Dandy Tegar Wicaksono	692012018000522	27-07-2018	selesai	selesai	Sudah
+260	D0314031	Frida Yunita Sari	692012018000461	30-07-2018	proses	belum	belum
+261	D0314045	Maria Sara Kristi	692012018000508	31-07-2018	selesai	selesai	Sudah
+262	D0314061	Puspa Mega Choirina	692012018000454	30-07-2018	selesai	selesai	Sudah
+263	D0314065	Rosesynta Paramita Dewi	692012018000447	27-07-2018	selesai	selesai	Sudah
+264	D0314079	Viona Arum Pratiwi	692012018000553	30-07-2018	selesai	selesai	Sudah
+265	D0314082	Wisnu Dewa Adji Maryadi	692012018000423	31-07-2018	selesai	proses	belum
+266	D0314083	Wulan Andrianingtyas	692012018000546	31-07-2018	selesai	selesai	Sudah
+267	D0314087	Zahra Nur Fatma	692012018000539	27-07-2018	selesai	selesai	Sudah
+268	D0413047	Sa'ad Fajrul 'Aziz	642012018000251	07-06-2018	selesai	selesai	Sudah
+269	D0413054	Yesi Nurma Jelita	642012018000268	17-05-2018	selesai	selesai	Sudah
+270	D0414006	Anisa Risanti Suhita	642012018000244	23-07-2018	selesai	selesai	Sudah
+271	D0414008	Arif Budhi Suryanto	642012018000275	25-07-2018	selesai	selesai	Sudah
+272	D0414013	Caesario Saputro	642012018000206	18-07-2018	selesai	selesai	Sudah
+273	D0414015	Charneva Umi Rahmawati	642012018000190	11-07-2018	proses	belum	belum
+274	D0414017	Devi Malinda	642012018000220	20-07-2018	proses	belum	belum
+275	D0414025	Gelar Rajawali Mahendra	642012018000183	18-07-2018	proses	belum	belum
+276	D0414030	Karima Sabrina Amalia Deska	642012018000213	24-07-2018	selesai	selesai	Sudah
+277	D0414053	Toha Assegaf	642012018000237	23-07-2018	selesai	selesai	Sudah
+278	D1115002	Agung Tri Atmoko	053/E/UN27.05/S1/2018	18-07-2018	selesai	selesai	Sudah
+279	D1115020	Lia Diniya	041/E/UN27.05/S1/2018	09-07-2018	selesai	selesai	Sudah
+280	D1115037	Sintya Novia Ardini	046/E/UN27.05/S1/2018	18-07-2018	selesai	selesai	Sudah
+281	D1115038	Tri Setiyowati	043/E/UN27.05/S1/2018	23-07-2018	selesai	selesai	Sudah
+282	D1115043	Zahra Habiba Af Idati	036/E/UN27.05/S1/2018	16-05-2018	proses	belum	belum
+283	D1116018	Lilis Hidayati	037/E/UN27.05/S1/2018	27-07-2018	selesai	proses	belum
+284	D1116020	Morinda Dewita Sari	047/E/UN27.05/S1/2018	27-08-2018	selesai	selesai	Sudah
+285	D1116024	Muhammad Hadiyan Fathurrahman	035/E/UN27.05/S1/2018	20-07-2018	selesai	selesai	Sudah
+286	D1116025	Mulyasari Kusumadewi	042/E/UN27.05/S1/2018	31-07-2018	selesai	selesai	Sudah
+287	D1116026	Mustikasiwi Nela Kusnarto	057/E/UN27.05/S1/2018	27-07-2018	selesai	selesai	Sudah
+288	D1213074	Vicky Febrian	052/E/UN27.05/S1/2018	31-07-2018	selesai	selesai	Sudah
+289	D1214009	Andreas Adi Darmawan	054/E/UN27.05/S1/2018	26-07-2018	selesai	selesai	Sudah
+290	D1214061	Oktaviani Ikasari	044/E/UN27.05/S1/2018	30-07-2018	selesai	selesai	Sudah
+291	D1215022	Fera Witri Utami	056/E/UN27.05/S1/2018	19-07-2018	selesai	selesai	Sudah
+292	D1216012	Bagas Privariandito	038/E/UN27.05/S1/2018	31-07-2018	selesai	selesai	Sudah
+293	D1216014	Basuki Wahyu Utomo	055/E/UN27.05/S1/2018	31-07-2018	selesai	selesai	Sudah
+294	D1216036	Linda Dwiastuti	051/E/UN27.05/S1/2018	17-07-2018	selesai	selesai	Sudah
+295	D1216038	Mahendra Hanifian Krisnamukti	039/E/UN27.05/S1/2018	18-07-2018	selesai	selesai	Sudah
+296	D1216041	Monica Laksmi Nariswari	048/E/UN27.05/S1/2018	31-07-2018	selesai	selesai	Sudah
+297	D1216048	Priskila Regi Wulandari	045/E/UN27.05/S1/2018	31-07-2018	selesai	selesai	Sudah
+298	D1216051	Rensy Puspitasari	050/E/UN27.05/S1/2018	31-07-2018	selesai	selesai	Sudah
+299	D1216063	Silvia Christinasari	040/E/UN27.05/S1/2018	11-07-2018	selesai	selesai	Sudah
+300	D1216073	Yoel Daya Prathama	049/E/UN27.05/S1/2018	31-07-2018	selesai	selesai	Sudah
+301	D1314068	Mujahid Kusuma Roza	704012018001479	11-07-2018	proses	belum	belum
+302	D1315002	Afif Nur Faivana	704012018001561	25-07-2018	selesai	selesai	Sudah
+303	D1315004	Alexander Nugi Nugroho	704012018001646	05-07-2018	selesai	selesai	Sudah
+304	D1315008	Annisaa Cahya Oktaviani	704012018001707	23-07-2018	selesai	selesai	Sudah
+305	D1315011	Aruna Irani	704012018001424	19-07-2018	selesai	selesai	Sudah
+306	D1315012	Ayunita Firdausa Rochmadhani	704012018001417	23-07-2018	selesai	selesai	Sudah
+307	D1315019	Dita Christi Cahyaningtyas	704012018001684	31-07-2018	selesai	selesai	Sudah
+308	D1315021	Dyah Jannatul Laili	704012018001653	25-07-2018	selesai	selesai	Sudah
+309	D1315022	Eko Wahyu Rachmadi	704012018001554	30-07-2018	selesai	selesai	Sudah
+310	D1315028	Frisca Gati Prastiwi	704012018001752	23-07-2018	selesai	selesai	Sudah
+311	D1315030	Gayuh Tri Pinjungwati	704012018001455	05-07-2018	selesai	proses	belum
+312	D1315031	Gita Ramadhan Yanuar	704012018001523	23-07-2018	selesai	selesai	Sudah
+313	D1315034	Kelen Indah Larasati	704012018001660	16-07-2018	selesai	selesai	Sudah
+314	D1315035	Kessy Novia Hariska	704012018001431	31-07-2018	selesai	selesai	Sudah
+315	D1315036	Khairul Ikhsan Rachman Sudiro	704012018001738	30-07-2018	selesai	selesai	Sudah
+316	D1315040	Merys Arta Yolanda	704012018001400	11-07-2018	selesai	selesai	Sudah
+317	D1315045	Muhammad Chafidz Hidayat	704012018001721	30-07-2018	selesai	selesai	Sudah
+318	D1315046	Muhammad Fahrurozi Thohari	704012018001516	12-07-2018	selesai	selesai	Sudah
+319	D1315052	Nuraini Santoso	704012018001691	17-07-2018	selesai	selesai	Sudah
+320	D1315065	Rizky Bayu Aji Pratama	704012018001639	25-07-2018	selesai	selesai	Sudah
+321	D1315068	Rona Dini Prawati	704012018001486	05-07-2018	proses	belum	belum
+322	D1315072	Scholastica Agnesyuvia Pratadina	704012018001462	12-07-2018	proses	belum	belum
+323	D1315073	Siti Choirunnisa	704012018001578	17-07-2018	selesai	selesai	Sudah
+324	D1315075	Tifanny Zahra	704012018001547	26-07-2018	selesai	selesai	Sudah
+325	D1315080	Zakky Tiffani Assyauqi	704012018001615	16-07-2018	selesai	selesai	Sudah
+326	D1415020	Mahmud Sri Ardian Ramadhon	704012018001677	18-07-2018	selesai	selesai	Sudah
+327	D1415022	Muhammad Fathur Razaq	704012018001714	12-07-2018	selesai	selesai	Sudah
+328	D1515057	Lisa Pranaswati	614012018000999	01-08-2018	selesai	selesai	Sudah
+329	D1615013	Cornelius Julian Tri Atmojo	704012018001493	17-07-2018	selesai	selesai	Sudah
+330	D1615019	Ellynda Kusuma Anggraeni	704012018001592	30-07-2018	selesai	selesai	Sudah
+331	D1615029	Ilham Nur Akbar	704012018001448	20-07-2018	selesai	proses	belum
+332	D1615041	Maharani Widhia Pangestika	704012018001585	20-07-2018	selesai	selesai	Sudah
+333	D1615055	Radityo Hendro Prabowo	704012018001509	17-07-2018	selesai	selesai	Sudah
+334	D1615067	Shilvia Arizana Putri	704012018001745	25-07-2018	selesai	selesai	Sudah
+335	D1615074	Tsania Fadhillah	704012018001622	20-07-2018	selesai	selesai	Sudah
+336	D1615076	Yely Dwi Haristyana	704012018001608	30-07-2018	selesai	selesai	Sudah
+337	D1615077	Yeni Fariyanti	704012018001530	20-07-2018	selesai	selesai	Sudah
+338	D1815008	Almas Zain Permata Aji	714012018001049	23-07-2018	selesai	selesai	Sudah
+339	D1815010	Amalia Pramesti Dewi	714012018000844	09-07-2018	selesai	proses	belum
+340	D1815015	Annisa Kurniati	714012018000882	16-07-2018	selesai	selesai	Sudah
+341	D1815016	Annisa Ulfa Zulfiati	714012018001063	31-07-2018	proses	belum	belum
+342	D1815020	Arif Budi Noviyanto	714012018000967	16-07-2018	selesai	proses	belum
+343	D1815024	Aulia Diah Pertiwi	714012018000868	17-07-2018	selesai	proses	belum
+344	D1815026	Ayu Faradina	714012018000929	25-07-2018	proses	belum	belum
+345	D1815034	Cinta Trikasih Dewi Masithoh	714012018001025	06-08-2018	selesai	selesai	Sudah
+346	D1815038	Debby Novita Sari	714012018000981	23-07-2018	selesai	selesai	Sudah
+347	D1815040	Dila Priska Ristiani Lestari	714012018000998	19-07-2018	selesai	selesai	Sudah
+348	D1815042	Dinar Setyo Anggraeni	714012018000974	26-07-2018	proses	belum	belum
+349	D1815048	Erfriyanka Rizqi Safitri	714012018001094	04-07-2018	selesai	selesai	Sudah
+350	D1815058	Fauzia Nurul Fadzilah	714012018000875	09-07-2018	selesai	proses	belum
+351	D1815066	Ilham Bayu Puji Waskitha	714012018001032	25-07-2018	selesai	selesai	Sudah
+352	D1815067	Ira Eriyanti	714012018001117	07-06-2018	selesai	selesai	Sudah
+353	D1815068	Irma Nur Ichsani	714012018001087	06-08-2018	selesai	selesai	Sudah
+354	D1815070	Istrini	714012018001018	17-07-2018	selesai	selesai	Sudah
+355	D1815079	Maudi Putri Rahayu	714012018000943	06-06-2018	selesai	selesai	Sudah
+356	D1815080	Mauli Ataka Adiningsih	714012018000905	18-07-2018	selesai	selesai	Sudah
+357	D1815086	Murtiningrum Candra Dewi	714012018001070	06-08-2018	selesai	selesai	Sudah
+358	D1815087	Mustika Dwi Mardiani	714012018000936	20-07-2018	selesai	selesai	Sudah
+359	D1815094	Nonita Sekar Octafahrezi	714012018000950	16-07-2018	selesai	proses	belum
+360	D1815102	Puspita Dewi	714012018000912	19-07-2018	selesai	selesai	Sudah
+361	D1815104	Putri Rahayuningsih	714012018000851	17-07-2018	selesai	selesai	Sudah
+362	D1815108	Ria Setiaji	714012018001001	23-07-2018	selesai	proses	belum
+363	D1815122	Terapi Puspita Jati	714012018001124	31-07-2018	selesai	selesai	Sudah
+364	D1815125	Tri Yuliana	714012018001056	16-07-2018	selesai	selesai	Sudah
+365	D1815132	Wuri Tri Puspitasari	714012018000899	17-07-2018	selesai	proses	belum
+366	D1815136	Elisa	714012018001100	26-07-2018	selesai	selesai	Sudah
+367	E0011150	Hernawan Satrio Nugroho	742012018003626	31-07-2018	selesai	selesai	Sudah
+368	E0011161	Immaculata Anindya Karisa	742012018003633	31-07-2018	selesai	selesai	Sudah
+369	E0011198	Mohammad Yusuf Adi Lesmana	742012018003473	31-07-2018	selesai	selesai	Sudah
+370	E0011349	Dwi Dimas Aditya Febrianto	742012018003787	31-07-2018	proses	belum	belum
+371	E0013016	Aditya Aryo Nugroho	742012018003640	16-08-2018	selesai	selesai	Sudah
+372	E0013063	Argani Sukoco	742012018003657	27-08-2018	selesai	selesai	Sudah
+373	E0013068	Asawati Nugrahani	742012018003947	31-08-2018	proses	belum	belum
+374	E0013130	Dian Aditya Putri	742012018003794	13-09-2018	selesai	selesai	Sudah
+375	E0013167	Fajar Dwicahyo	742012018003664	18-01-2018	selesai	selesai	Sudah
+376	E0013174	Fauzi Al Hakim	742012018003480	28-06-2018	selesai	selesai	Sudah
+377	E0013208	Hani Puspitaningsih	742012018003954	24-09-2018	proses	belum	belum
+378	E0014015	Al - Arthur Evan Adi Nugraha	742012018003800	30-07-2018	selesai	selesai	Sudah
+379	E0014020	Amanda Athasya	742012018003497	02-08-2018	selesai	selesai	Sudah
+380	E0014036	Anjar Prasetyo	742012018003817	20-09-2018	selesai	selesai	Sudah
+381	E0014045	Arwendra Tri Laksono	742012018003503	14-08-2018	selesai	selesai	Sudah
+382	E0014050	Astrika Puspita Rani	742012018003824	20-09-2018	selesai	selesai	Sudah
+383	E0014055	Avarakha Denny Prasetya	742012018003831	16-08-2018	selesai	selesai	Sudah
+384	E0014058	Azizah Imamatun Nisa	742012018003510	27-07-2018	selesai	selesai	Sudah
+385	E0014061	Bagas Ariyadi Wicaksono	742012018003527	30-07-2018	selesai	selesai	Sudah
+386	E0014062	Bambang Eko Nugroho	742012018003961	24-09-2018	proses	belum	belum
+387	E0014069	Bimo Suryo Wicaksono	742012018003848	27-08-2018	selesai	selesai	Sudah
+388	E0014070	Bandoro Raden Ajeng Lung Ayu	742012018003534	30-07-2018	selesai	selesai	Sudah
+389	E0014075	Caroline Maria Margaretha	742012018003855	24-08-2018	selesai	selesai	Sudah
+390	E0014076	Chartilia Gendis Napinillit	742012018003541	03-08-2018	selesai	selesai	Sudah
+391	E0014077	Cherly Dwi Cahya Herwanto	742012018003558	31-07-2018	selesai	selesai	Sudah
+392	E0014079	Churin Tsuroyya	742012018003671	10-08-2018	selesai	selesai	Sudah
+393	E0014080	Chusnul Pratiwi Putri	742012018003565	10-08-2018	selesai	selesai	Sudah
+394	E0014087	Debora Mona Jovanka Panjaitan	742012018003978	03-09-2018	selesai	selesai	Sudah
+395	E0014107	Dinda Laras Hapsari	742012018003985	25-09-2018	proses	belum	belum
+396	E0014114	Dwiva Amalia Tarvianty	742012018003572	31-07-2018	selesai	selesai	Sudah
+397	E0014118	Earline Gracella Hartono Putri	742012018003992	20-09-2018	proses	belum	belum
+398	E0014131	Erindra Pramesthi	742012018003862	27-08-2018	selesai	selesai	Sudah
+399	E0014137	Evita Ersamayori Ananda	742012018004005	25-09-2018	proses	belum	belum
+400	E0014143	Faishal Zahy Ramadhani	742012018003879	31-08-2018	selesai	selesai	Sudah
+401	E0014150	Farid Zakiy Ramadhan	742012018003589	15-08-2018	selesai	selesai	Sudah
+402	E0014184	Hanik Kumala Lestari	742012018003688	23-08-2018	selesai	selesai	Sudah
+403	E0014195	Ida Ayu Indah Puspitasari	742012018003695	03-09-2018	selesai	selesai	Sudah
+404	E0014201	Ilman Ramadhanu	742012018003756	10-09-2018	selesai	selesai	Sudah
+405	E0014230	Laras Ayu Sahita	742012018003886	14-09-2018	selesai	selesai	Sudah
+406	E0014237	Listya Hira Nindita	742012018003596	31-07-2018	selesai	selesai	Sudah
+407	E0014273	Muhammad Azmi	742012018004012	26-09-2018	proses	belum	belum
+408	E0014286	Nanang Prayoga	742012018003701	27-08-2018	selesai	selesai	Sudah
+409	E0014287	Nanda Bagus Trihatmojo	742012018003763	09-08-2018	selesai	selesai	Sudah
+410	E0014288	Nanda Dwi Haryanto	742012018004029	25-09-2018	proses	belum	belum
+411	E0014295	Natasya Rizki Asti	003/R/UN27.03/S1/2018	27-09-2018	proses	belum	belum
+412	E0014298	Nella Ayu Raninda	742012018004036	24-09-2018	proses	belum	belum
+413	E0014300	Nindia Viva Pramudha W	742012018003718	27-08-2018	selesai	selesai	Sudah
+414	E0014312	Peter Bima Aditya	742012018004043	19-09-2018	proses	belum	belum
+415	E0014315	Prasetyo Adi Nugroho	742012018003725	23-08-2018	proses	belum	belum
+416	E0014339	Rheza Yoga Pratama	742012018003893	16-08-2018	selesai	selesai	Sudah
+417	E0014344	Rio Cahya Nandika	742012018003909	17-09-2018	selesai	selesai	Sudah
+418	E0014347	Ristania Intan Permatasari	742012018004050	20-09-2018	selesai	selesai	Sudah
+419	E0014354	Rizky Di Agustius	742012018003770	29-08-2018	selesai	selesai	Sudah
+420	E0014376	Sharen Peari Carakata	742012018004067	25-09-2018	proses	belum	belum
+421	E0014388	Sulastri	742012018003602	10-08-2018	selesai	selesai	Sudah
+422	E0014393	Sylvester Enricho Mahardika	742012018003916	24-08-2018	selesai	selesai	Sudah
+423	E0014398	Thanisa Shifa Murbarani	742012018003732	23-08-2018	selesai	selesai	Sudah
+424	E0014409	Usep Taryana	742012018003923	30-08-2018	selesai	selesai	Sudah
+425	E0014412	Venia Anggreeni Putri	742012018003930	03-09-2018	selesai	selesai	Sudah
+426	E0014414	Vita Nursantia Putri	742012018003619	25-07-2018	selesai	selesai	Sudah
+427	E0014417	Widiyani Ratna Furi	742012018004074	24-09-2018	selesai	selesai	Sudah
+428	E0014418	Wildan Al Jundy	742012018004081	24-09-2018	selesai	selesai	Sudah
+429	E0014420	Wildanu Syahril Guntur	742012018003749	29-08-2018	selesai	selesai	Sudah
+430	F0111031	Fidi Akbar Kurnia	602012018000680	25-07-2018	proses	belum	belum
+431	F0111057	Nisaa Adlia Adani	602012018000598	25-07-2018	selesai	selesai	Sudah
+432	F0111058	Noviantika Devi Purnamasari	602012018000604	25-07-2018	selesai	selesai	Sudah
+433	F0114002	Ade Putri Nurlaili	602012018000611	25-07-2018	selesai	selesai	Sudah
+434	F0114003	Aditya Muhammad Tisas	602012018000550	27-07-2018	selesai	selesai	Sudah
+435	F0114004	Agung Pria Atmaja	602012018000628	30-07-2018	selesai	selesai	Sudah
+436	F0114005	Agus Susilo	602012018000642	31-07-2018	selesai	selesai	Sudah
+437	F0114012	Ar Rassi	602012018000659	31-07-2018	selesai	selesai	Sudah
+438	F0114013	Ardi Dwi Handono	602012018000567	30-07-2018	selesai	selesai	Sudah
+439	F0114033	Eko Wicaksono Setyo Pambudi	602012018000574	28-07-2018	selesai	selesai	Sudah
+440	F0114036	Elok Fatia Kirana	602012018000543	24-07-2018	selesai	selesai	Sudah
+441	F0114037	Engellita Ekaristy	602012018000512	28-07-2018	selesai	selesai	Sudah
+442	F0114039	Ersha Prayuga	602012018000505	11-07-2018	selesai	selesai	Sudah
+443	F0114042	Fatimah	602012018000581	27-07-2018	selesai	selesai	Sudah
+444	F0114079	Septian Sandre Evanza	602012018000666	27-07-2018	selesai	selesai	Sudah
+445	F0114084	Ulfi Nandya Putri	602012018000499	27-07-2018	selesai	selesai	Sudah
+446	F0114089	Yasinta Arsy Wahyu Putri	602012018000697	31-07-2018	proses	belum	belum
+447	F0114091	Yohanes Dinar Setya Adi	602012018000635	24-07-2018	selesai	selesai	Sudah
+448	F0114092	Yona Joan Febrianto	602012018000529	27-07-2018	selesai	selesai	Sudah
+449	F0114093	Yosia Kristia Nugroho	602012018000536	27-07-2018	selesai	selesai	Sudah
+450	F0114097	Zelika Dewi Fortuna	602012018000673	31-07-2018	selesai	selesai	Sudah
+451	F0211101	Yeyen Rufaidah	612012018000823	24-07-2018	proses	belum	belum
+452	F0213031	Dio Amali Sukma	612012018000618	24-07-2018	selesai	selesai	Sudah
+453	F0213068	Naila Faiza Rahmasita	612012018000748	10-07-2018	selesai	selesai	Sudah
+454	F0213071	Novia Lusiana	612012018000809	30-07-2018	selesai	selesai	Sudah
+455	F0213075	Pradipta Nitiyasa	612012018000861	08-09-2018	selesai	selesai	Sudah
+456	F0213094	Sally Mayasari	612012018000878	30-07-2018	proses	belum	belum
+457	F0214005	Afrizal Andaru Baskoro	612012018000625	25-07-2018	selesai	selesai	Sudah
+458	F0214007	Ahmad Fransetya. A.W.	612012018000632	24-07-2018	selesai	selesai	Sudah
+459	F0214009	Akmal Kurnia	612012018000830	08-09-2018	selesai	selesai	Sudah
+460	F0214014	Andriani Nabila Iswanty	612012018000755	31-07-2018	selesai	selesai	Sudah
+461	F0214017	Ardina Kusumawati	612012018000649	23-07-2018	selesai	selesai	Sudah
+462	F0214023	Aulia Intan Firdausy	612012018000656	27-07-2018	selesai	selesai	Sudah
+463	F0214028	Christiana Catur Retnowati	612012018000885	08-09-2018	selesai	selesai	Sudah
+464	F0214037	Dwi Mandar Saputra	612012018000663	06-07-2018	selesai	selesai	Sudah
+465	F0214042	Esya Achmad Nabila	612012018000670	27-07-2018	selesai	selesai	Sudah
+466	F0214047	Fikri Zakiy	612012018000687	24-07-2018	selesai	selesai	Sudah
+467	F0214050	Gilang Rizki Pratama	612012018000762	30-07-2018	selesai	selesai	Sudah
+468	F0214055	Hafizh Rachman	612012018000847	08-09-2018	selesai	selesai	Sudah
+469	F0214056	Hamid Cahyo Nugroho	612012018000779	31-07-2018	selesai	selesai	Sudah
+470	F0214064	Jeffry Martin Monang	612012018000786	31-07-2018	selesai	selesai	Sudah
+471	F0214066	Kartika Eka Wulandari	612012018000694	24-07-2018	selesai	selesai	Sudah
+472	F0214071	Maradani Budi Nur Salim	612012018000700	30-07-2018	selesai	selesai	Sudah
+473	F0214072	Mar'atus Sholihah	612012018000892	08-09-2018	selesai	selesai	Sudah
+474	F0214076	Muhammad Adytia Nugraha	612012018000717	24-07-2018	selesai	selesai	Sudah
+475	F0214084	Nirantara Rahma Prasetyanti	612012018000793	24-07-2018	selesai	selesai	Sudah
+476	F0214092	Raditya Arief Pradana	612012018000816	23-07-2018	selesai	selesai	Sudah
+477	F0214095	Ratna Dwi Astuti	612012018000724	12-07-2018	selesai	selesai	Sudah
+478	F0214102	Satya Adhie Wibowo	612012018000731	24-07-2018	selesai	selesai	Sudah
+479	F0214108	Uut Ngesti Pratiwi	612012018000854	31-07-2018	proses	belum	belum
+480	F0311053	Feizal Bayu Permana	622012018000424	12-07-2018	selesai	selesai	Sudah
+481	F0311066	Kurniawan Selpa Prasetyo	622012018000653	11-07-2018	selesai	proses	belum
+482	F0312068	Jati Dewandono	622012018000585	25-07-2018	selesai	selesai	Sudah
+483	F0312097	Raditya Yoga Pratama	622012018000363	25-07-2018	selesai	selesai	Sudah
+484	F0313006	Ahmad Shofwan Khusnaini	622012018000592	25-07-2018	selesai	selesai	Sudah
+485	F0313029	Eridani Pangestu	622012018000608	25-07-2018	selesai	selesai	Sudah
+486	F0313031	Faisal Armada Dwi Arumba	622012018000615	25-07-2018	selesai	selesai	Sudah
+487	F0313096	Twefana Apsela. J	622012018000431	25-07-2018	selesai	selesai	Sudah
+488	F0313098	Wafa Nursyahida Royhan	622012018000448	26-07-2018	selesai	selesai	Sudah
+489	F0314002	Ade Veni Agista	622012018000455	25-07-2018	selesai	selesai	Sudah
+490	F0314007	Ainun Hasanah Nugrahani	622012018000462	25-07-2018	proses	belum	belum
+491	F0314008	Aldoansyah Putra Prihandono	622012018000479	25-07-2018	selesai	selesai	Sudah
+492	F0314014	Annisa Noviani	622012018000646	25-07-2018	selesai	selesai	Sudah
+493	F0314016	Astri Nugraheni	622012018000622	11-07-2018	selesai	selesai	Sudah
+494	F0314025	Defa Mega Rauzana	622012018000486	25-07-2018	selesai	selesai	Sudah
+495	F0314026	Dewi Maharani	622012018000370	25-07-2018	selesai	selesai	Sudah
+496	F0314027	Dhyartoma Pandhu Iskandar	622012018000493	25-07-2018	selesai	selesai	Sudah
+497	F0314034	Febiasty Nur Maharani	622012018000509	25-07-2018	selesai	selesai	Sudah
+498	F0314050	Ivo Herliastanti Putri	622012018000516	25-07-2018	selesai	selesai	Sudah
+499	F0314051	Jemima Yassinta	622012018000387	24-07-2018	selesai	selesai	Sudah
+500	F0314065	Muhammad Ridha Ardandi	622012018000523	25-07-2018	selesai	selesai	Sudah
+501	F0314075	Ovi Fujianti	622012018000530	25-07-2018	selesai	selesai	Sudah
+502	F0314076	Paulina Kartika Negara	622012018000547	30-08-2018	selesai	selesai	Sudah
+503	F0314080	Prihatnolo Gandhi Amidjaya	622012018000394	25-07-2018	selesai	selesai	Sudah
+504	F0314086	Rizka Ardiptya Pratama	622012018000554	25-07-2018	selesai	selesai	Sudah
+505	F0314092	Seka Ayu Priastuti	622012018000639	25-07-2018	selesai	selesai	Sudah
+506	F0314095	Shiva Dwikhuza	622012018000400	25-07-2018	selesai	selesai	Sudah
+507	F0314097	Sovia Kusdiana	622012018000417	11-07-2018	selesai	selesai	Sudah
+508	F0314103	Tika Handini	622012018000561	25-07-2018	selesai	selesai	Sudah
+509	F0314104	Tri Fitrianto Suratno	622012018000578	25-07-2018	selesai	selesai	Sudah
+510	F1115038	Wahyu Prasetyo Widodo	078/E/UN27.04/S1/2018	08-06-2018	selesai	selesai	Sudah
+511	F1116004	Aditya Bela Halimawan	070/E/UN27.04/S1/2018	28-07-2018	selesai	selesai	Sudah
+512	F1116005	Agus Tiya Tri Lestari	069/E/UN27.04/S1/2018	28-07-2018	selesai	selesai	Sudah
+513	F1116006	Alvita Nur Azizah	067/E/UN27.04/S1/2018	27-07-2018	selesai	selesai	Sudah
+514	F1116009	Bryan Dhani Pangestu	139/E/UN27.04/S1/2018	31-07-2018	proses	belum	belum
+515	F1116010	Cahyo Sugiyanto	134/E/UN27.04/S1/2018	31-07-2018	selesai	selesai	Sudah
+516	F1116011	Christina Angelina Hartanty	079/E/UN27.04/S1/2018	24-07-2018	selesai	selesai	Sudah
+517	F1116012	Diar Shima Rizuary	141/E/UN27.04/S1/2018	31-07-2018	proses	belum	belum
+518	F1116013	Evin Destyastuti	065/E/UN27.04/S1/2018	27-07-2018	selesai	selesai	Sudah
+519	F1116014	Firman Dwi Wicaksono	072/E/UN27.04/S1/2018	27-07-2018	selesai	selesai	Sudah
+520	F1116016	Ginanjar Rizki Furqoni	077/E/UN27.04/S1/2018	27-07-2018	selesai	selesai	Sudah
+521	F1116017	Hokkie Riffianata	071/E/UN27.04/S1/2018	27-07-2018	selesai	selesai	Sudah
+522	F1116019	Mizan Maulana	135/E/UN27.04/S1/2018	28-07-2018	selesai	selesai	Sudah
+523	F1116023	Nadya Putri Laksita Dewi	140/E/UN27.04/S1/2018	31-07-2018	selesai	selesai	Sudah
+524	F1116025	Novia Sukma Dewi K	136/E/UN27.04/S1/2018	31-07-2018	selesai	selesai	Sudah
+525	F1116026	Riyan Moksa Dewi	074/E/UN27.04/S1/2018	27-07-2018	selesai	selesai	Sudah
+526	F1116029	Sukmawati Putri Oktaviani	066/E/UN27.04/S1/2018	27-07-2018	selesai	selesai	Sudah
+527	F1116031	Teguh Setiawan Pinem	064/E/UN27.04/S1/2018	27-07-2018	selesai	selesai	Sudah
+528	F1116032	Theresia Dian Hapsari	068/E/UN27.04/S1/2018	27-07-2018	selesai	selesai	Sudah
+529	F1116033	Tia Putri Ariyani	138/E/UN27.04/S1/2018	31-07-2018	selesai	selesai	Sudah
+530	F1116035	Umayah	073/E/UN27.04/S1/2018	24-07-2018	selesai	selesai	Sudah
+531	F1116036	Utari Dwi Kusumawati	137/E/UN27.04/S1/2018	31-07-2018	selesai	selesai	Sudah
+532	F1116038	Yeni Oktaveranicha	075/E/UN27.04/S1/2018	25-07-2018	selesai	selesai	Sudah
+533	F1116039	Zulfa Risnawati	076/E/UN27.04/S1/2018	27-07-2018	selesai	selesai	Sudah
+534	F1214027	Dicky Ari Susanto	081/E/UN27.04/S1/2018	31-07-2018	selesai	selesai	Sudah
+535	F1214065	Reynaldi Aziz	127/E/UN27.04/S1/2018	31-07-2018	selesai	selesai	Sudah
+536	F1214076	Wahid Ari Wibowo	080/E/UN27.04/S1/2018	31-07-2018	selesai	selesai	Sudah
+537	F1216007	Akbar Hisbulloh	063/E/UN27.04/S1/2018	25-07-2018	selesai	selesai	Sudah
+538	F1216014	Aqli Fitria Kirana	148/E/UN27.04/S1/2018	08-09-2018	selesai	selesai	Sudah
+539	F1216016	Brillyani Rachmawati	092/E/UN27.04/S1/2018	25-07-2018	selesai	selesai	Sudah
+540	F1216018	Damar Jati Saputro	086/E/UN27.04/S1/2018	26-07-2018	selesai	selesai	Sudah
+541	F1216024	Dodit Hendro Haryono	062/E/UN27.04/S1/2018	30-07-2018	selesai	selesai	Sudah
+542	F1216027	Elga Prima Frida Caressa	087/E/UN27.04/S1/2018	27-07-2018	selesai	selesai	Sudah
+543	F1216028	Erik Saputra	151/E/UN27.04/S1/2018	08-09-2018	selesai	selesai	Sudah
+544	F1216029	Fahreza Ryan Ja'farrudin	085/E/UN27.04/S1/2018	25-07-2018	selesai	selesai	Sudah
+545	F1216030	Fajar Dharmawan Sakti	082/E/UN27.04/S1/2018	30-07-2018	selesai	selesai	Sudah
+546	F1216032	Fatma Firmandari	126/E/UN27.04/S1/2018	31-07-2018	selesai	selesai	Sudah
+547	F1216036	Florentina Tri Maharani	091/E/UN27.04/S1/2018	25-07-2018	selesai	selesai	Sudah
+548	F1216037	Fresha Kurnia Herdianto	128/E/UN27.04/S1/2018	26-07-2018	selesai	selesai	Sudah
+549	F1216040	Heldysia Sulistyangga Ma'unna	090/E/UN27.04/S1/2018	25-07-2018	selesai	selesai	Sudah
+550	F1216054	Putri Sulistioningsih	125/E/UN27.04/S1/2018	25-07-2018	selesai	selesai	Sudah
+551	F1216055	Quria Nur Laily	089/E/UN27.04/S1/2018	25-07-2018	selesai	selesai	Sudah
+552	F1216065	Silfiyaturrifqi	093/E/UN27.04/S1/2018	24-07-2018	selesai	selesai	Sudah
+553	F1216068	Suci Kurniawati	083/E/UN27.04/S1/2018	27-07-2018	selesai	selesai	Sudah
+554	F1216074	Desy Anggreni Br Sembiring	088/E/UN27.04/S1/2018	26-07-2018	selesai	selesai	Sudah
+555	F1216075	Nadia Chandra Dewi Amalia	084/E/UN27.04/S1/2018	24-07-2018	selesai	selesai	Sudah
+556	F1316004	Aditya Anton Atmojo Hadi	109/E/UN27.04/S1/2018	25-07-2018	proses	belum	belum
+557	F1316005	Aditya Budi Hermawan	094/E/UN27.04/S1/2018	25-07-2018	selesai	selesai	Sudah
+558	F1316011	Aisa Nurani Dewi	131/E/UN27.04/S1/2018	25-07-2018	selesai	selesai	Sudah
+559	F1316013	Anisa Lutfia	146/E/UN27.04/S1/2018	25-07-2018	selesai	selesai	Sudah
+560	F1316014	Anisah Raihanah Mazkur	147/E/UN27.04/S1/2018	25-07-2018	selesai	selesai	Sudah
+561	F1316015	Annida'ul Hasanah	133/E/UN27.04/S1/2018	25-07-2018	selesai	selesai	Sudah
+562	F1316019	Ariano	104/E/UN27.04/S1/2018	25-07-2018	proses	belum	belum
+563	F1316020	Arif Munandar	152/E/UN27.04/S1/2018	25-07-2018	selesai	selesai	Sudah
+564	F1316021	Arifin	145/E/UN27.04/S1/2018	25-07-2018	selesai	selesai	Sudah
+565	F1316022	Aulya Dwi Wulandari	108/E/UN27.04/S1/2018	26-07-2018	proses	belum	belum
+566	F1316025	Azizah Nur Fitri Ramadhan	129/E/UN27.04/S1/2018	25-07-2018	selesai	selesai	Sudah
+567	F1316029	Bayu Prihandi Widamasno	150/E/UN27.04/S1/2018	25-07-2018	selesai	selesai	Sudah
+568	F1316031	Bio Audi Hanantio	119/E/UN27.04/S1/2018	25-07-2018	proses	belum	belum
+569	F1316034	Chairini Angraini	097/E/UN27.04/S1/2018	25-07-2018	selesai	selesai	Sudah
+570	F1316036	Dani Bekti Sanjaya	143/E/UN27.04/S1/2018	25-07-2018	selesai	selesai	Sudah
+571	F1316039	Devi Mulia Kumalasari	124/E/UN27.04/S1/2018	25-07-2018	selesai	selesai	Sudah
+572	F1316040	Devit Tenta Pramana	103/E/UN27.04/S1/2018	25-07-2018	proses	belum	belum
+573	F1316041	Dian Fajar Septiana	095/E/UN27.04/S1/2018	25-07-2018	selesai	selesai	Sudah
+574	F1316045	Diyan Wahyuningsih	096/E/UN27.04/S1/2018	24-07-2018	selesai	selesai	Sudah
+575	F1316048	Eligius Berlian Kresna Aji	123/E/UN27.04/S1/2018	25-07-2018	proses	belum	belum
+576	F1316050	Faiz Ridho Darmawan	102/E/UN27.04/S1/2018	25-07-2018	proses	belum	belum
+577	F1316053	Gusti Gilang Ramadhan	105/E/UN27.04/S1/2018	26-07-2018	proses	belum	belum
+578	F1316057	Ika Novitasari	100/E/UN27.04/S1/2018	25-07-2018	proses	belum	belum
+579	F1316060	Indrie Mariana Suharto	106/E/UN27.04/S1/2018	25-07-2018	selesai	selesai	Sudah
+580	F1316063	Irwan Kurnia Rahmadhan	115/E/UN27.04/S1/2018	25-07-2018	selesai	selesai	Sudah
+581	F1316066	Karlina Yuni Nurindah Sari	144/E/UN27.04/S1/2018	25-07-2018	selesai	selesai	Sudah
+582	F1316068	Lela Indria Pratiwi	117/E/UN27.04/S1/2018	25-07-2018	proses	belum	belum
+583	F1316070	Mirza Asep Shena	110/E/UN27.04/S1/2018	25-07-2018	proses	belum	belum
+584	F1316073	Newin Ananta Aji Saputra	101/E/UN27.04/S1/2018	25-07-2018	selesai	selesai	Sudah
+585	F1316079	Rachmad Sandi Andriyanto	149/E/UN27.04/S1/2018	25-07-2018	selesai	selesai	Sudah
+586	F1316082	Rani Rahadina	113/E/UN27.04/S1/2018	25-07-2018	selesai	selesai	Sudah
+587	F1316083	Ratih Dwita Pramesti	107/E/UN27.04/S1/2018	25-07-2018	selesai	selesai	Sudah
+588	F1316086	Rifana Ayuningtyas	121/E/UN27.04/S1/2018	25-07-2018	proses	belum	belum
+589	F1316087	Risty Dian Anggraeni	112/E/UN27.04/S1/2018	25-07-2018	selesai	selesai	Sudah
+590	F1316089	Rohmawan Setiya Budi	142/E/UN27.04/S1/2018	25-07-2018	selesai	selesai	Sudah
+591	F1316091	Samsul Arifin	111/E/UN27.04/S1/2018	25-07-2018	proses	belum	belum
+592	F1316093	Sena Satria Mustika	098/E/UN27.04/S1/2018	25-07-2018	proses	belum	belum
+593	F1316094	Shafa Febriliana Wahyu Ramadhani	153/E/UN27.04/S1/2018	25-07-2018	selesai	selesai	Sudah
+594	F1316096	Shofiah Wartika Hutasuhut	130/E/UN27.04/S1/2018	25-07-2018	proses	belum	belum
+595	F1316097	Sri Kayatri	132/E/UN27.04/S1/2018	25-07-2018	selesai	selesai	Sudah
+596	F1316098	Sukma Putri Ayunani	099/E/UN27.04/S1/2018	25-07-2018	proses	belum	belum
+597	F1316100	Tya Sarinastiti	114/E/UN27.04/S1/2018	25-07-2018	selesai	selesai	Sudah
+598	F1316104	Wirda Paulus	118/E/UN27.04/S1/2018	25-07-2018	proses	belum	belum
+599	F1316106	Yoga Parasdya	120/E/UN27.04/S1/2018	25-07-2018	proses	belum	belum
+600	F1316108	Yose Rizal	122/E/UN27.04/S1/2018	25-07-2018	proses	belum	belum
+601	F1316111	Rahendra Satria Jati	116/E/UN27.04/S1/2018	25-07-2018	proses	belum	belum
+602	F3115052	Rajendra Rafif Chakaputra	614022018000578	24-07-2018	selesai	selesai	Sudah
+603	F3214005	Anggoro Sidiq Pambudi	482/R/UN27.04/D3/2017	25-07-2017	selesai	selesai	Sudah
+604	F3214016	Eka Andika	614042018000385	16-07-2018	selesai	selesai	Sudah
+605	F3215005	Ahsani Taqwim	614042018000415	02-07-2018	selesai	selesai	Sudah
+606	F3215007	Andhika Yudha Pratama	614042018000323	04-07-2018	selesai	selesai	Sudah
+607	F3215014	Bambang Dwi Sumarta	614042018000378	16-07-2018	selesai	selesai	Sudah
+608	F3215022	Fridha Nirmala Prakoso	614042018000408	14-07-2018	selesai	selesai	Sudah
+609	F3215023	Ghufron Prasetyo Utomo	614042018000453	27-07-2018	proses	belum	belum
+610	F3215027	Irfan Nur Rosyad	614042018000354	12-07-2018	selesai	selesai	Sudah
+611	F3215030	Jessy Wahyuratrio	614042018000361	28-07-2018	selesai	selesai	Sudah
+612	F3215032	Khahardian Bagaskara	614042018000446	20-07-2018	selesai	selesai	Sudah
+613	F3215035	Latifah Rizki Ramadhana	614042018000347	10-07-2018	selesai	selesai	Sudah
+614	F3215039	Muhamad Fajar Sidik	614042018000392	16-07-2018	selesai	selesai	Sudah
+615	F3215040	Muhammad Fauzi Rifai	614042018000422	02-08-2018	selesai	selesai	Sudah
+616	F3215044	Novianta Fredi Utama	614042018000309	28-06-2018	selesai	selesai	Sudah
+617	F3215048	Putro Wahyu Romadon	614042018000330	16-07-2018	selesai	selesai	Sudah
+618	F3215049	Raymond Eldesca Allen Timoty	614042018000439	20-07-2018	proses	belum	belum
+619	F3215050	Resha Arrigo Rivaldi	614042018000477	27-07-2018	selesai	selesai	Sudah
+620	F3215058	Stevanie Devinta Berliana	614042018000460	10-07-2018	proses	belum	belum
+621	F3215060	Theo Adinata	614042018000316	20-07-2018	selesai	selesai	Sudah
+622	F3315034	Hermawan Wibaskoro	005/R/UN27.04/D3/2018	16-07-2018	selesai	selesai	Sudah
+623	F3315051	Pawestri Ayu Kinasih	624012018000477	17-07-2018	selesai	selesai	Sudah
+624	F3415011	Bachtiar Wahyu Pamungkas	624022018000636	14-07-2018	selesai	selesai	Sudah
+625	F3415016	Dani Juni Purnama	624022018000612	18-07-2018	selesai	selesai	Sudah
+626	F3415018	David Yogi Permadi	624022018000667	14-07-2018	selesai	selesai	Sudah
+627	F3415024	Dyah Sekar Mustika	004/R/UN27.04/D3/2018	19-07-2018	selesai	selesai	Sudah
+628	F3415028	Erwino Aditya Caruatama	624022018000629	21-07-2018	selesai	selesai	Sudah
+629	F3415068	Sufyan Hanif Abyan	624022018000674	10-07-2018	selesai	selesai	Sudah
+630	F3415069	Tieyan Permana	624022018000681	18-07-2018	selesai	selesai	Sudah
+631	F3415070	Valent Prasadhana Tahta Respati	624022018000643	14-07-2018	selesai	selesai	Sudah
+632	F3415074	Wiyaka Dewangga Andaru	624022018000698	18-07-2018	selesai	selesai	Sudah
+633	F3415075	Yoga Hermawan Putra	624022018000650	14-07-2018	selesai	selesai	Sudah
+634	F3515003	Aditya Singgih Wahyu Putra	614052018000452	18-07-2018	selesai	selesai	Sudah
+635	F3515032	Fitria Nurul Virnanda	614052018000483	11-07-2018	selesai	selesai	Sudah
+636	F3515041	Lathifah Muhdiana	614052018000506	20-07-2018	proses	belum	belum
+637	F3515056	Rahmi Safitri	614052018000490	30-07-2018	proses	belum	belum
+638	F3515060	Tri Iksan	614052018000469	30-07-2018	selesai	selesai	Sudah
+639	F3515070	Amira Azahro	614052018000476	20-07-2018	selesai	selesai	Sudah
+640	F3615003	Abimanyu Bayu Adhi	614062018000581	30-07-2018	selesai	selesai	Sudah
+641	F3615022	Dinno Faza Alamsyah	614062018000512	24-07-2018	selesai	selesai	Sudah
+642	F3615023	Dionisius Satrio Utomo	614062018000598	24-07-2018	selesai	selesai	Sudah
+643	F3615032	Fitri Arum Sulistiyowati	614062018000567	30-07-2018	selesai	selesai	Sudah
+644	F3615033	Gesang Aji Prabowo	614062018000529	05-06-2018	selesai	selesai	Sudah
+645	F3615037	Ilham Nur Setiawan	614062018000550	24-07-2018	selesai	selesai	Sudah
+646	F3615042	Kiki Fajar Safitri	614062018000604	10-07-2018	selesai	selesai	Sudah
+647	F3615051	Muhammad Rinto Suryo K	614062018000536	10-07-2018	selesai	selesai	Sudah
+648	F3615055	Ratna Dewi Murtiana	614062018000543	24-07-2018	selesai	selesai	Sudah
+649	F3615058	Restu Muhammad Ridwan	614062018000574	24-07-2018	selesai	selesai	Sudah
+650	G0011044	Aulia Khoirunnisa	112012018002266	21-06-2018	selesai	selesai	Sudah
+651	G0011130	Maestro Rahmandika	112012018002242	06-06-2018	selesai	selesai	Sudah
+652	G0014124	Iqbal Rafsanzani	112012018002273	25-05-2018	selesai	selesai	Sudah
+653	G0014238	Widha Musthika Pralampitaningsih	112012018002259	19-01-2018	selesai	selesai	Sudah
+654	G0112017	Anny Ihsaniati	732012018000567	03-07-2018	selesai	selesai	Sudah
+655	G0112034	Dina Oktavia Utami	732012018000628	25-05-2018	selesai	selesai	Sudah
+656	G0112040	Fattiya Hanif Mabruroh	732012018000611	25-06-2018	selesai	selesai	Sudah
+657	G0112063	Minjarwati	732012018000598	31-05-2018	selesai	selesai	Sudah
+658	G0112088	Teraika Sri Sulastri	732012018000604	04-07-2018	selesai	selesai	Sudah
+659	G0113003	Ahmad Syamil Fiddin	732012018000536	26-06-2018	selesai	selesai	Sudah
+660	G0113019	Arvany Ulva Badjeber	732012018000444	31-07-2018	proses	belum	belum
+661	G0113024	Bunga Trysha Nurtanti	732012018000413	25-07-2018	selesai	selesai	Sudah
+662	G0113037	Ekshalanty Permata	732012018000529	09-08-2018	selesai	selesai	Sudah
+663	G0113062	Marcia Ariessa	732012018000383	18-07-2018	selesai	selesai	Sudah
+664	G0113073	Nabila Sofiana Abadi	732012018000451	25-07-2018	selesai	selesai	Sudah
+665	G0113079	Orisa Widya Iswara	732012018000376	23-07-2018	proses	belum	belum
+666	G0113089	Rizka Sabrina Putri	732012018000390	04-07-2018	proses	belum	belum
+667	G0113094	Soffa Mar'ah Azizah	732012018000475	02-08-2018	proses	belum	belum
+668	G0114006	Ainun Nisa' Khusni Dewi	732012018000468	11-07-2018	selesai	selesai	Sudah
+669	G0114012	An-Nisa Nur'aini	732012018000543	06-09-2018	selesai	selesai	Sudah
+670	G0114013	Anastria Rafitaka	732012018000369	18-07-2018	proses	belum	belum
+671	G0114016	Angela Irena Sindoro Dahzuki	732012018000550	21-08-2018	selesai	selesai	Sudah
+672	G0114021	Anjini Sutampi	732012018000352	06-08-2018	proses	belum	belum
+673	G0114037	Ega Arini Perwitosari	732012018000420	10-07-2018	proses	belum	belum
+674	G0114040	Fadhilah Zahra Alhadar	732012018000512	09-08-2018	selesai	selesai	Sudah
+675	G0114056	Ika Puspitasari	732012018000406	10-08-2018	proses	belum	belum
+676	G0114081	Rekxy Rakawicaka WD	732012018000482	16-08-2018	selesai	selesai	Sudah
+677	G0114083	Rifka Fadhiilah Arjuni	732012018000499	07-08-2018	proses	belum	belum
+678	G0114094	Sistho Bisatyo	732012018000505	04-09-2018	selesai	selesai	Sudah
+679	G0114099	Tia Annisa Putri	732012018000574	02-08-2018	selesai	selesai	Sudah
+680	G0114101	Tsoraya Dina Taufiq	732012018000437	16-08-2018	selesai	selesai	Sudah
+681	G0114104	Wisnu Prabowo	732012018000581	09-08-2018	selesai	selesai	Sudah
+682	H0213007	Arikhna Rizqiyana	542942018000160	31-07-2018	selesai	selesai	Sudah
+683	H0213026	Nabilah Hanifah	542942018000146	26-07-2018	selesai	selesai	Sudah
+684	H0214026	Leni Puspita Sari	542942018000122	25-07-2018	selesai	selesai	Sudah
+685	H0214033	Puspa Rani Henlinda	542942018000153	31-07-2018	selesai	selesai	Sudah
+686	H0214034	Rachma Ulfa Arini	003/R/UN27.07/S1/2018	30-08-2018	selesai	selesai	Sudah
+687	H0214037	Selly Maisyarah	542942018000139	31-07-2018	selesai	selesai	Sudah
+688	H0214043	Wahyu Suprihatin	542942018000115	26-07-2018	selesai	selesai	Sudah
+689	H0214045	Wily Binafsihi	542942018000108	27-07-2018	selesai	selesai	Sudah
+690	H0413001	Amir Fawas Saputro	542032018000168	31-07-2018	selesai	selesai	Sudah
+691	H0414012	Canggih Rizki Nugroho	010/R/UN27.07/S1/2018	18-09-2018	selesai	selesai	Sudah
+692	H0414022	Iin Mutea Indriyani	008/R/UN27.07/S1/2018	14-09-2018	selesai	selesai	Sudah
+693	H0414029	Mery Galih Pangestuti	011/R/UN27.07/S1/2018	20-09-2018	selesai	selesai	Sudah
+694	H0414036	Ratih Rahmawati	009/R/UN27.07/S1/2018	25-07-2018	selesai	selesai	Sudah
+695	H0414041	Selamet Eko Edy Saputro	542032018000151	26-07-2018	selesai	selesai	Sudah
+696	H0511031	Gurellet Sandy Perdana	542312018000468	07-06-2018	selesai	selesai	Sudah
+697	H0512018	Annisa' Ulfa Azzahra	542312018000666	02-07-2018	selesai	selesai	Sudah
+698	H0512088	Nurdin Hidayatulloh	542312018000604	29-06-2018	selesai	selesai	Sudah
+699	H0513066	Handaru Muhamad Fajar	542312018000543	17-05-2018	selesai	selesai	Sudah
+700	H0513091	Muhammad Mochtar Riady	002/R/UN27.07/S1/2018	25-05-2018	selesai	selesai	Sudah
+701	H0514001	Abubakar Bin Anis Abubakar Assegaff	542312018000239	09-05-2018	selesai	selesai	Sudah
+702	H0514005	Ahmad Masykur	542312018000482	26-07-2018	selesai	selesai	Sudah
+703	H0514006	Aisyah Amini	542312018000505	26-07-2018	selesai	selesai	Sudah
+704	H0514009	Alfrida Rohana	542312018000581	31-07-2018	selesai	selesai	Sudah
+705	H0514011	Alifta Ayuningtyastuti	542312018000628	31-07-2018	selesai	selesai	Sudah
+706	H0514013	Anisa Kartika Sari	542312018000567	30-07-2018	selesai	selesai	Sudah
+707	H0514014	Annisa Fatmasari	542312018000659	31-07-2018	selesai	selesai	Sudah
+708	H0514023	Binti Widyaningrum	542312018000536	30-07-2018	selesai	selesai	Sudah
+709	H0514032	Eli Purwanti	542312018000642	24-07-2018	selesai	selesai	Sudah
+710	H0514037	Feryandi Wisnu	542312018000475	24-07-2018	selesai	selesai	Sudah
+711	H0514041	Gisela Elsa Revitania	542312018000444	20-07-2018	selesai	selesai	Sudah
+712	H0514054	Joko Giyono	542312018000437	31-07-2018	selesai	selesai	Sudah
+713	H0514056	Lilis Dwi Nur Khasanah	542312018000420	26-07-2018	selesai	selesai	Sudah
+714	H0514057	Maftuh Rifqi Fauzi	542312018000529	27-07-2018	selesai	selesai	Sudah
+715	H0514059	Maria Veronika	542312018000550	23-07-2018	selesai	selesai	Sudah
+716	H0514063	Muhamad Nur Syidiq	542312018000499	31-07-2018	selesai	selesai	Sudah
+717	H0514071	Nike Astindra Putri	542312018000598	26-07-2018	selesai	selesai	Sudah
+718	H0514072	Niken Permatasari	542312018000451	23-07-2018	selesai	selesai	Sudah
+719	H0514074	Nur Aini Dyah Fauziah	542312018000635	17-07-2018	selesai	selesai	Sudah
+720	H0514076	Nurul Khotimah	542312018000512	25-07-2018	selesai	selesai	Sudah
+721	H0514077	Olivia Nadiasari	542312018000611	31-07-2018	selesai	selesai	Sudah
+722	H0514079	Putri Purba Yunendra	542312018000574	31-07-2018	selesai	selesai	Sudah
+723	H0514087	Septi Handayani	542312018000413	11-07-2018	selesai	selesai	Sudah
+724	H0711092	Robi Abraham	542112018000662	25-07-2018	selesai	selesai	Sudah
+725	H0712094	Herjuna Praba Wiesesa	542112018000785	23-07-2018	selesai	selesai	Sudah
+726	H0713043	Daru Nurdianna	542112018000822	30-05-2018	selesai	selesai	Sudah
+727	H0713055	Diyahayu Putri Damayanti	542112018000648	26-07-2018	selesai	selesai	Sudah
+728	H0714006	Alfi Berlina Aji	542112018000877	30-07-2018	selesai	selesai	Sudah
+729	H0714008	Anni'matul Wahidah Alkhoiriyah	542112018000563	25-07-2018	selesai	selesai	Sudah
+730	H0714011	Ariwati Trisiwi Marhaeni	542112018000600	25-07-2018	selesai	selesai	Sudah
+731	H0714014	Aufa Aulia Sumarno	542112018000587	25-07-2018	selesai	selesai	Sudah
+732	H0714016	Ayu Proboningrum	542112018000631	27-07-2018	selesai	selesai	Sudah
+733	H0714019	Bintoro Rizqon Saputro	542112018000792	17-07-2018	selesai	selesai	Sudah
+734	H0714038	Eka Yunita Fadillah	542112018000617	27-07-2018	selesai	selesai	Sudah
+735	H0714039	Elisa Nofa Anggraini	542112018000570	23-07-2018	selesai	selesai	Sudah
+736	H0714046	Fatmawati	542112018000747	26-07-2018	selesai	selesai	Sudah
+737	H0714047	Febrina Rahmadhani Aryaning Saputri	542112018000778	24-07-2018	selesai	selesai	Sudah
+738	H0714049	Fita Ratnasari	542112018000761	17-07-2018	selesai	selesai	Sudah
+739	H0714050	Fitriana Romdhati	542112018000846	26-07-2018	selesai	selesai	Sudah
+740	H0714054	Hanida Robbani	542112018000655	31-07-2018	selesai	selesai	Sudah
+741	H0714061	Heni Hidayati	542112018000709	31-07-2018	selesai	selesai	Sudah
+742	H0714069	Irawati	542112018000853	30-07-2018	selesai	selesai	Sudah
+743	H0714072	Isnaini	542112018000860	26-07-2018	selesai	selesai	Sudah
+744	H0714074	Ita Utami	542112018000693	31-07-2018	selesai	selesai	Sudah
+745	H0714079	Khusnul Isnawati	542112018000686	26-07-2018	selesai	selesai	Sudah
+746	H0714083	Laila Nikmatus Sa'diyah	542112018000815	23-07-2018	selesai	selesai	Sudah
+747	H0714091	Muhammad Aziz Saifuddin	542112018000716	25-07-2018	selesai	selesai	Sudah
+748	H0714100	Mutiara Ferisia Saweho	004/R/UN27.07/S1/2018	17-09-2018	selesai	selesai	Sudah
+749	H0714107	Nur Raisa Amalina	542112018000730	25-07-2018	selesai	selesai	Sudah
+750	H0714112	Puspita Melati Subiarto	542112018000624	31-07-2018	selesai	selesai	Sudah
+751	H0714118	Retno Nur Wijayanti	542112018000723	25-07-2018	selesai	selesai	Sudah
+752	H0714121	Rika Ariyanti	542112018000679	31-07-2018	selesai	selesai	Sudah
+753	H0714132	Shelina Elsha Primanita	542112018000884	21-08-2018	selesai	selesai	Sudah
+754	H0714135	Siti Mumfaridah	542112018000839	31-07-2018	selesai	selesai	Sudah
+755	H0714140	Triyas Vinandita	006/R/UN27.07/S1/2018	31-07-2018	selesai	selesai	Sudah
+756	H0714142	Ulfiana Mahira Rahma Utama	542112018000808	25-07-2018	selesai	selesai	Sudah
+757	H0714146	Wahdah Nur Septyaningsih	005/R/UN27.07/S1/2018	13-08-2018	selesai	selesai	Sudah
+758	H0714157	Yuanita Wahyu Hapsari	542112018000594	27-07-2018	selesai	selesai	Sudah
+759	H0714163	Zulfa Nahdhiana	542112018000754	25-07-2018	selesai	selesai	Sudah
+760	H0812021	Asa Datu Niwanda	007/R/UN27.07/S1/2018	26-07-2018	selesai	selesai	Sudah
+761	H0813012	Angga Ashari Styawan	542012018000818	25-05-2018	selesai	selesai	Sudah
+762	H0814010	Annisa Rizky Wardani	542012018000764	25-07-2018	selesai	selesai	Sudah
+763	H0814031	Dewi Kusumaningsih	542012018000788	24-07-2018	selesai	selesai	Sudah
+764	H0814032	Dewi Yulianti	542012018000856	19-07-2018	selesai	selesai	Sudah
+765	H0814036	Diyah Dwi Mulatsih	542012018000887	31-07-2018	selesai	selesai	Sudah
+766	H0814040	Eka Mirna Nur Islami	542012018000740	24-07-2018	selesai	selesai	Sudah
+767	H0814045	Fatihatul Rizqiyah	542012018000801	19-07-2018	selesai	selesai	Sudah
+768	H0814050	Firda Nur Fitriana	542012018000757	24-07-2018	selesai	selesai	Sudah
+769	H0814051	Fitri Sari	542012018000931	27-07-2018	selesai	selesai	Sudah
+770	H0814062	Kandida Kefani Eganingtyas	542012018000863	31-07-2018	selesai	selesai	Sudah
+771	H0814078	Mita Fatimah	542012018000924	27-07-2018	selesai	selesai	Sudah
+772	H0814084	Mutia Nailil Muna	542012018000948	23-07-2018	selesai	selesai	Sudah
+773	H0814085	Nadya Erba Widyastuti	542012018000870	27-07-2018	selesai	selesai	Sudah
+774	H0814086	Nanda Putri Perdana	542012018000832	26-07-2018	selesai	selesai	Sudah
+775	H0814089	Nida Mufidah Anggraini	542012018000917	30-07-2018	selesai	selesai	Sudah
+776	H0814091	Nina Nur Annisha	542012018000849	27-07-2018	selesai	selesai	Sudah
+777	H0814097	Nurul Afifah	542012018000962	30-07-2018	selesai	selesai	Sudah
+778	H0814106	R Aj. Tysa Kusumowardhani	542012018000771	25-07-2018	selesai	selesai	Sudah
+779	H0814112	Ria Dwi Malinda Sari	542012018000955	26-07-2018	selesai	selesai	Sudah
+780	H0814114	Rika Suryani Carakaningtyas	542012018000825	31-07-2018	selesai	selesai	Sudah
+781	H0814122	Rizky Bopila Lalihatu	542012018000894	24-07-2018	selesai	selesai	Sudah
+782	H0814138	Weny Ardina	542012018000795	31-07-2018	selesai	selesai	Sudah
+783	H0814143	Zaky Zhilalan Fulki	542012018000900	27-07-2018	selesai	selesai	Sudah
+784	H0913025	Difani Afrila Andiani	412312018000314	05-06-2018	selesai	selesai	Sudah
+785	H0913055	Mifta Riandini	412312018000468	31-07-2018	selesai	selesai	Sudah
+786	H0913065	Nindya Kirana Dania	412312018000345	16-07-2018	selesai	selesai	Sudah
+787	H0913112	Maria Christia Yossy Alvianita	412312018000352	30-07-2018	selesai	selesai	Sudah
+788	H0914009	Aziz Ilham Muftiansyah	412312018000451	31-07-2018	selesai	selesai	Sudah
+789	H0914022	Dewi Aprilia Srirosa	412312018000321	25-07-2018	selesai	selesai	Sudah
+790	H0914024	Dissa Donyta Novdella Sonya	412312018000444	26-07-2018	selesai	selesai	Sudah
+791	H0914025	Dwi Rustanto	412312018000413	26-07-2018	selesai	selesai	Sudah
+792	H0914027	Dzihni Nur Shabrina	412312018000338	27-07-2018	selesai	selesai	Sudah
+793	H0914038	Heni Novitasari	412312018000406	31-07-2018	selesai	selesai	Sudah
+794	H0914047	Kartika Nor Aini	412312018000369	20-07-2018	selesai	selesai	Sudah
+795	H0914048	Kezia Carolina Hapsari	012/R/UN27.07/S1/2018	26-07-2018	selesai	selesai	Sudah
+796	H0914055	Lusiana Pusparani	412312018000307	23-07-2018	selesai	selesai	Sudah
+797	H0914059	Melinda Elvira Wulandhari	412312018000390	23-07-2018	selesai	selesai	Sudah
+798	H0914076	Rian Anderson Manafe	412312018000383	25-07-2018	selesai	selesai	Sudah
+799	H0914081	Rizkina Lestari Utami Puteri	412312018000437	31-07-2018	selesai	selesai	Sudah
+800	H0914083	Rozalia Yossi Kurniasari	412312018000420	31-07-2018	selesai	selesai	Sudah
+801	H0914085	Siti Rahma Hamidah	412312018000376	26-07-2018	selesai	selesai	Sudah
+802	H1815023	Panji Mamenang Swanto B.	017/E/UN27.07/S1/2018	21-06-2018	selesai	selesai	Sudah
+803	H1916004	Danang Dwi Eristanto	015/E/UN27.07/S1/2018	16-07-2018	selesai	selesai	Sudah
+804	H1916007	Fadlilah Arrosyid	016/E/UN27.07/S1/2018	18-07-2018	selesai	selesai	Sudah
+805	H1916011	Junjung Agung Kurniawan	019/E/UN27.07/S1/2018	27-07-2018	selesai	selesai	Sudah
+806	H1916014	Linda Cahya Nugraheni	020/E/UN27.07/S1/2018	30-07-2018	selesai	selesai	Sudah
+807	H1916018	Moh. Luthfi Imawan	018/E/UN27.07/S1/2018	30-07-2018	selesai	selesai	Sudah
+808	H1916022	Rufik Dwi Kurniawati	021/E/UN27.07/S1/2018	30-07-2018	selesai	selesai	Sudah
+809	H3114046	Isti Windawati	219/R/UN27.07/D3/2017	25-07-2017	selesai	selesai	Sudah
+810	H3115001	Ageng Dwi Luthfi	057/R/UN27.07/D3/2018	20-09-2018	selesai	selesai	Sudah
+811	H3115002	Ahdiana Ika Ariyanti	032/R/UN27.07/D3/2018	19-07-2018	selesai	selesai	Sudah
+812	H3115007	Ana Sholihati	033/R/UN27.07/D3/2018	18-07-2018	selesai	selesai	Sudah
+813	H3115008	Anan Setia Aji Nugraha	051/R/UN27.07/D3/2018	25-07-2018	selesai	selesai	Sudah
+814	H3115009	Anggarani Nur Fadhillah	036/R/UN27.07/D3/2018	17-07-2018	selesai	selesai	Sudah
+815	H3115010	Annisa Woro Hapsari	042/R/UN27.07/D3/2018	31-07-2018	selesai	selesai	Sudah
+816	H3115014	Bareta Agdia Pury Artha	031/R/UN27.07/D3/2018	17-07-2018	selesai	selesai	Sudah
+817	H3115015	Berliyana Oktafiyani	037/R/UN27.07/D3/2018	04-06-2018	selesai	selesai	Sudah
+818	H3115016	Binar Antares Susilo	047/R/UN27.07/D3/2018	25-07-2018	selesai	selesai	Sudah
+819	H3115019	Debie Sekar Sari Wibisono	029/R/UN27.07/D3/2018	20-07-2018	selesai	selesai	Sudah
+820	H3115020	Destia Widyat Ningrum	034/R/UN27.07/D3/2018	17-07-2018	selesai	selesai	Sudah
+821	H3115022	Dian Siti Rukmana	027/R/UN27.07/D3/2018	26-07-2018	selesai	selesai	Sudah
+822	H3115027	Endah Putri Ani	049/R/UN27.07/D3/2018	17-07-2018	selesai	selesai	Sudah
+823	H3115031	Fitri Setyorini	046/R/UN27.07/D3/2018	31-07-2018	selesai	selesai	Sudah
+824	H3115032	Hafshah Anwari	035/R/UN27.07/D3/2018	23-07-2018	selesai	selesai	Sudah
+825	H3115033	Hana Puspita	041/R/UN27.07/D3/2018	18-07-2018	selesai	selesai	Sudah
+826	H3115036	Hida Arum Sakura	030/R/UN27.07/D3/2018	12-07-2018	selesai	selesai	Sudah
+827	H3115037	Ilham Mahfudin	028/R/UN27.07/D3/2018	18-07-2018	selesai	selesai	Sudah
+828	H3115044	Mediana Mey Nilasari	052/R/UN27.07/D3/2018	04-07-2018	selesai	selesai	Sudah
+829	H3115050	Noor Arifah Ratnaningtyas	038/R/UN27.07/D3/2018	20-07-2018	selesai	selesai	Sudah
+830	H3115051	Nur Ida Handayani	039/R/UN27.07/D3/2018	27-07-2018	selesai	selesai	Sudah
+831	H3115055	Primadea Sediani. F	053/R/UN27.07/D3/2018	23-07-2018	selesai	selesai	Sudah
+832	H3115058	Rahmitha Devi Martha	048/R/UN27.07/D3/2018	27-07-2018	selesai	selesai	Sudah
+833	H3115059	Retno Kusuma Anjarwati	050/R/UN27.07/D3/2018	31-07-2018	selesai	selesai	Sudah
+834	H3115061	Rizka Rahmah	044/R/UN27.07/D3/2018	26-07-2018	selesai	selesai	Sudah
+835	H3115064	Salsabila Fatin	043/R/UN27.07/D3/2018	30-07-2018	selesai	selesai	Sudah
+836	H3115069	Sri Wahyuni	054/R/UN27.07/D3/2018	31-07-2018	selesai	selesai	Sudah
+837	H3115070	Veshtia Prihastuti Damara	045/R/UN27.07/D3/2018	11-07-2018	selesai	selesai	Sudah
+838	H3115072	Yana Bekti Palupi	040/R/UN27.07/D3/2018	19-07-2018	selesai	selesai	Sudah
+839	H3115073	Yassinta Arnanda Ilene Putri	055/R/UN27.07/D3/2018	31-07-2018	selesai	selesai	Sudah
+840	H3314024	Ikrimah Eko Wahyu Kuncoro	544012018000441	26-07-2018	selesai	selesai	Sudah
+841	H3315003	Aprodita Rachmawati	544012018000748	17-07-2018	selesai	selesai	Sudah
+842	H3315004	Beby Anobaya Putri Modra	544012018000809	24-07-2018	selesai	selesai	Sudah
+843	H3315006	Diana Nur Hafifah	544012018000953	31-07-2018	selesai	selesai	Sudah
+844	H3315008	Dinar Kusumo Putri	544012018000557	16-07-2018	selesai	selesai	Sudah
+845	H3315009	Duria Istiqomah	544012018000915	31-07-2018	selesai	selesai	Sudah
+846	H3315011	Fandy Syaifudin Zuhri	544012018001004	31-07-2018	selesai	selesai	Sudah
+847	H3315016	Ganis Avinda	544012018000847	04-06-2018	selesai	selesai	Sudah
+848	H3315017	Gerry Aditiya	544012018000779	25-07-2018	selesai	selesai	Sudah
+849	H3315021	Indah Prasetyo Rini	544012018000595	31-07-2018	selesai	selesai	Sudah
+850	H3315023	Kartika Astri Nur Eprilia	544012018000632	16-07-2018	selesai	selesai	Sudah
+851	H3315024	Laras Alviana Devi	544012018000700	26-07-2018	selesai	selesai	Sudah
+852	H3315026	Muchammad Gigih Saputra	544012018000908	31-07-2018	selesai	selesai	Sudah
+853	H3315027	Mustofa Nur Pamungkas	544012018000861	31-07-2018	selesai	selesai	Sudah
+854	H3315028	Naufal Pradestrianto	544012018001011	31-07-2018	selesai	selesai	Sudah
+855	H3315030	Pemilita Meikusumawardani	544012018000618	26-07-2018	selesai	selesai	Sudah
+856	H3315031	R. Anugrah Perdana Dinasti W	544012018000885	31-07-2018	selesai	selesai	Sudah
+857	H3315033	Richa Marvi Della Sari	544012018000694	27-07-2018	selesai	selesai	Sudah
+858	H3315034	Rinda Ade Marzuki	544012018000823	27-07-2018	selesai	selesai	Sudah
+859	H3315038	Sinthia Amanda	544012018001035	23-07-2018	selesai	selesai	Sudah
+860	H3315039	Thessia Avio Sita	544012018000717	30-07-2018	selesai	selesai	Sudah
+861	H3315040	Tinon Yudiana	544012018000588	26-07-2018	selesai	selesai	Sudah
+862	H3315042	Wahyu Arif Munandar	544012018000519	18-07-2018	selesai	selesai	Sudah
+863	H3315044	Yesika Paramita Dewi	544012018000564	09-07-2018	selesai	selesai	Sudah
+864	H3315046	Yuslifar Arvis	544012018000656	30-07-2018	selesai	selesai	Sudah
+865	H3315047	Zuriatin Azizah	544012018000489	20-07-2018	selesai	selesai	Sudah
+866	H3415002	Abdussalam Hidayat	544012018000670	16-07-2018	selesai	selesai	Sudah
+867	H3415008	Anggita Vicky Primadani	544012018000816	26-07-2018	selesai	selesai	Sudah
+868	H3415012	Bayu Saputro	544012018000663	26-07-2018	selesai	selesai	Sudah
+869	H3415013	Clara Shinta Widayana	544012018000854	27-07-2018	selesai	selesai	Sudah
+870	H3415014	Dani Hendra Wirawan	544012018000571	27-07-2018	selesai	selesai	Sudah
+871	H3415016	Daryl Fauza Kurniatama	544012018000731	23-07-2018	selesai	selesai	Sudah
+872	H3415018	Dwi Pramono	544012018000526	12-07-2018	selesai	selesai	Sudah
+873	H3415019	Dwi Sri Lestari	544012018000434	18-07-2018	selesai	selesai	Sudah
+874	H3415020	Efi Tri Wahyuni	544012018000830	24-07-2018	selesai	selesai	Sudah
+875	H3415021	Eggi Anissa Riandita	544012018000922	31-07-2018	selesai	selesai	Sudah
+876	H3415022	Evi Oktafiana	544012018000496	09-07-2018	selesai	selesai	Sudah
+877	H3415023	Faizal Akbar Muhammad	544012018000939	31-07-2018	selesai	selesai	Sudah
+878	H3415024	Febrian Nisa Ramadhani	544012018000458	17-07-2018	selesai	selesai	Sudah
+879	H3415025	Fenty Lilian Ariani	056/R/UN27.07/D3/2018	25-07-2018	selesai	selesai	Sudah
+880	H3415027	Hakim Surya Raharja	544012018000984	19-07-2018	selesai	selesai	Sudah
+881	H3415028	Hening Fazri Cahyani	544012018000687	24-07-2018	selesai	selesai	Sudah
+882	H3415029	Hulwun Ahyaari	544012018000892	18-07-2018	selesai	selesai	Sudah
+883	H3415030	Indra Kurniawan	544012018000502	17-07-2018	selesai	selesai	Sudah
+884	H3415032	Khoiruddin Shidiq	544012018000946	20-07-2018	selesai	selesai	Sudah
+885	H3415033	Kiky Ayumasari	544012018000465	11-07-2018	selesai	selesai	Sudah
+886	H3415034	Maya Sindy Kumalasari	544012018000472	13-07-2018	selesai	selesai	Sudah
+887	H3415038	Nastiti Yulin Anggraini	544012018000793	24-07-2018	selesai	selesai	Sudah
+888	H3415042	Rizaldi Aji Nur Fahmi	544012018000786	23-07-2018	selesai	selesai	Sudah
+889	H3415043	Shafura Hanief Azzahra	544012018000960	31-07-2018	selesai	selesai	Sudah
+890	H3415044	Shinta Meigi Sulistyana	544012018000977	25-07-2018	selesai	selesai	Sudah
+891	H3415046	Ulfiyana Utin Ni'mah	544012018000991	31-07-2018	selesai	selesai	Sudah
+892	H3415048	Wisnu Candra Hadiwinata	544012018000762	13-07-2018	selesai	selesai	Sudah
+893	H3515002	Alya Ataya	544012018000755	28-06-2018	selesai	selesai	Sudah
+894	H3515009	Arista Agustina	544012018000649	23-07-2018	selesai	selesai	Sudah
+895	H3515011	Ayu Kusuma Wardani	544012018000540	26-07-2018	selesai	selesai	Sudah
+896	H3515014	Dewi Nur Firnasari	544012018000724	13-07-2018	selesai	selesai	Sudah
+897	H3515016	Dina Apriyanti	544012018000601	27-07-2018	selesai	selesai	Sudah
+898	H3515029	Nyahni Nuroktasari	544012018001028	27-07-2018	selesai	selesai	Sudah
+899	H3515038	Sindi Nurmala	544012018000878	31-07-2018	selesai	selesai	Sudah
+900	H3515039	Tata Cornelia Setyawati	544012018000427	20-07-2018	selesai	selesai	Sudah
+901	H3515042	Vivi Arta Tiana Savitri	544012018000533	05-06-2018	selesai	selesai	Sudah
+902	H3515044	Wulan Dewi Astriyanti	544012018000625	23-07-2018	selesai	selesai	Sudah
+903	I0111017	Bagus Saputra Pramasunar	222012018000503	31-07-2018	selesai	selesai	Sudah
+904	I0111020	Bogya Kalvindoro	222012018000428	08-06-2018	selesai	selesai	Sudah
+905	I0112048	Fatayah Nahdlatul Ummah	222012018000435	02-08-2018	selesai	selesai	Sudah
+906	I0113070	Isnu Amiseno	222012018000442	31-07-2018	selesai	selesai	Sudah
+907	I0114002	Achsana Miftahul Jannah	006/R/UN27.08/S1/2018	06-09-2018	selesai	selesai	Sudah
+908	I0114018	Bagas Dwi Purwantoro	222012018000602	15-08-2018	selesai	selesai	Sudah
+909	I0114019	Bagas Hendi Pratama	222012018000510	01-08-2018	selesai	selesai	Sudah
+910	I0114022	Belviana Dyas Tamarani	222012018000367	05-07-2018	selesai	selesai	Sudah
+911	I0114024	Brilyan Gusmi Auliyaa Robbani	222012018000640	06-08-2018	selesai	selesai	Sudah
+912	I0114029	Cornellius Oliver Ageng Prasetya Laksana	005/R/UN27.08/S1/2018	27-07-2018	selesai	selesai	Sudah
+913	I0114031	Delvi Maulana	222012018000398	01-08-2018	selesai	selesai	Sudah
+914	I0114035	Edo Suryo Utomo	222012018000527	02-08-2018	selesai	selesai	Sudah
+915	I0114037	Elsa Sellyana Putri	222012018000534	03-08-2018	selesai	selesai	Sudah
+916	I0114038	Esthi Rahmawati Rahayuning Widodo	222012018000541	06-08-2018	selesai	selesai	Sudah
+917	I0114042	Fakhri Muhammad	222012018000657	10-08-2018	proses	belum	belum
+918	I0114046	Febryan Mulya Kuncara	222012018000312	24-07-2018	selesai	selesai	Sudah
+919	I0114048	Ferdi Kurniawan	222012018000350	27-07-2018	selesai	selesai	Sudah
+920	I0114050	Gabriel Kusumo Hendrianto	222012018000558	06-08-2018	selesai	selesai	Sudah
+921	I0114052	Ginung Pratina	222012018000459	31-07-2018	selesai	selesai	Sudah
+922	I0114056	Himawan Nur Aredha Putra	222012018000565	06-08-2018	selesai	selesai	Sudah
+923	I0114062	Juan Aristi Pasande	222012018000343	27-07-2018	selesai	selesai	Sudah
+924	I0114072	Manuel Simeon Marpaung	222012018000664	10-08-2018	selesai	selesai	Sudah
+925	I0114080	Muhammad Zean Raka Buana	222012018000466	02-08-2018	selesai	selesai	Sudah
+926	I0114083	Nabila Fadiyana Husin	222012018000329	20-07-2018	selesai	selesai	Sudah
+927	I0114086	Nindya Nofira Ningtyas	222012018000374	24-07-2018	selesai	selesai	Sudah
+928	I0114087	Nur Amalina Fathunah	222012018000473	06-08-2018	selesai	selesai	Sudah
+929	I0114088	Nur Endah Trisnawati	222012018000671	20-08-2018	selesai	selesai	Sudah
+930	I0114093	Paramita Tri Mulyaning Sari	222012018000480	30-07-2018	selesai	selesai	Sudah
+931	I0114097	Putut Sugianto	222012018000688	31-07-2018	selesai	selesai	Sudah
+932	I0114100	Reyhan Prastha Wijaya	222012018000695	31-07-2018	selesai	selesai	Sudah
+933	I0114101	Reyhan Suryaarbaika Prasetyo	222012018000381	27-07-2018	selesai	selesai	Sudah
+934	I0114103	Rifka Annisa Arin	222012018000619	20-08-2018	selesai	selesai	Sudah
+935	I0114106	Rizal Anggiawan	222012018000336	27-07-2018	selesai	selesai	Sudah
+936	I0114107	Rizki Mega Andriani	222012018000626	28-08-2018	proses	belum	belum
+937	I0114108	Rizky Agung Prabowo	222012018000572	09-08-2018	selesai	selesai	Sudah
+938	I0114113	Shofi Nur Inayati	222012018000701	09-08-2018	selesai	selesai	Sudah
+939	I0114116	Suci Indah Prastiwi	222012018000404	27-07-2018	selesai	selesai	Sudah
+940	I0114117	Susi Purwaningsih	004/R/UN27.08/S1/2018	09-08-2018	selesai	selesai	Sudah
+941	I0114119	Tri Utamy Yohanna Panjaitan	222012018000497	30-07-2018	selesai	selesai	Sudah
+942	I0114122	Wahyu Hapsari	222012018000589	07-08-2018	selesai	selesai	Sudah
+943	I0114123	Wahyu Satrio Wicaksono	222012018000596	03-08-2018	selesai	selesai	Sudah
+944	I0114124	Warakesthi Rahayu Wicaksanti	222012018000633	10-08-2018	selesai	selesai	Sudah
+945	I0114128	Yoga Kusuma Dewa	222012018000411	31-07-2018	selesai	selesai	Sudah
+946	I0211013	Bernad. A. Pasaribu	232012018000272	19-03-2018	selesai	selesai	Sudah
+947	I0211047	Raymond Allen Ghozali	232012018000265	19-03-2018	selesai	selesai	Sudah
+948	I0213002	Abraham Ardi Laksono	232012018000289	19-03-2018	selesai	selesai	Sudah
+949	I0213054	Muhammad Iqbal Dwi Hendarto	232012018000296	16-03-2018	selesai	selesai	Sudah
+950	I0313001	Abror	262012018000129	10-07-2018	selesai	selesai	Sudah
+951	I0313006	Afriezal Muslim	262012018000136	09-07-2018	selesai	selesai	Sudah
+952	I0313045	Fitri Nurul Firdaus	262012018000174	23-08-2018	selesai	selesai	Sudah
+953	I0313081	Raka Auliya Rahman	262012018000143	12-07-2018	selesai	selesai	Sudah
+954	I0313093	Tegar Yuli Arianto	007/R/UN27.08/S1/2018	09-07-2018	selesai	selesai	Sudah
+955	I0313096	Tito Wijaya Saputra	008/R/UN27.08/S1/2018	09-07-2018	selesai	selesai	Sudah
+956	I0314013	Antika Adzary Sekar Fadlilah	262012018000150	21-08-2018	selesai	selesai	Sudah
+957	I0314017	Bela Sindy Amelinda	262012018000181	21-08-2018	selesai	selesai	Sudah
+958	I0314020	Carinda Adistiara	262012018000167	24-08-2018	selesai	selesai	Sudah
+959	I0314031	Endah Budiningsih	262012018000198	21-08-2018	selesai	selesai	Sudah
+960	I0314047	Intan Dewi Melinda	262012018000204	23-08-2018	proses	belum	belum
+961	I0314073	Nidya Yutie Pramesti	262012018000211	21-08-2018	selesai	selesai	Sudah
+962	I0314090	Shanella Nestri Hapsari	262012018000228	24-08-2018	selesai	selesai	Sudah
+963	I0413003	Adhi Prayitno Putro	003/R/UN27.08/S1/2018	30-07-2018	selesai	selesai	Sudah
+964	I0414002	Abdullah Shalih	212012018000148	16-07-2018	selesai	selesai	Sudah
+965	I0414017	Faishal Harish Hidayatullah	212012018000155	30-07-2018	selesai	selesai	Sudah
+966	I0414026	Ilham Bagus Wiranto	212012018000162	30-07-2018	selesai	selesai	Sudah
+967	I0511034	Nugroho Santoso	242012018000163	27-07-2018	selesai	selesai	Sudah
+968	I0514005	Ajeng Larasatie Puspita N.	242012018000187	18-07-2018	selesai	selesai	Sudah
+969	I0514007	Andina Indah Sekararum	242012018000200	19-07-2018	selesai	selesai	Sudah
+970	I0514008	Annisa Puji Lestari	242012018000231	26-07-2018	selesai	selesai	Sudah
+971	I0514013	Christianus Denny Sudarsana	242012018000156	24-07-2018	selesai	selesai	Sudah
+972	I0514028	Jeihan Hanif Fariza	242012018000132	24-07-2018	selesai	selesai	Sudah
+973	I0514029	Karina Diah Rosa Ekawati	242012018000149	24-07-2018	selesai	selesai	Sudah
+974	I0514030	Kresna Thufail Ayyubbiru	242012018000170	18-07-2018	selesai	selesai	Sudah
+975	I0514033	Maudy Pratiwi Novia Matovanni	242012018000194	24-07-2018	selesai	selesai	Sudah
+976	I0514035	Muh. Tasmiul Khoir	002/R/UN27.08/S1/2018	20-07-2018	selesai	selesai	Sudah
+977	I0514042	Rara Ayu Lestary	242012018000224	19-07-2018	selesai	selesai	Sudah
+978	I0514045	Rita Indah Rahmawati	242012018000217	13-07-2018	selesai	selesai	Sudah
+979	I0514047	Siti Annida	242012018000248	20-07-2018	selesai	selesai	Sudah
+980	I0611004	Bagus Adhi Wicaksono	352012018000121	19-07-2018	selesai	selesai	Sudah
+981	I0614007	Bayu Vigintan Yuswi	352012018000145	07-09-2018	selesai	selesai	Sudah
+982	I0614010	Deviliana Sekar Kusuma Dewi	352012018000152	08-08-2018	selesai	selesai	Sudah
+983	I0614020	Martha Dwi Nugrahaeni	352012018000169	21-08-2018	selesai	selesai	Sudah
+984	I0614039	Septyara Nirma Saputri	352012018000138	05-07-2018	selesai	selesai	Sudah
+985	I0714001	Abid Alim Mustaqim	202012018000028	07-08-2018	selesai	selesai	Sudah
+986	I0714011	Edi Nugroho	202012018000035	06-08-2018	selesai	selesai	Sudah
+987	I0714013	Fasda 'Ilhaq Robbani	202012018000042	02-08-2018	selesai	selesai	Sudah
+988	I0714028	Reza Yusadika Putra	202012018000059	06-08-2018	selesai	selesai	Sudah
+989	I0714032	Stephanus Hanurjaya	202012018000066	07-08-2018	selesai	selesai	Sudah
+990	I1414007	Ahlan Nurzengky	003/E/UN27.08/S1/2018	31-07-2018	selesai	selesai	Sudah
+991	I1414011	Alpriza Sakti Kusuma Putra	004/E/UN27.08/S1/2018	19-01-2018	selesai	selesai	Sudah
+992	I1414032	Purnadityanto	005/E/UN27.08/S1/2018	31-07-2018	selesai	selesai	Sudah
+993	I1414037	Setiawan Eka Prawira	002/E/UN27.08/S1/2018	31-07-2018	selesai	selesai	Sudah
+994	I8213034	Yuda Krisna Piwi	224012018000419	31-07-2018	selesai	selesai	Sudah
+995	I8215002	Ahmad Badrus Shofwan	224012018000273	08-08-2018	selesai	selesai	Sudah
+996	I8215003	Andhika Ilham Prianto	224012018000662	07-08-2018	selesai	selesai	Sudah
+997	I8215004	Andika Zulkarnain Rochmad Pramuja	224012018000402	06-08-2018	selesai	selesai	Sudah
+998	I8215006	Anggara Azmi Wicaksono	224012018000679	08-08-2018	selesai	selesai	Sudah
+999	I8215007	Anisa Indah Astuti	224012018000532	27-07-2018	selesai	selesai	Sudah
+1000	I8215008	Arya Dewa Pratama	224012018000587	07-08-2018	selesai	selesai	Sudah
+1001	I8215009	Davin Rachmat Triadi	224012018000631	10-08-2018	selesai	selesai	Sudah
+1002	I8215010	Deniar Regya Pratama	224012018000433	17-07-2018	selesai	selesai	Sudah
+1003	I8215011	Dhimas Bagus Prayudhi Paundra	224012018000518	17-07-2018	selesai	selesai	Sudah
+1004	I8215012	Dhinar Tejo Waskito	224012018000341	23-07-2018	selesai	selesai	Sudah
+1005	I8215014	Eka Yuliana Rahayu	224012018000372	23-07-2018	selesai	selesai	Sudah
+1006	I8215016	Gama Eka Baktianto	224012018000396	01-08-2018	selesai	selesai	Sudah
+1007	I8215017	Hananto Wysnu Wardhana	224012018000235	07-08-2018	selesai	selesai	Sudah
+1008	I8215018	Ilham Griarta Putra Arma	224012018000525	24-07-2018	selesai	selesai	Sudah
+1009	I8215019	Indah Suryaningtyas	224012018000327	10-07-2018	selesai	selesai	Sudah
+1010	I8215020	Lutfi Ali Al Murtado	224012018000204	06-08-2018	selesai	selesai	Sudah
+1011	I8215021	Muhammad Rafi Herliyanto	224012018000297	08-08-2018	selesai	selesai	Sudah
+1012	I8215023	Nugroho Dwi Novianto	224012018000648	10-08-2018	selesai	selesai	Sudah
+1013	I8215024	Sinar Dwi Arista	224012018000211	10-07-2018	selesai	selesai	Sudah
+1014	I8215025	Siti Dwi Nurhaliza	224012018000457	16-07-2018	selesai	selesai	Sudah
+1015	I8215026	Tina Fitriadewi	224012018000303	25-07-2018	selesai	selesai	Sudah
+1016	I8215028	Yogi Syadani	224012018000501	24-07-2018	selesai	selesai	Sudah
+1017	I8215029	Ardhiansyah Al Hakim	224012018000426	16-07-2018	selesai	selesai	Sudah
+1018	I8315017	Eko Purnomo	244012018000437	20-07-2018	selesai	selesai	Sudah
+1019	I8315027	Indah Mutiara Ardianti	244012018000451	26-07-2018	selesai	selesai	Sudah
+1020	I8315058	Tri Nova Prakoso	244012018000420	06-07-2018	selesai	selesai	Sudah
+1021	I8315060	Vidola Rineko Nandya	007/R/UN27.08/D3/2018	27-07-2018	selesai	selesai	Sudah
+1022	I8315061	Winda Kumala Devi	244012018000444	26-07-2018	selesai	selesai	Sudah
+1023	I8515003	Agus Suhendro	224012018000549	08-08-2018	selesai	selesai	Sudah
+1024	I8515005	Bismo Dimas Prakoso	224012018000334	30-07-2018	selesai	selesai	Sudah
+1025	I8515008	Dian Efiyanti	224012018000358	25-07-2018	selesai	selesai	Sudah
+1026	I8515011	Fahriza Irwandana	224012018000723	06-08-2018	selesai	selesai	Sudah
+1027	I8515013	Feryan Ernanda	224012018000600	25-07-2018	selesai	selesai	Sudah
+1028	I8515015	Hendri Kurniawan	224012018000686	06-08-2018	selesai	selesai	Sudah
+1029	I8515017	Laila Nurul Hayati	224012018000655	06-08-2018	selesai	selesai	Sudah
+1030	I8515018	Mara Safira	224012018000488	31-07-2018	selesai	selesai	Sudah
+1031	I8515019	Melani Wahyu Pratiwi	224012018000365	01-08-2018	selesai	selesai	Sudah
+1032	I8515020	Muhammad Fajar Adha	224012018000471	08-08-2018	selesai	selesai	Sudah
+1033	I8515021	Naufal Adi Widada	224012018000693	06-08-2018	selesai	selesai	Sudah
+1034	I8515023	Prasetyo Wicaksono	224012018000259	30-07-2018	selesai	selesai	Sudah
+1035	I8515024	Rachellyca Septiara Zakti	224012018000570	07-08-2018	selesai	selesai	Sudah
+1036	I8515025	Rahadian Fahmi	224012018000709	07-08-2018	selesai	selesai	Sudah
+1037	I8515026	Rima Ana Pratiwi	224012018000556	01-08-2018	selesai	selesai	Sudah
+1038	I8515027	Satrio Utomo Nurhidayat	224012018000716	31-07-2018	selesai	selesai	Sudah
+1039	I8615003	Aditya Kharisma Putra Nugraha	214012018000337	01-08-2018	selesai	selesai	Sudah
+1040	I8615004	Afif Hafizh Intishar	214012018000313	01-08-2018	selesai	selesai	Sudah
+1041	I8615005	Ahmad Zaky Azhari	214012018000276	23-07-2018	selesai	selesai	Sudah
+1042	I8615010	Brian Ari Prasetya	214012018000283	01-08-2018	selesai	selesai	Sudah
+1043	I8615011	Desti Anggrahini	214012018000344	27-07-2018	selesai	selesai	Sudah
+1044	I8615022	Igo Ilham Setiawan	214012018000290	30-07-2018	selesai	selesai	Sudah
+1045	I8615033	Rafi Atma Akbari	214012018000351	24-07-2018	selesai	selesai	Sudah
+1046	I8615037	Syam Risky Pahlevi	214012018000306	01-08-2018	selesai	selesai	Sudah
+1047	I8615041	Zacky Drajat Priambodo	214012018000320	27-07-2018	selesai	proses	belum
+1048	I8715009	Gery Sutarto	224012018000495	01-08-2018	selesai	selesai	Sudah
+1049	I8715010	Iksan Nur Hakiki	224012018000624	03-08-2018	selesai	selesai	Sudah
+1050	I8715011	Indra Karta Sasmita	224012018000389	26-07-2018	selesai	selesai	Sudah
+1051	I8715013	Jihad Satria	224012018000266	17-07-2018	selesai	selesai	Sudah
+1052	I8715014	Kristina Dewi Anggraeni	224012018000228	26-07-2018	selesai	selesai	Sudah
+1053	I8715017	Muhammad Galih Adi Novenda	224012018000464	26-07-2018	selesai	selesai	Sudah
+1054	I8715018	Nadia Adelina Putri	224012018000594	26-07-2018	selesai	selesai	Sudah
+1055	I8715020	Nurisna Anggraeni	224012018000310	27-07-2018	selesai	selesai	Sudah
+1056	I8715022	Punto Tri Wibowo	224012018000280	17-07-2018	selesai	selesai	Sudah
+1057	I8715024	Shabrina	224012018000242	30-07-2018	selesai	selesai	Sudah
+1058	I8715026	Syahrul Imam Romadhona	224012018000617	12-07-2018	selesai	selesai	Sudah
+1059	I8715030	Arya Yudha Susetyo	224012018000563	16-07-2018	selesai	selesai	Sudah
+1060	I8715031	Destyanto Bagus Saputro	224012018000440	24-07-2018	selesai	selesai	Sudah
+1061	K1210031	Isnawati Nurul Fuidah	101/R/UN27.02/S1/2018	30-07-2018	selesai	selesai	Sudah
+1062	K1211014	Bayu Romadi	882012018000516	23-07-2018	selesai	selesai	Sudah
+1063	K1211016	Belinda Tri Ari Arva	1701/R/UN27.02/S1/2017	27-12-2017	selesai	selesai	Sudah
+1064	K1211055	Rendy Langgeng Tri Yusniar	882012018000585	31-07-2018	selesai	selesai	Sudah
+1065	K1213029	Hana Maszein	882012018000592	03-07-2018	selesai	selesai	Sudah
+1066	K1213061	Rimadani Santiningrum	882012018000608	03-08-2018	selesai	selesai	Sudah
+1067	K1214002	Akbar Bagus Wicaksono	100/R/UN27.02/S1/2018	12-07-2018	selesai	selesai	Sudah
+1068	K1214012	Dita Puspitasari	882012018000523	20-07-2018	selesai	selesai	Sudah
+1069	K1214017	Fasha Nabilah Aprilliani	882012018000530	27-07-2018	selesai	selesai	Sudah
+1070	K1214019	Gilang Jaka Sanjaya	882012018000547	28-06-2018	selesai	selesai	Sudah
+1071	K1214042	Nofi Dian Sari	882012018000554	19-07-2018	selesai	selesai	Sudah
+1072	K1214056	Silmi Nur Azizah Tara	882012018000561	26-07-2018	selesai	selesai	Sudah
+1073	K1214059	Vinsca Sabrina Claudia	882012018000578	12-07-2018	selesai	selesai	Sudah
+1074	K1311006	Alifiandy Dhanu Murti	842022018000166	31-07-2018	selesai	selesai	Sudah
+1075	K1311042	Joko Martono	842022018000173	30-07-2018	selesai	selesai	Sudah
+1076	K1311071	Risky Yoga Suratman	842022018000098	05-06-2018	selesai	selesai	Sudah
+1077	K1313013	Desi Fatmawati	842022018000180	18-07-2018	selesai	selesai	Sudah
+1078	K1313024	Febriana Diah Asmarawati	842022018000197	26-07-2018	selesai	selesai	Sudah
+1079	K1313029	Hasnah Ayu Febriyanti	842022018000203	31-07-2018	selesai	selesai	Sudah
+1080	K1313036	Kartika Endah Fatmawati	842022018000210	25-07-2018	selesai	selesai	Sudah
+1081	K1313064	Romadhon Prasetyo Nugroho	842022018000227	26-07-2018	selesai	selesai	Sudah
+1082	K1314022	Emmanuel Yudith Setiawan	842022018000135	25-07-2018	selesai	selesai	Sudah
+1083	K1314032	Kartika Maharani Dwi Astuti	842022018000104	19-07-2018	selesai	selesai	Sudah
+1084	K1314039	Nur Annisa Nauli Riyanty	842022018000111	31-07-2018	selesai	selesai	Sudah
+1085	K1314044	Ratih Tri Wijayanti	842022018000234	19-07-2018	selesai	selesai	Sudah
+1086	K1314050	Satya Mardi Ayuningrum	842022018000142	27-07-2018	selesai	selesai	Sudah
+1087	K1314052	Wahyu Kurniawan	842022018000128	26-07-2018	selesai	selesai	Sudah
+1088	K1314054	Yulius Fajar Adi Laksono	842022018000159	31-07-2018	selesai	selesai	Sudah
+1089	K1513034	Fauzi Tri Hardiyanto Nakhsan	832052018000135	26-06-2018	selesai	selesai	Sudah
+1090	K1513038	Heru Aji Pradana	832052018000159	19-07-2018	selesai	selesai	Sudah
+1091	K1514002	Adi Prasetyo	832052018000142	26-07-2018	selesai	selesai	Sudah
+1092	K1514016	Arif Afrianto	104/R/UN27.02/S1/2018	30-07-2018	selesai	selesai	Sudah
+1093	K1514020	Citta Fitra Ryandika Putri	103/R/UN27.02/S1/2018	30-07-2018	selesai	selesai	Sudah
+1094	K1514068	Siti Nur Hidayah	102/R/UN27.02/S1/2018	30-07-2018	selesai	selesai	Sudah
+1095	K2211004	Afif Choirul Irsyadi	882032018000194	31-07-2018	selesai	selesai	Sudah
+1096	K2211007	Amanda Ayu Septary	882032018000392	31-07-2018	selesai	selesai	Sudah
+1097	K2211009	Andre Kurniawan	882032018000200	31-07-2018	selesai	selesai	Sudah
+1098	K2211011	Aniatun Khasanah	882032018000354	30-07-2018	selesai	selesai	Sudah
+1099	K2211025	Dhebora Pramesti Hapsari	882032018000408	16-07-2018	selesai	selesai	Sudah
+1100	K2211026	Dhimas Yanuar Nur Rochmat	882032018000415	25-07-2018	selesai	selesai	Sudah
+1101	K2211027	Dian Siwi Ardi Astuti	882032018000422	27-07-2018	selesai	selesai	Sudah
+1102	K2211048	Isnainy Ayu Istiqomah	882032018000217	30-07-2018	selesai	selesai	Sudah
+1103	K2211051	Ferusta Nova Adi Pratama	882032018000224	31-07-2018	selesai	selesai	Sudah
+1104	K2211063	Nisa Nurqurrota A'yun	882032018000361	31-07-2018	selesai	selesai	Sudah
+1105	K2211067	Panji Yudantama	106/R/UN27.02/S1/2018	31-07-2018	selesai	selesai	Sudah
+1106	K2211070	Puspa Anggun Kinanthi	882032018000231	30-07-2018	selesai	selesai	Sudah
+1107	K2211074	Rita Pratiwi	882032018000514	27-07-2018	selesai	selesai	Sudah
+1108	K2211076	Rizqi Ardiansyah Arifda Pratama	882032018000248	25-07-2018	selesai	selesai	Sudah
+1109	K2211089	Try Andika Kurniawan	882032018000255	31-07-2018	selesai	selesai	Sudah
+1110	K2211092	Wismoyo Adi Nugroho	882032018000262	26-07-2018	selesai	selesai	Sudah
+1111	K2211097	Yustien Pramita Hapsari	882032018000279	26-07-2018	selesai	selesai	Sudah
+1112	K2212006	Ariska Yuliani	882032018000439	07-08-2018	selesai	selesai	Sudah
+1113	K2212020	Dinita Anggraini	882032018000491	30-07-2018	selesai	selesai	Sudah
+1114	K2212037	Inayatun Nafiah	882032018000446	10-08-2018	selesai	selesai	Sudah
+1115	K2212070	Susilowati	882032018000507	10-08-2018	selesai	selesai	Sudah
+1116	K2212071	Taufik Ahmad Fahrudin	882032018000521	06-08-2018	selesai	selesai	Sudah
+1117	K2213045	Muhammad Mahmud Alhushori	882032018000286	30-07-2018	selesai	selesai	Sudah
+1118	K2213047	Nissa Novita	882032018000293	26-07-2018	selesai	selesai	Sudah
+1119	K2213056	Rahmania Amirawati	882032018000453	06-08-2018	selesai	selesai	Sudah
+1120	K2213057	Restu Mustaqim	882032018000460	08-06-2018	selesai	selesai	Sudah
+1121	K2213073	Vicia Evodia	882032018000378	07-08-2018	selesai	selesai	Sudah
+1122	K2214003	Agustina Tyarakanita	882032018000385	07-08-2018	selesai	selesai	Sudah
+1123	K2214004	Alentri Kurniawati	882032018000309	02-08-2018	selesai	selesai	Sudah
+1124	K2214005	Amanda Ummu Haniah	882032018000477	10-08-2018	selesai	selesai	Sudah
+1125	K2214011	Atiqah Dewi Slasih	882032018000316	31-07-2018	selesai	selesai	Sudah
+1126	K2214043	Refita Helya Shufia	882032018000323	27-07-2018	selesai	selesai	Sudah
+1127	K2214048	Sarah Dwi Indayanti	882032018000484	26-07-2018	selesai	selesai	Sudah
+1128	K2214053	Ulfa Auliannisa	882032018000330	19-07-2018	selesai	selesai	Sudah
+1129	K2214056	Winda Ayu Parasti	882032018000347	30-07-2018	selesai	selesai	Sudah
+1130	K2311013	Chrisbi Adi Ibnu Gurinda	842032018000332	26-07-2018	selesai	selesai	Sudah
+1131	K2311033	Herdiana Alvian	108/R/UN27.02/S1/2018	25-07-2018	selesai	selesai	Sudah
+1132	K2311043	Lia Setyanisa	842032018000325	20-07-2018	selesai	selesai	Sudah
+1133	K2311047	Mayang Gupita	109/R/UN27.02/S1/2018	20-07-2018	selesai	selesai	Sudah
+1134	K2311065	Restiana Puspita Jayanty	107/R/UN27.02/S1/2018	24-07-2018	selesai	selesai	Sudah
+1135	K2312038	Luluk Mar'ah Sholikhah	842032018000356	29-08-2018	selesai	selesai	Sudah
+1136	K2314006	Ardian Yoga Pradana	842032018000370	10-09-2018	selesai	selesai	Sudah
+1137	K2314043	Rizky Rachma Wati	842032018000349	30-08-2018	selesai	selesai	Sudah
+1138	K2314046	Siti Nurkhasanah	842032018000318	30-07-2018	selesai	selesai	Sudah
+1139	K2314051	Viyona Arsita Della	842032018000363	03-09-2018	selesai	selesai	Sudah
+1140	K2514003	Adhi Susanto	110/R/UN27.02/S1/2018	31-07-2018	selesai	selesai	Sudah
+1141	K2514018	Bayu Anggara	111/R/UN27.02/S1/2018	30-07-2018	selesai	selesai	Sudah
+1142	K2514022	Desi Nur Liana	832032018000250	31-07-2018	selesai	selesai	Sudah
+1143	K2514027	Dwi Noor Cahyo	832032018000175	06-07-2018	selesai	selesai	Sudah
+1144	K2514033	Heri Juwantono	832032018000205	31-07-2018	selesai	selesai	Sudah
+1145	K2514039	Imam Muttaqin	832032018000243	30-07-2018	selesai	selesai	Sudah
+1146	K2514044	Marshal Bima Pangesti	832032018000182	30-07-2018	selesai	selesai	Sudah
+1147	K2514053	Riina Syivarulli	832032018000267	31-07-2018	selesai	selesai	Sudah
+1148	K2514055	Riyanto	832032018000236	30-05-2018	selesai	selesai	Sudah
+1149	K2514062	Supriyadi	832032018000212	31-07-2018	selesai	selesai	Sudah
+1150	K2514070	Wisnu Yoga Perwira	832032018000199	09-07-2018	selesai	selesai	Sudah
+1151	K2514072	Yuniar Ratna Pratiwi	832032018000229	30-07-2018	selesai	selesai	Sudah
+1152	K3111042	Novi Ardi Yana Nur Yuliana	112/R/UN27.02/S1/2018	31-07-2018	selesai	selesai	Sudah
+1153	K3111044	Nur Laily Yuliawati	862012018000345	30-07-2018	selesai	selesai	Sudah
+1154	K3111052	Riezaldy Adhitya	862012018000208	27-07-2018	selesai	selesai	Sudah
+1155	K3113003	Ahsaniatil Mu'awanah	862012018000307	30-07-2018	selesai	selesai	Sudah
+1156	K3113007	Ardiyati Jatika	862012018000352	30-07-2018	selesai	selesai	Sudah
+1157	K3113012	Bonifacio Yanuar Putra Andyantoro	862012018000369	25-07-2018	selesai	selesai	Sudah
+1158	K3113013	Denik Setya Ningrum	862012018000314	26-07-2018	selesai	selesai	Sudah
+1159	K3113018	Dyah Nur Rohmah	862012018000376	30-07-2018	selesai	selesai	Sudah
+1160	K3113027	Fitroh	862012018000215	27-07-2018	selesai	selesai	Sudah
+1161	K3113029	Galih Waskito	862012018000222	31-07-2018	selesai	selesai	Sudah
+1162	K3113033	Isnaeni Budiarti	862012018000383	26-07-2018	selesai	selesai	Sudah
+1163	K3113040	Mochamad Haris Ainurrohman	862012018000321	26-07-2018	selesai	selesai	Sudah
+1164	K3113041	Monica Candra Dewi	862012018000338	27-07-2018	selesai	selesai	Sudah
+1165	K3113053	Nurul Supriyanti	862012018000192	25-07-2018	selesai	selesai	Sudah
+1166	K3114003	Ana Siti Khumairoh	862012018000239	31-07-2018	selesai	selesai	Sudah
+1167	K3114007	Awaliyah Qonita Rahmawati	862012018000246	27-07-2018	selesai	selesai	Sudah
+1168	K3114016	Erizka Fadilla Matondang	862012018000178	25-07-2018	selesai	selesai	Sudah
+1169	K3114017	Faizatul Aula	862012018000253	30-07-2018	selesai	selesai	Sudah
+1170	K3114039	Raihana Sheisar Septarika	862012018000185	30-07-2018	selesai	selesai	Sudah
+1171	K3114040	Riendinta Etta Surya	862012018000161	30-07-2018	selesai	selesai	Sudah
+1172	K3114042	Rohayati	862012018000260	25-07-2018	selesai	selesai	Sudah
+1173	K3114049	Taufik Sani Santoso	862012018000277	30-07-2018	selesai	selesai	Sudah
+1174	K3114052	Tri Sularni	862012018000284	27-07-2018	selesai	selesai	Sudah
+1175	K3114054	Ulfa Nur Hayati	862012018000291	31-07-2018	selesai	selesai	Sudah
+1176	K3212026	Fajar Ady Widyanto	098/R/UN27.02/S1/2018	31-07-2018	selesai	selesai	Sudah
+1177	K3212030	Feri Wartini	095/R/UN27.02/S1/2018	31-07-2018	selesai	selesai	Sudah
+1178	K3212039	Muhammad Hidrus Taufiq	099/R/UN27.02/S1/2018	25-07-2018	selesai	selesai	Sudah
+1179	K3213008	Ali Hamid	882102018000200	09-07-2018	selesai	selesai	Sudah
+1180	K3213013	Attika Puspa Aji	882102018000279	23-07-2018	selesai	selesai	Sudah
+1181	K3213022	Dikky Mahendra Affandi	882102018000224	27-07-2018	selesai	selesai	Sudah
+1182	K3213036	Mahardika Andung Asmoro	097/R/UN27.02/S1/2018	27-07-2018	selesai	selesai	Sudah
+1183	K3213048	Roynaldi	094/R/UN27.02/S1/2018	31-07-2018	selesai	selesai	Sudah
+1184	K3213049	Sagesti Kharisma	882102018000255	24-07-2018	selesai	selesai	Sudah
+1185	K3213052	Shandy Yoga Triyono	882102018000293	27-07-2018	selesai	selesai	Sudah
+1186	K3214003	Angger Putri Tanjung	882102018000231	30-07-2018	selesai	selesai	Sudah
+1187	K3214006	Bagas Nugraha Putra	882102018000262	09-08-2018	selesai	selesai	Sudah
+1188	K3214007	Bagas Pamungkas	882102018000217	09-08-2018	selesai	selesai	Sudah
+1189	K3214011	Dian Andriani Kusuma	882102018000286	08-08-2018	selesai	selesai	Sudah
+1190	K3214012	Dwi Andayani	096/R/UN27.02/S1/2018	06-08-2018	selesai	selesai	Sudah
+1191	K3214024	Jaenal Arifin	882102018000248	17-07-2018	selesai	selesai	Sudah
+1192	K3311009	Ayu Aneke Putri	842042018000232	20-07-2018	selesai	selesai	Sudah
+1193	K3311064	Rahardian Prihastoto	842042018000300	20-07-2018	selesai	selesai	Sudah
+1194	K3313059	Ririn Lisnawati	842042018000324	31-07-2018	selesai	selesai	Sudah
+1195	K3313068	Siti Khoirun Annisak	842042018000249	25-07-2018	selesai	selesai	Sudah
+1196	K3313070	Tya Winda Hastuti	842042018000317	18-05-2018	selesai	selesai	Sudah
+1197	K3314008	Bella Seba Sirojul Umah	842042018000287	25-07-2018	selesai	selesai	Sudah
+1198	K3314010	Desita Kamila Ulfa	113/R/UN27.02/S1/2018	24-08-2018	selesai	selesai	Sudah
+1199	K3314019	Fariz Abdul Wahid	842042018000256	25-07-2018	selesai	selesai	Sudah
+1200	K3314022	Febriati Dian Mubarokah	842042018000270	19-07-2018	selesai	selesai	Sudah
+1201	K3314027	Inayah Hanum	842042018000331	30-07-2018	selesai	selesai	Sudah
+1202	K3314029	Kharisma Resti Kurnia Diah Sangandita	842042018000263	31-07-2018	selesai	selesai	Sudah
+1203	K3314036	Ninda Dwi Cahya Devi	842042018000294	31-07-2018	selesai	selesai	Sudah
+1204	K3314041	Pramudya Darmawan Arga Manggala	842042018000218	31-07-2018	selesai	selesai	Sudah
+1205	K3314053	Yuvita Eka Pertiwi	842042018000225	31-07-2018	selesai	selesai	Sudah
+1206	K3512049	Novianto Adi Nugroho	832072018000201	24-07-2018	selesai	selesai	Sudah
+1207	K3514009	Ashilla Qadrina	832072018000188	31-07-2018	selesai	selesai	Sudah
+1208	K3514025	Ine Rahmahwati	832072018000195	06-07-2018	selesai	selesai	Sudah
+1209	K3514031	Milladina Noer Hanifah	832072018000218	16-07-2018	selesai	selesai	Sudah
+1210	K4211035	Nurjanah Ayu Pratiwi	882022018000300	17-07-2018	selesai	selesai	Sudah
+1211	K4211068	Yeyen Kusumaningrum	093/R/UN27.02/S1/2018	12-07-2018	selesai	selesai	Sudah
+1212	K4213024	Dhimas Redhya Rahmawyan	882022018000256	18-07-2018	selesai	selesai	Sudah
+1213	K4213025	Dian Tri Cahyaningrum	882022018000232	12-07-2018	selesai	selesai	Sudah
+1214	K4213030	Evi Diah Puspitasari	116/R/UN27.02/S1/2018	27-07-2018	selesai	selesai	Sudah
+1215	K4214016	Febriana Fitroh Al Khusna	115/R/UN27.02/S1/2018	29-08-2018	selesai	selesai	Sudah
+1216	K4214017	Fitria Nur'aini	882022018000324	25-07-2018	selesai	selesai	Sudah
+1217	K4214025	Lilis Fitriani	114/R/UN27.02/S1/2018	20-08-2018	selesai	selesai	Sudah
+1218	K4214026	Linda Dwi Saputri	882022018000263	19-07-2018	selesai	selesai	Sudah
+1219	K4214027	Luluk Na'imah	882022018000249	25-07-2018	selesai	selesai	Sudah
+1220	K4214031	Mufidah Nur Azza	882022018000294	24-07-2018	selesai	selesai	Sudah
+1221	K4214043	Riska Rosi Pratiwi	882022018000287	16-07-2018	selesai	selesai	Sudah
+1222	K4214051	Vitaul Muasyaroh	882022018000270	23-07-2018	selesai	selesai	Sudah
+1223	K4214053	Wening Rahmawati	882022018000317	27-07-2018	selesai	selesai	Sudah
+1224	K4311029	Fadhilla Cahya Alifa	842052018000408	04-06-2018	proses	belum	belum
+1225	K4312072	Wiji Setyo Utami	842052018000316	26-07-2018	selesai	selesai	Sudah
+1226	K4313028	Dian Permata Sari	842052018000415	26-07-2018	selesai	selesai	Sudah
+1227	K4314003	Aisha Dian Kusuma	842052018000231	16-07-2018	selesai	selesai	Sudah
+1228	K4314004	Akta Wahyu Kumala Dewi	842052018000323	18-07-2018	selesai	selesai	Sudah
+1229	K4314005	Andrea Ramadhani Maharlika	842052018000330	12-07-2018	selesai	selesai	Sudah
+1230	K4314006	Ani Rahmawati	842052018000248	19-07-2018	selesai	selesai	Sudah
+1231	K4314012	Azhari Fatikhasuri	842052018000347	19-07-2018	selesai	selesai	Sudah
+1232	K4314014	Bella Mawar Permata	842052018000422	30-07-2018	selesai	selesai	Sudah
+1233	K4314017	Christian Adi Pratama	842052018000439	19-07-2018	selesai	selesai	Sudah
+1234	K4314018	Cornelia Zanindita	842052018000446	17-07-2018	selesai	selesai	Sudah
+1235	K4314022	Diah Ayu Fatmawati	842052018000255	16-07-2018	selesai	selesai	Sudah
+1236	K4314023	Dian Asfri Kusuma Putri	842052018000262	05-07-2018	selesai	selesai	Sudah
+1237	K4314024	Dita Arya Widatama	842052018000354	19-07-2018	selesai	selesai	Sudah
+1238	K4314025	Dwi Retno Fatmawati	842052018000361	17-07-2018	selesai	selesai	Sudah
+1239	K4314027	Ella Nur Laila	842052018000378	17-07-2018	selesai	selesai	Sudah
+1240	K4314028	Fahma Auliya Dewi	842052018000453	17-07-2018	selesai	selesai	Sudah
+1241	K4314032	Finateli Eka Wulandari	842052018000279	06-07-2018	selesai	selesai	Sudah
+1242	K4314037	Karina Tia Prastika	842052018000385	18-07-2018	selesai	selesai	Sudah
+1243	K4314046	Nastiti Dyah Palupi	842052018000286	19-07-2018	selesai	selesai	Sudah
+1244	K4314048	Nina Hardiana	842052018000392	16-07-2018	selesai	selesai	Sudah
+1245	K4314049	Nory Shenta Dewi	842052018000293	18-07-2018	selesai	selesai	Sudah
+1246	K4314053	Reny Lukma Aisyah Putri	842052018000309	18-07-2018	selesai	selesai	Sudah
+1247	K4314056	Yacinta Arum Dwi Rahayu	842052018000460	17-07-2018	selesai	selesai	Sudah
+1248	K4314057	Yudi Priatama	842052018000477	27-07-2018	selesai	selesai	Sudah
+1249	K4411041	Muhammad Nur Isdaryono	089/R/UN27.02/S1/2018	31-01-2018	selesai	selesai	Sudah
+1250	K4413012	Aristi Aminna Dian Pradana	088/R/UN27.02/S1/2018	07-05-2018	selesai	selesai	Sudah
+1251	K4413023	Endra Kusuma	085/R/UN27.02/S1/2018	31-07-2018	selesai	selesai	Sudah
+1252	K4413033	Galuh Joko Nugroho	087/R/UN27.02/S1/2018	02-02-2018	selesai	selesai	Sudah
+1253	K4611049	Ginanjar Satriatama	852012018000546	11-07-2018	selesai	selesai	Sudah
+1254	K4611072	Muhammad Gigih Prakoso	852012018000553	18-07-2018	selesai	selesai	Sudah
+1255	K4611099	Sabdoadi Dany Saputro	117/R/UN27.02/S1/2018	27-07-2018	selesai	selesai	Sudah
+1256	K4611113	Yuda Prayogo	852012018000560	20-07-2018	selesai	selesai	Sudah
+1257	K4612106	Muhammad Fatkhurozaq	852012018000492	27-07-2018	selesai	selesai	Sudah
+1258	K4613011	Alfathi Agustin	852012018000577	31-07-2018	selesai	selesai	Sudah
+1259	K4614017	Anggi Nur Rachmawati	852012018000508	24-07-2018	selesai	selesai	Sudah
+1260	K4614073	Retno Yuliawati	852012018000515	30-07-2018	selesai	selesai	Sudah
+1261	K4614076	Ridwan Al Aziz Loasana	852012018000522	12-07-2018	selesai	selesai	Sudah
+1262	K4614080	Rosid Adi Nugroho	852012018000539	19-07-2018	selesai	selesai	Sudah
+1263	K4614082	Saifin Nuha Syukron	852012018000584	16-07-2018	selesai	selesai	Sudah
+1264	K5114041	Saraswati Dika Pratiwi	118/R/UN27.02/S1/2018	31-07-2018	selesai	selesai	Sudah
+1265	K5411006	Anis Latifa Hastin	872022018000402	24-07-2018	selesai	selesai	Sudah
+1266	K5411012	Budi Utomo	872022018000327	19-07-2018	selesai	selesai	Sudah
+1267	K5411019	Erna Rukminiatun	872022018000365	23-07-2018	selesai	selesai	Sudah
+1268	K5411021	Fajri Musthofa	872022018000310	20-07-2018	selesai	selesai	Sudah
+1269	K5411037	Merza Kurnia Sani	872022018000389	24-07-2018	selesai	selesai	Sudah
+1270	K5411040	Muhammad Aminudin	872022018000358	23-07-2018	selesai	selesai	Sudah
+1271	K5411046	Nurvita Puput Kurniasih	872022018000341	24-07-2018	selesai	selesai	Sudah
+1272	K5411067	Widita Acintyasakti	872022018000396	20-07-2018	selesai	selesai	Sudah
+1273	K5411071	Zwageri Dyah Hadi Purwani. S	872022018000372	23-07-2018	selesai	selesai	Sudah
+1274	K5412032	Firman Saksono	872022018000334	10-07-2018	selesai	selesai	Sudah
+1275	K5414015	Diah Ainurrohmah	872022018000419	01-08-2018	selesai	selesai	Sudah
+1276	K5414026	Hikari Dwi Saputro	121/R/UN27.02/S1/2018	03-08-2018	selesai	selesai	Sudah
+1277	K5414052	Wahyuning Kusumaningrum	120/R/UN27.02/S1/2018	01-08-2018	selesai	selesai	Sudah
+1278	K5414055	Yosua Krista Abetnego	119/R/UN27.02/S1/2018	01-08-2018	selesai	selesai	Sudah
+1279	K5611046	Ilham Raup Pammuji	852022018000491	31-07-2018	selesai	selesai	Sudah
+1280	K5611078	Wahyu Hartanto	122/R/UN27.02/S1/2018	06-06-2018	selesai	selesai	Sudah
+1281	K5613052	Muhammad Ridwan	852022018000477	23-07-2018	selesai	selesai	Sudah
+1282	K5614001	Aditiyo Pratomo	852022018000484	02-08-2018	selesai	selesai	Sudah
+1283	K6411014	Atin Putri Sanyoto	872052018000164	02-07-2018	selesai	selesai	Sudah
+1284	K6413039	Lancar Eko Sumiyati	872052018000171	28-06-2018	selesai	selesai	Sudah
+1285	K6414007	Anggi Yoga Pramanda	872052018000140	11-07-2018	selesai	selesai	Sudah
+1286	K6414009	Anggun Puspitasari	872052018000188	23-08-2018	selesai	selesai	Sudah
+1287	K6414014	Dian Tarakanita	872052018000133	09-07-2018	selesai	selesai	Sudah
+1288	K6414022	Endang Wulandari	872052018000126	16-07-2018	selesai	selesai	Sudah
+1289	K6414036	Lisa Agustini	872052018000195	16-08-2018	selesai	selesai	Sudah
+1290	K6414043	Pungky Ayu Yulitasari	872052018000201	18-07-2018	selesai	selesai	Sudah
+1291	K6414050	Roy Wardana	872052018000157	16-07-2018	selesai	selesai	Sudah
+1292	K7111146	Nur Sangadah	862062018000722	11-07-2018	selesai	selesai	Sudah
+1293	K7114016	Annisa Ilmi Nurrani	123/R/UN27.02/S1/2018	23-07-2018	selesai	selesai	Sudah
+1294	K7114030	Dede Eka Putri	862062018000647	23-07-2018	selesai	selesai	Sudah
+1295	K7114045	Eka Nugrahastuti	086/R/UN27.02/S1/2018	25-07-2018	selesai	selesai	Sudah
+1296	K7114050	Ermi Widyaningsih	862062018000708	24-07-2018	selesai	selesai	Sudah
+1297	K7114055	Ganing Widarwati	862062018000715	24-07-2018	selesai	selesai	Sudah
+1298	K7114062	Hening Damantari	862062018000654	17-07-2018	selesai	selesai	Sudah
+1299	K7114079	Istabiqul 'Ilma	124/R/UN27.02/S1/2018	23-07-2018	selesai	selesai	Sudah
+1300	K7114091	Latifah Aulia Harini	862062018000661	23-07-2018	selesai	selesai	Sudah
+1301	K7114100	Linda Pradina Candra	862062018000678	19-07-2018	selesai	selesai	Sudah
+1302	K7114109	Miftakhul Husna	862062018000739	23-07-2018	selesai	selesai	Sudah
+1303	K7114130	Proborini	862062018000685	24-07-2018	selesai	selesai	Sudah
+1304	K7114144	Reza Fachrudin Zuhdi	862062018000746	09-07-2018	selesai	selesai	Sudah
+1305	K7114158	Rudi Danang Widodo	090/R/UN27.02/S1/2018	25-07-2018	selesai	selesai	Sudah
+1306	K7114161	Salwaa Nadiya Alif	862062018000692	18-07-2018	selesai	selesai	Sudah
+1307	K7114166	Sifa Adriani Prihatina	862062018000753	21-08-2018	selesai	selesai	Sudah
+1308	K7114176	Sulistya Ardiani Kusumastuti	125/R/UN27.02/S1/2018	26-07-2018	selesai	selesai	Sudah
+1309	K7114184	Venny Noermalita Sari	862062018000760	03-08-2018	selesai	selesai	Sudah
+1310	K7114186	Widya Atika	862062018000777	25-07-2018	selesai	selesai	Sudah
+1311	K7114194	Yuni Latifa	091/R/UN27.02/S1/2018	25-07-2018	selesai	selesai	Sudah
+1312	K7114195	Yuniarti	862062018000784	24-07-2018	selesai	selesai	Sudah
+1313	K7114512	Sinta Hirama	862062018000791	31-07-2018	selesai	selesai	Sudah
+1314	K7412196	Risuma Pratama Putra	872032018000449	23-07-2018	selesai	selesai	Sudah
+1315	K7413005	Afrilia Khusnul Khotimah	872032018000425	31-05-2018	selesai	selesai	Sudah
+1316	K7413025	Ayu Putri Santoso	872032018000432	19-07-2018	selesai	selesai	Sudah
+1317	K7413031	Casey Melverna	872032018000623	18-07-2018	selesai	selesai	Sudah
+1318	K7413034	Cholid Rinaldy	872032018000401	20-07-2018	selesai	selesai	Sudah
+1319	K7413062	Fajar Anwar Dani	872032018000555	19-07-2018	selesai	selesai	Sudah
+1320	K7413070	Gita Mei Khusnul Khotimah	872032018000579	30-07-2018	selesai	selesai	Sudah
+1321	K7413096	Lita Kumala Sari	872032018000470	18-07-2018	selesai	selesai	Sudah
+1322	K7414004	Anggun Parwati	872032018000524	25-07-2018	selesai	selesai	Sudah
+1323	K7414012	Cristia Andi Wiguna	872032018000609	23-07-2018	selesai	selesai	Sudah
+1324	K7414016	Elsera Windarizki Damayanti	872032018000418	24-05-2018	selesai	selesai	Sudah
+1325	K7414021	Eva Yulia Rustanti	872032018000531	24-07-2018	selesai	selesai	Sudah
+1326	K7414023	Idam Roma Saputra	872032018000463	09-07-2018	selesai	selesai	Sudah
+1327	K7414027	Laras Indah Kartikawati	872032018000456	09-07-2018	selesai	selesai	Sudah
+1328	K7414036	Noni Aprilia Bintoro	872032018000548	25-07-2018	selesai	selesai	Sudah
+1329	K7414047	Sekar Paramita Siska Dewi	872032018000487	13-07-2018	selesai	selesai	Sudah
+1330	K7414056	Widyaloka Intan Anindhita	872032018000593	26-07-2018	selesai	selesai	Sudah
+1331	K7514004	Allesia Luh Candri	872102018000371	27-07-2018	selesai	selesai	Sudah
+1332	K7514012	Bayu Aji Pamungkas	872102018000340	30-07-2018	selesai	selesai	Sudah
+1333	K7514028	Hesti Mutiara Imanti	872102018000319	30-05-2018	selesai	selesai	Sudah
+1334	K7514029	Ika Cahya Kurniawati	872102018000333	17-07-2018	selesai	selesai	Sudah
+1335	K7514034	Isna Firdha Rahmawati	872102018000296	06-08-2018	selesai	selesai	Sudah
+1336	K7514042	Nimas Ajeng Megaswari	872102018000364	25-07-2018	selesai	selesai	Sudah
+1337	K7514047	Putri Fara Sholihah	872102018000302	23-07-2018	selesai	selesai	Sudah
+1338	K7514048	Rani Puspitasari	872102018000326	17-07-2018	selesai	selesai	Sudah
+1339	K7514049	Retno Liangkusmawati	872102018000289	17-07-2018	selesai	selesai	Sudah
+1340	K7514054	Sarwiningsih	872102018000272	23-07-2018	selesai	selesai	Sudah
+1341	K7514055	Siti Aimmatul Latifah	126/R/UN27.02/S1/2018	30-07-2018	selesai	selesai	Sudah
+1342	K7514059	Umi Mahmudah	872102018000388	27-07-2018	selesai	selesai	Sudah
+1343	K7514062	Yoga Nur Rohman	872102018000357	30-07-2018	selesai	selesai	Sudah
+1344	K7614015	Della Arsitta Putri	092/R/UN27.02/S1/2018	31-07-2018	selesai	selesai	Sudah
+1345	K7614018	Dian Rahmawati	872032018000562	31-07-2018	selesai	selesai	Sudah
+1346	K7614026	Khoirul Janah	872032018000494	16-07-2018	selesai	selesai	Sudah
+1347	K7614027	Kyestiyana Probo Candrarini	872032018000500	20-07-2018	selesai	selesai	Sudah
+1348	K7614036	Pelangi Atha Amalya	127/R/UN27.02/S1/2018	31-07-2018	selesai	selesai	Sudah
+1349	K7614047	Rizlaili Istiqomah	128/R/UN27.02/S1/2018	17-09-2018	selesai	selesai	Sudah
+1350	K7614049	Sela Vitria Susilowati	872032018000616	31-07-2018	selesai	selesai	Sudah
+1351	K7614050	Septiana Dewi Cahyanti	872032018000586	15-08-2018	selesai	selesai	Sudah
+1352	K7614055	Virginia Ika Dani Nurgiyantari	872032018000517	26-06-2018	selesai	selesai	Sudah
+1353	K8111068	Tri Idawati	862072018000233	02-04-2018	selesai	selesai	Sudah
+1354	K8112056	Rafiqah Isnaini	862072018000240	03-04-2018	selesai	selesai	Sudah
+1355	K8113051	Mega Indhiaini Ma'rifatin	862072018000271	30-07-2018	selesai	selesai	Sudah
+1356	K8114013	Chrisma Arum Kartikadewi	862072018000288	31-07-2018	selesai	selesai	Sudah
+1357	K8114028	Hana Tiara Pertiwi	862072018000257	30-07-2018	selesai	selesai	Sudah
+1358	K8114036	Mainita Elisnawati	862072018000295	01-08-2018	selesai	selesai	Sudah
+1359	K8114038	Marlina Shinta Putri	862072018000264	27-07-2018	selesai	selesai	Sudah
+1360	K8114039	Mega Sinta Wulandari	862072018000301	31-07-2018	selesai	selesai	Sudah
+1361	K8114041	Muna Nur Insani	130/R/UN27.02/S1/2018	27-08-2018	selesai	selesai	Sudah
+1362	K8114057	Riska Puspaningrum	862072018000318	31-07-2018	selesai	selesai	Sudah
+1363	K8114072	Woro Anjar Verianty	129/R/UN27.02/S1/2018	31-08-2018	selesai	selesai	Sudah
+1364	K8411026	Edo Johan Pratama	872042018000110	27-07-2018	selesai	selesai	Sudah
+1365	K8411039	Ita Rohmika	872042018000165	31-07-2018	selesai	selesai	Sudah
+1366	K8411042	Muhamad Najib Shofy	872042018000127	10-04-2018	selesai	selesai	Sudah
+1367	K8412005	Andari Wulan Nugrahani	872042018000189	13-08-2018	selesai	selesai	Sudah
+1368	K8412075	Sindy Arti Wulandari	872042018000141	04-05-2018	selesai	selesai	Sudah
+1369	K8413050	Muntari Dian Nurbaitti	872042018000172	06-04-2018	selesai	selesai	Sudah
+1370	K8414005	Ambarwati Mawaddatur Rohmah	872042018000158	15-08-2018	selesai	selesai	Sudah
+1371	K8414059	Yeniarti Juwita	872042018000134	24-07-2018	selesai	selesai	Sudah
+1372	M0112061	Novan Azis Prasetyo	014/R/UN27.09/S1/2018	31-07-2018	proses	belum	belum
+1373	M0113002	Agus Nur Cahyabudi	442012018000468	25-06-2018	selesai	selesai	Sudah
+1374	M0113019	Guntur Arief Darmawan	442012018000536	30-07-2018	selesai	selesai	Sudah
+1375	M0113032	Muhammad Nur Abdul 'Aziz	442012018000505	31-07-2018	selesai	selesai	Sudah
+1376	M0113051	Tri Indrayana Prasetya	442012018000550	30-07-2018	selesai	selesai	Sudah
+1377	M0114006	Chita Ulfah	442012018000543	31-07-2018	selesai	selesai	Sudah
+1378	M0114010	Dhina Prabandari	442012018000499	02-08-2018	selesai	selesai	Sudah
+1379	M0114013	Fadry Akbar	442012018000475	28-06-2018	proses	belum	belum
+1380	M0114023	Lestari Jatiningsih	442012018000482	02-08-2018	selesai	selesai	Sudah
+1381	M0114029	Mohamad Ihsan Angli	013/R/UN27.09/S1/2018	30-07-2018	proses	belum	belum
+1382	M0114046	Rizcka Indah Hani Pratama	442012018000512	13-08-2018	selesai	selesai	Sudah
+1383	M0114052	Suryani	442012018000529	16-08-2018	selesai	selesai	Sudah
+1384	M0213058	Mohamad Nur Arifin	452012018000458	30-07-2018	selesai	selesai	Sudah
+1385	M0213059	Muchammad Ilham Lutfi Hakim	452012018000380	30-07-2018	selesai	selesai	Sudah
+1386	M0213066	Nur Esti Meilia	016/R/UN27.09/S1/2018	27-07-2018	selesai	selesai	Sudah
+1387	M0214007	Ana Melia Wahyanti	018/R/UN27.09/S1/2018	31-07-2018	selesai	selesai	Sudah
+1388	M0214009	Ariyanti	452012018000366	31-07-2018	selesai	selesai	Sudah
+1389	M0214010	Ayu Sinta Kusrini	019/R/UN27.09/S1/2018	27-08-2018	selesai	selesai	Sudah
+1390	M0214014	Briant Sabathino Harya Wibawa	452012018000311	30-07-2018	selesai	selesai	Sudah
+1391	M0214016	Dina Wahyu Lestari	452012018000441	27-07-2018	selesai	selesai	Sudah
+1392	M0214017	Dwi Rizki Puspaningtyas	452012018000281	27-07-2018	selesai	selesai	Sudah
+1393	M0214024	Inas Alifatus Salma	017/R/UN27.09/S1/2018	29-08-2018	selesai	selesai	Sudah
+1394	M0214026	Iza Shafera Hardiyanti	452012018000465	31-07-2018	selesai	selesai	Sudah
+1395	M0214035	Maya Fransisca Ariyani	452012018000304	31-07-2018	selesai	selesai	Sudah
+1396	M0214036	Mercuryta Dewi Noviastuti	452012018000359	26-07-2018	selesai	selesai	Sudah
+1397	M0214038	Muhamad Adyanto Hatmo Putera	015/R/UN27.09/S1/2018	31-07-2018	selesai	selesai	Sudah
+1398	M0214039	Muhammad Amrial	452012018000410	26-07-2018	selesai	selesai	Sudah
+1399	M0214043	Naely Nurul Husna	452012018000298	26-07-2018	selesai	selesai	Sudah
+1400	M0214045	Niken Apriyani	452012018000335	26-07-2018	selesai	selesai	Sudah
+1401	M0214046	Nindya Dyah Ayu Anggraini	452012018000427	31-07-2018	proses	belum	belum
+1402	M0214050	Nurul Azizah	452012018000328	31-07-2018	selesai	selesai	Sudah
+1403	M0214052	Olivia Maftukhaturrizqoh	452012018000373	30-07-2018	selesai	selesai	Sudah
+1404	M0214053	Opta Muzaki Effendi	452012018000472	31-07-2018	selesai	selesai	Sudah
+1405	M0214059	Retna Arilasita	452012018000342	17-07-2018	selesai	selesai	Sudah
+1406	M0214060	Rizki Agung Satrio Darmawan	452012018000434	27-07-2018	selesai	selesai	Sudah
+1407	M0214064	Setiyo Wahyu Wulandari	452012018000397	26-07-2018	selesai	selesai	Sudah
+1408	M0214070	Vina Lidyana	452012018000403	30-07-2018	selesai	selesai	Sudah
+1409	M0313052	Nikmatuz Zuhrini Azizah	020/R/UN27.09/S1/2018	27-07-2018	proses	belum	belum
+1410	M0314014	Betty Nurhayati	472012018000452	25-07-2018	selesai	selesai	Sudah
+1411	M0314015	Bondan Mutiara Wildam Sunardi	030/R/UN27.09/S1/2018	18-09-2018	selesai	selesai	Sudah
+1412	M0314019	Diah Ayu Rivani	021/R/UN27.09/S1/2018	16-08-2018	selesai	selesai	Sudah
+1413	M0314028	Era Putri Anandita	022/R/UN27.09/S1/2018	12-09-2018	selesai	selesai	Sudah
+1414	M0314059	Oktaviani Nur Aniza	023/R/UN27.09/S1/2018	19-09-2018	selesai	selesai	Sudah
+1415	M0314075	Tria Hikma Novita	472012018000469	24-08-2018	selesai	selesai	Sudah
+1416	M0314078	Yayan Dwi Sutarni	024/R/UN27.09/S1/2018	19-09-2018	selesai	selesai	Sudah
+1417	M0411002	Ahmad Faizal Mustofa	026/R/UN27.09/S1/2018	20-07-2018	selesai	selesai	Sudah
+1418	M0411030	Ismanu Dwiyan Putra	462012018000318	27-07-2018	selesai	selesai	Sudah
+1419	M0411079	Veronica Prista Sari	462012018000257	03-07-2018	selesai	selesai	Sudah
+1420	M0413035	Nafsul Muthmainnah	462012018000332	31-07-2018	selesai	selesai	Sudah
+1421	M0414002	Adinda Jatu Meidiani	462012018000301	31-07-2018	selesai	selesai	Sudah
+1422	M0414016	Devi Indrawati	025/R/UN27.09/S1/2018	17-09-2018	selesai	selesai	Sudah
+1423	M0414029	Hani Wulandari Pratiwi	462012018000233	30-07-2018	selesai	selesai	Sudah
+1424	M0414033	Inggrit Ardiani	462012018000196	23-07-2018	selesai	selesai	Sudah
+1425	M0414034	Intania Dea Mentariana	462012018000226	31-07-2018	selesai	selesai	Sudah
+1426	M0414035	Irma Nugraheni	462012018000271	17-07-2018	selesai	selesai	Sudah
+1427	M0414040	Kavita Febriani Putri	462012018000219	01-08-2018	selesai	selesai	Sudah
+1428	M0414041	Khansa Humaira	462012018000202	16-07-2018	selesai	selesai	Sudah
+1429	M0414042	Laurensius Benny Chrisheryanto	462012018000264	14-08-2018	selesai	proses	belum
+1430	M0414049	Meilanma Sari	462012018000240	20-07-2018	selesai	selesai	Sudah
+1431	M0414058	Prista Kusumaningtyas Hikmawati	462012018000288	07-08-2018	selesai	selesai	Sudah
+1432	M0414064	Serly Fuada Rizka	462012018000295	31-07-2018	selesai	selesai	Sudah
+1433	M0414072	Widha Puspa Tanjung	462012018000325	14-08-2018	selesai	selesai	Sudah
+1434	M0511019	Dinar Budi Saputro	552012018000075	20-04-2018	proses	belum	belum
+1435	M0512014	Dwi Pramita Bagassanty Bestari	552012018000143	25-07-2018	selesai	selesai	Sudah
+1436	M0513001	Achmad Khusyaini	552012018000082	24-07-2018	selesai	selesai	Sudah
+1437	M0513010	Azaria Nur Fadhilah	552012018000099	24-07-2018	selesai	selesai	Sudah
+1438	M0513027	Lia Ristiana	552012018000150	25-07-2018	selesai	selesai	Sudah
+1439	M0513031	Maysa Marshallia	552012018000105	23-07-2018	selesai	selesai	Sudah
+1440	M0513041	Rizal Choiri Ramadhon	027/R/UN27.09/S1/2018	23-07-2018	selesai	selesai	Sudah
+1441	M0514027	Kelvin Herwanda Tandrio	552012018000112	27-07-2018	selesai	selesai	Sudah
+1442	M0514029	Kuni Nur Aini	552012018000129	17-07-2018	selesai	selesai	Sudah
+1443	M0514047	Rina Dwi Setianingrum	552012018000136	23-07-2018	selesai	selesai	Sudah
+1444	M0614013	Danis Khoirun Nissa	482012018000206	21-08-2018	selesai	selesai	Sudah
+1445	M0614015	Elsa Prasetyaningrum	482012018000213	31-07-2018	selesai	selesai	Sudah
+1446	M0614031	Magdalena Wahyu Kristanti	029/R/UN27.09/S1/2018	06-09-2018	selesai	selesai	Sudah
+1447	M0614039	Nevirka Miararani	028/R/UN27.09/S1/2018	18-09-2018	selesai	selesai	Sudah
+1448	M0614049	Rindang Lukmasari	482012018000220	21-08-2018	selesai	selesai	Sudah
+1449	M0614058	Zahroh Nur Laily	482012018000237	15-08-2018	selesai	selesai	Sudah
+1450	M0614059	Zulva Ulviana Yudha	482012018000244	20-08-2018	selesai	selesai	Sudah
+1451	M3113036	Dear Kurniawan Adi Anggara	554012018000127	20-07-2018	selesai	selesai	Sudah
+1452	M3113071	Ilham Akbar	554012018000141	24-07-2018	selesai	selesai	Sudah
+1453	M3115001	Abdul Latief Asep Nugroho	554012018000394	23-07-2018	selesai	selesai	Sudah
+1454	M3115003	Abdullah Hanif	002/R/UN27.09/D3/2018	31-07-2018	selesai	selesai	Sudah
+1455	M3115011	Afwan Amirul Muchsinin	003/R/UN27.09/D3/2018	25-07-2018	selesai	selesai	Sudah
+1456	M3115014	Ahzan Miftahudin Zuhri	004/R/UN27.09/D3/2018	25-07-2018	selesai	selesai	Sudah
+1457	M3115015	Alfin Eurekasina	005/R/UN27.09/D3/2018	23-07-2018	selesai	selesai	Sudah
+1458	M3115018	Ana Nur Isnaini	006/R/UN27.09/D3/2018	29-08-2018	proses	belum	belum
+1459	M3115020	Andri Sulistyanto	554012018000363	25-07-2018	selesai	selesai	Sudah
+1460	M3115023	Anggit Pangestu	007/R/UN27.09/D3/2018	31-08-2018	selesai	selesai	Sudah
+1461	M3115027	Ariel Yonatan Alin	008/R/UN27.09/D3/2018	28-08-2018	selesai	selesai	Sudah
+1462	M3115030	Arung Alam	009/R/UN27.09/D3/2018	30-08-2018	proses	belum	belum
+1463	M3115031	Atsalis Difa Ila Fatah	554012018000370	23-07-2018	selesai	selesai	Sudah
+1464	M3115035	Beta Farhan Hartawan	010/R/UN27.09/D3/2018	28-08-2018	proses	belum	belum
+1465	M3115042	Destyan Wahyusih Madiastuti	011/R/UN27.09/D3/2018	28-08-2018	selesai	selesai	Sudah
+1466	M3115044	Dian Pratiwi	012/R/UN27.09/D3/2018	24-07-2018	proses	belum	belum
+1467	M3115045	Dita Maharni	013/R/UN27.09/D3/2018	27-08-2018	selesai	selesai	Sudah
+1468	M3115048	Dyah Ayu Anggraini	014/R/UN27.09/D3/2018	30-08-2018	selesai	selesai	Sudah
+1469	M3115052	Endang Setyaningsih	554012018000516	19-07-2018	selesai	selesai	Sudah
+1470	M3115056	Farihah	554012018000189	19-07-2018	selesai	selesai	Sudah
+1471	M3115059	Fitriani Ade Purwahyo	554012018000172	19-07-2018	selesai	selesai	Sudah
+1472	M3115060	Galih Sulistiyo	554012018000219	24-07-2018	selesai	selesai	Sudah
+1473	M3115061	Giri Pratama	554012018000455	20-07-2018	selesai	selesai	Sudah
+1474	M3115062	Hafidh Amrullah	554012018000462	30-08-2018	selesai	selesai	Sudah
+1475	M3115067	Harlita Keni Damonti	015/R/UN27.09/D3/2018	24-07-2018	selesai	selesai	Sudah
+1476	M3115068	Helmi Adi Prasetyo	554012018000332	24-07-2018	selesai	selesai	Sudah
+1477	M3115071	Ikhwan Kurniawan	554012018000295	25-07-2018	selesai	selesai	Sudah
+1478	M3115072	Imartya Wikriyanti	554012018000349	24-07-2018	selesai	selesai	Sudah
+1479	M3115074	Jati Sarana Pardiyana	554012018000417	27-08-2018	selesai	selesai	Sudah
+1480	M3115075	Katherin Secondthania Novit	554012018000110	06-07-2018	selesai	selesai	Sudah
+1481	M3115077	Khoirul Nuryahya	554012018000424	25-07-2018	selesai	selesai	Sudah
+1482	M3115079	Lisya Agustina	016/R/UN27.09/D3/2018	27-08-2018	selesai	selesai	Sudah
+1483	M3115081	Lucia Dinta Pratiwi	554012018000134	06-07-2018	selesai	selesai	Sudah
+1484	M3115082	Lufti Puspitasari	554012018000233	20-07-2018	selesai	proses	belum
+1485	M3115083	Muhammad Rizky Yunus	017/R/UN27.09/D3/2018	23-07-2018	selesai	selesai	Sudah
+1486	M3115086	Mia Aulia Agustin	554012018000165	06-07-2018	selesai	selesai	Sudah
+1487	M3115093	Muhammad Rizqi Erliyanto	554012018000271	26-07-2018	selesai	selesai	Sudah
+1488	M3115094	Nabila Ardhiana	554012018000158	20-07-2018	selesai	selesai	Sudah
+1489	M3115095	Nadia Hepyntha	554012018000509	19-07-2018	proses	belum	belum
+1490	M3115097	Nimpuna Dewanggani	018/R/UN27.09/D3/2018	29-08-2018	selesai	selesai	Sudah
+1491	M3115098	Ninda Saraswati	019/R/UN27.09/D3/2018	30-08-2018	selesai	selesai	Sudah
+1492	M3115102	Novika Ardiyaningtyas	020/R/UN27.09/D3/2018	29-08-2018	proses	belum	belum
+1493	M3115104	Nur Alif Mustofa	554012018000493	23-07-2018	selesai	selesai	Sudah
+1494	M3115106	Nurul Kharisma Aghentika	554012018000325	23-07-2018	selesai	proses	belum
+1495	M3115108	Pratiwi Winastuti	021/R/UN27.09/D3/2018	29-08-2018	selesai	proses	belum
+1496	M3115110	Putri Pratiwi	022/R/UN27.09/D3/2018	31-08-2018	selesai	selesai	Sudah
+1497	M3115112	Retno Utami	554012018000431	25-07-2018	selesai	selesai	Sudah
+1498	M3115115	Rika Ayu Harnani	554012018000400	27-08-2018	selesai	selesai	Sudah
+1499	M3115119	Rizal Abdilah	023/R/UN27.09/D3/2018	30-08-2018	selesai	selesai	Sudah
+1500	M3115123	Robby Bagus Sadewa	554012018000486	05-07-2018	proses	belum	belum
+1501	M3115125	Roni Adiatmoko	554012018000356	05-07-2018	selesai	selesai	Sudah
+1502	M3115129	Sukma Yulianingtyas	025/R/UN27.09/D3/2018	28-08-2018	selesai	selesai	Sudah
+1503	M3115130	Syahrul Hendianto	554012018000196	28-08-2018	selesai	selesai	Sudah
+1504	M3115131	Syahrul Munir	554012018000240	25-07-2018	selesai	selesai	Sudah
+1505	M3115133	Talitha Rachma	554012018000202	18-07-2018	selesai	selesai	Sudah
+1506	M3115134	Theo Ady Nugroho	554012018000257	24-07-2018	selesai	selesai	Sudah
+1507	M3115137	Tri Utami	554012018000318	25-07-2018	selesai	selesai	Sudah
+1508	M3115138	Tutot Budi Lukito	024/R/UN27.09/D3/2018	30-08-2018	selesai	selesai	Sudah
+1509	M3115139	Wildan Naufal Santora	554012018000387	23-07-2018	selesai	selesai	Sudah
+1510	M3115142	Wulan Triyanti	554012018000301	18-06-2018	selesai	selesai	Sudah
+1511	M3115143	Yanuar Arif Ramadhan	554012018000288	25-07-2018	selesai	selesai	Sudah
+1512	M3115144	Yoko Setiyo	554012018000264	19-07-2018	selesai	selesai	Sudah
+1513	M3115147	Zevita Desy Nur'aini	554012018000479	24-07-2018	selesai	selesai	Sudah
+1514	M3115149	Zuldwihani Aniawahab Baita Salam Murtiono	554012018000226	20-07-2018	selesai	selesai	Sudah
+1515	M3115151	Amie Maya Angelia	554012018000448	23-07-2018	proses	belum	belum
+1516	M3515015	Dyah Ayu Candra Permatasari	484012018000426	16-07-2018	selesai	selesai	Sudah
+1517	M3515021	Ika Jayanti Istiningsih	484012018000389	17-07-2018	selesai	selesai	Sudah
+1518	M3515022	Ika Nur Rahmawati	484012018000464	19-07-2018	selesai	selesai	Sudah
+1519	M3515023	Indah Irawan	484012018000433	17-07-2018	selesai	selesai	Sudah
+1520	M3515024	Intarti Sulandari	484012018000396	20-07-2018	selesai	selesai	Sudah
+1521	M3515025	Judith Ade Ardiani	484012018000440	20-07-2018	selesai	selesai	Sudah
+1522	M3515029	Mahardika Wahyu Fauziah	484012018000457	18-07-2018	selesai	selesai	Sudah
+1523	M3515035	Nurun Al Najmah	484012018000402	17-07-2018	selesai	selesai	Sudah
+1524	M3515038	Ratih Nur Rahmawati	484012018000419	18-07-2018	selesai	selesai	Sudah
+1525	M3515049	Shofi Fadhlur Rahmayanti	001/R/UN27.09/D3/2018	30-07-2018	proses	belum	belum
+1526	M3515059	Farikatul Sufi Mujahidah	484012018000471	27-07-2018	selesai	selesai	Sudah
+1527	R0015001	Adib Nur Huda	134412018000910	25-07-2018	selesai	selesai	Sudah
+1528	R0015009	Alfian Adi Candra	134412018000903	20-07-2018	proses	belum	belum
+1529	R0015017	Ayu Astutik	134412018000927	19-07-2018	selesai	selesai	Sudah
+1530	R0015028	Diatri Kusumawardani Budi Raharjo	134412018000811	23-07-2018	proses	belum	belum
+1531	R0015038	Giri Prasetyo Aji	134412018000873	19-07-2018	proses	belum	belum
+1532	R0015039	Hanif Mustofa	134412018000842	26-07-2018	selesai	selesai	Sudah
+1533	R0015041	Hidayati Nur Kumalasari	134412018000804	04-06-2018	proses	belum	belum
+1534	R0015042	Ibnu Syihab Azzuhri	134412018000859	18-07-2018	selesai	selesai	Sudah
+1535	R0015052	Kenny Satrio Mahissa Putro	134412018000897	18-07-2018	selesai	selesai	Sudah
+1536	R0015055	Khoirunisa Nindya Indargo	134412018000866	26-07-2018	proses	belum	belum
+1537	R0015061	Lutfika Prasetyawati	134412018000880	19-07-2018	selesai	selesai	Sudah
+1538	R0015077	Putri Nadhifah Pranur Oktiansri	134412018000781	24-07-2018	selesai	selesai	Sudah
+1539	R0015083	Selviana Arum Saputri	134412018000828	19-07-2018	selesai	selesai	Sudah
+1540	R0015093	Tintrim Antika Danu Putri	134412018000798	20-07-2018	proses	belum	belum
+1541	R0015096	Trisnawati Inayah	134412018000835	24-07-2018	selesai	selesai	Sudah
+1542	R0213007	Anisyah Ayu Umi Atiah	140/R/UN27.06/D4/2017	27-11-2017	selesai	selesai	Sudah
+1543	R0214018	Aprisintia Claudia Imani	133412018000577	17-07-2018	selesai	selesai	Sudah
+1544	R0214023	Bagus Budhi Bowo Laksono	133412018000645	20-07-2018	selesai	selesai	Sudah
+1545	R0214028	Dicky Arif Rahman Prakoso	133412018000706	10-08-2018	selesai	selesai	Sudah
+1546	R0214030	Eko Putri Wahyu Setiorini	133412018000652	02-08-2018	proses	belum	belum
+1547	R0214036	Fatimah Nur Rohmah	133412018000638	25-07-2018	selesai	selesai	Sudah
+1548	R0214044	Ikfania Anggraeni	133412018000553	31-07-2018	proses	belum	belum
+1549	R0214048	Indahwati	133412018000614	16-07-2018	selesai	selesai	Sudah
+1550	R0214056	Lutfijeries Mahardika Pratama	133412018000683	03-08-2018	selesai	selesai	Sudah
+1551	R0214059	Maria Celia Vanda Claretta	133412018000669	31-07-2018	proses	belum	belum
+1552	R0214066	Muhammad Teguh Dian Purnomo	133412018000607	02-08-2018	selesai	selesai	Sudah
+1553	R0214075	Nuryuni Dyahayuningtyas	133412018000560	10-08-2018	proses	belum	belum
+1554	R0214077	Putra Ardi Ightiarudin	133412018000713	17-07-2018	selesai	selesai	Sudah
+1555	R0214084	Rizal Abdul Aziz	133412018000584	23-07-2018	selesai	selesai	Sudah
+1556	R0214087	Ruqoyyah	133412018000591	31-07-2018	proses	belum	belum
+1557	R0214088	Safritna Sarah Sahara Ni'mah	133412018000621	24-07-2018	proses	belum	belum
+1558	R0214089	Salma Nabila	133412018000690	13-07-2018	selesai	selesai	Sudah
+1559	R0214092	Shalahuddin Al Ayyubi	133412018000676	02-08-2018	selesai	selesai	Sudah
+1560	R0214104	Zulfa Dita Chonita	133412018000546	03-08-2018	proses	belum	belum
+1561	R0315032	Mufidah Ramadhian Surya	154012018000503	07-08-2018	selesai	selesai	Sudah
+1562	S021502059	Prita Yuliana Irnawati	131012018000342	10-08-2018	selesai	selesai	Sudah
+1563	S021508072	Endah Kusuma Wardani	188/UN27.20/S2/2018	13-02-2018	selesai	selesai	Sudah
+1564	S021602008	Arum Wijayanti	195/UN27.20/S2/2018	19-09-2018	selesai	selesai	Sudah
+1565	S021602012	Dily Ekasari	185/UN27.20/S2/2018	26-02-2018	selesai	selesai	Sudah
+1566	S021602014	Ernawati	131012018000328	10-08-2018	selesai	selesai	Sudah
+1567	S021602018	Ika Yulianti	200/UN27.20/S2/2018	06-08-2018	selesai	selesai	Sudah
+1568	S021602056	Syarifatul Fikriyyah	194/UN27.20/S2/2018	08-08-2018	selesai	selesai	Sudah
+1569	S021602065	Wahyu Tri Sudaryanto	131012018000281	03-08-2018	selesai	selesai	Sudah
+1570	S021602071	Yuli Lutfatul Fajriyah	189/UN27.20/S2/2018	04-08-2018	selesai	selesai	Sudah
+1571	S021602072	Yulia Fitriani	197/UN27.20/S2/2018	04-06-2018	selesai	selesai	Sudah
+1572	S021602076	Tena Kogoya	204/UN27.20/S2/2018	20-07-2018	selesai	selesai	Sudah
+1573	S021602077	Yulianda Yeimo	203/UN27.20/S2/2018	16-07-2018	proses	belum	belum
+1574	S021608002	Alfadefi Khalifatunnisak	198/UN27.20/S2/2018	10-08-2018	selesai	selesai	Sudah
+1575	S021608009	Bunga Mutiara Lailatul Jannah	201/UN27.20/S2/2018	06-08-2018	selesai	selesai	Sudah
+1576	S021608010	Dea Linia Romadhoni	131012018000359	10-08-2018	selesai	selesai	Sudah
+1577	S021608011	Desy Eka Ilmiyah	205/UN27.20/S2/2018	08-08-2018	selesai	selesai	Sudah
+1578	S021608012	Devita Agustina	206/UN27.20/S2/2018	10-08-2018	selesai	selesai	Sudah
+1579	S021608014	Dewi Saptowati	131012018000397	02-08-2018	selesai	selesai	Sudah
+1580	S021608017	Diana Sayidah	202/UN27.20/S2/2018	10-08-2018	selesai	selesai	Sudah
+1581	S021608020	Dyah Ayu Agustin	131012018000298	30-07-2018	selesai	selesai	Sudah
+1582	S021608023	Erick Zicof	131012018000236	03-08-2018	selesai	selesai	Sudah
+1583	S021608027	Fitriyani Dwi Astuti	131012018000243	10-08-2018	selesai	selesai	Sudah
+1584	S021608028	Gabriela Advitri Febriani	131012018000250	30-07-2018	selesai	selesai	Sudah
+1585	S021608030	Handoko	131012018000212	27-07-2018	selesai	selesai	Sudah
+1586	S021608032	Harrys Bachtiar	131012018000274	03-08-2018	selesai	selesai	Sudah
+1587	S021608034	Heni Rusmitasari	131012018000403	10-08-2018	selesai	selesai	Sudah
+1588	S021608036	Husniyati Sajalia	208/UN27.20/S2/2018	10-08-2018	selesai	selesai	Sudah
+1589	S021608037	Indah Permatasari Sinawangwulan	131012018000229	01-08-2018	selesai	proses	belum
+1590	S021608044	Nur Fika Roobiati	199/UN27.20/S2/2018	10-08-2018	selesai	selesai	Sudah
+1591	S021608046	Nurul Wahidah	131012018000311	10-08-2018	selesai	selesai	Sudah
+1592	S021608047	Rindra Deviasti	131012018000366	10-08-2018	selesai	selesai	Sudah
+1593	S021608049	Rizqa Kartika Dewi	207/UN27.20/S2/2018	08-08-2018	selesai	selesai	Sudah
+1594	S021608050	Sri Hartini	131012018000335	07-08-2018	selesai	selesai	Sudah
+1595	S021608052	Tegar Wahyu Yudha Pratama	131012018000373	03-08-2018	selesai	selesai	Sudah
+1596	S021608053	Tersia Marentiva Tungga	131012018000205	24-07-2018	selesai	selesai	Sudah
+1597	S021608054	Titis Eka Gusti	131012018000380	01-08-2018	selesai	selesai	Sudah
+1598	S021608056	Ummy Prasetyowati	131012018000304	19-09-2018	selesai	selesai	Sudah
+1599	S021608058	Yustina Purwaningsih	196/UN27.20/S2/2018	10-08-2018	selesai	selesai	Sudah
+1600	S021608059	Zummatul Atika	131012018000267	02-08-2018	selesai	selesai	Sudah
+1601	S031508001	Arief Pratomo	861062018000334	25-07-2018	selesai	selesai	Sudah
+1602	S031508007	Heri Mulyanto	861062018000358	07-08-2018	selesai	selesai	Sudah
+1603	S031602004	Avikasari	861062018000372	03-09-2018	selesai	selesai	Sudah
+1604	S031602018	Tantri Pradhita Yudhi Astri	861062018000341	03-09-2018	selesai	selesai	Sudah
+1605	S031602020	Tri Yuliono	861062018000327	25-07-2018	selesai	selesai	Sudah
+1606	S031608012	Retno Wihyanti	861062018000365	25-07-2018	selesai	selesai	Sudah
+1607	S031608020	Wita Juwita	861062018000310	25-07-2018	selesai	selesai	Sudah
+1608	S041608004	Donni Prakosha	861172018000088	10-08-2018	selesai	selesai	Sudah
+1609	S041608013	Ossy Firstanti Wardany	861172018000071	23-07-2018	selesai	selesai	Sudah
+1610	S061508004	Rujito Sesariojiwandono Ridho Suharbiansah	220/UN27.20/S2/2018	19-07-2018	selesai	selesai	Sudah
+1611	S111508016	Qurratul A'ini	791022018000118	30-07-2018	selesai	selesai	Sudah
+1612	S111508019	Suci Khaofia	186/UN27.20/S2/2018	30-07-2018	selesai	selesai	Sudah
+1613	S111602004	Mochamad Ighfir Sukardi	791022018000095	03-08-2018	selesai	selesai	Sudah
+1614	S111608008	Yunilis Andika	791022018000071	08-08-2018	selesai	selesai	Sudah
+1615	S131308004	Husna Imro'athush Sholihah	791022018000088	30-07-2018	selesai	selesai	Sudah
+1616	S131602003	Ahmad Kirom	221/UN27.20/S2/2018	04-09-2018	selesai	selesai	Sudah
+1617	S131608005	Lailatun Najakh	791022018000101	07-08-2018	selesai	selesai	Sudah
+1618	S131608006	Luthfiyah Hanim Setyawati	791022018000125	07-08-2018	selesai	selesai	Sudah
+1619	S201402002	Aris Cahyono	070/R/UN27.06/Sp/2018	06-08-2018	selesai	selesai	Sudah
+1620	S241408010	Ismoyo	631012018000026	05-06-2018	selesai	selesai	Sudah
+1621	S241408014	Ardita Devi Mayasari	219/UN27.20/S2/2018	30-07-2018	selesai	selesai	Sudah
+1622	S251408012	Fitria Rismaningtyas	691012018000042	06-08-2018	selesai	selesai	Sudah
+1623	S251608002	Adi Rahman	691012018000035	30-07-2018	selesai	selesai	Sudah
+1624	S251608008	Erwinsyah	691012018000028	08-08-2018	selesai	selesai	Sudah
+1625	S251608012	Ghufronudin	222/UN27.20/S2/2018	07-08-2018	selesai	selesai	Sudah
+1626	S251608014	Indah Wulandari	691012018000011	10-08-2018	selesai	selesai	Sudah
+1627	S311208004	Guruh Raditya Warman	1211/UN27.20/S2/2017	23-11-2017	selesai	selesai	Sudah
+1628	S311602011	Suprianto	1215/UN27.20/S2/2017	20-12-2017	selesai	selesai	Sudah
+1629	S311702002	Ellectrananda Anugerah Ash-shidiqqi	223/UN27.20/S2/2018	31-07-2018	selesai	selesai	Sudah
+1630	S321608002	Adiaty Rovita	741012018000084	31-07-2018	selesai	selesai	Sudah
+1631	S321608005	Arina Novitasari	741012018000060	23-07-2018	selesai	selesai	Sudah
+1632	S331208005	Agus Robani	1218/UN27.20/S2/2017	24-07-2017	selesai	selesai	Sudah
+1633	S331608004	Eva Nur Aryati	741012018000077	30-07-2018	selesai	selesai	Sudah
+1634	S331608006	Kartika Rahmasari Dewi	741012018000053	31-07-2018	selesai	selesai	Sudah
+1635	S351302011	Prisilia Purwardhani	209/UN27.20/S2/2018	29-01-2018	selesai	selesai	Sudah
+1636	S351602011	Argo Sri Hutomo	741022018000045	02-08-2018	selesai	selesai	Sudah
+1637	S351608007	Calvin Oktaviano Adinugraha	211/UN27.20/S2/2018	15-08-2018	selesai	selesai	Sudah
+1638	S351608017	Fatmawati Cahyaningtyas	212/UN27.20/S2/2018	16-08-2018	selesai	selesai	Sudah
+1639	S351608024	Juleni	193/UN27.20/S2/2018	02-08-2018	selesai	proses	belum
+1640	S351608026	Khorisima Gusasih	210/UN27.20/S2/2018	13-08-2018	selesai	selesai	Sudah
+1641	S351608029	Lusia Savitri Diah Candrasari	741022018000038	10-08-2018	selesai	selesai	Sudah
+1642	S411402026	Suyanto	192/UN27.20/S2/2018	06-07-2018	selesai	selesai	Sudah
+1643	S411408058	Rohmadi	611012018000114	20-07-2018	selesai	selesai	Sudah
+1644	S411608005	Astri Dewi Suryantari	611012018000138	23-07-2018	selesai	selesai	Sudah
+1645	S411608009	Fatimah	611012018000145	16-07-2018	selesai	selesai	Sudah
+1646	S411608010	Febby Erianto Nugroho	611012018000152	31-07-2018	selesai	selesai	Sudah
+1647	S411608013	Hestin Rahmawati	611012018000169	23-07-2018	selesai	selesai	Sudah
+1648	S411608015	Kurniawati Darmaningrum	611012018000176	31-07-2018	selesai	selesai	Sudah
+1649	S411608025	Soraya Yuli Hapsari	611012018000183	31-07-2018	selesai	selesai	Sudah
+1650	S411608028	Alfien Suryo Baskoro	611012018000190	23-07-2018	selesai	selesai	Sudah
+1651	S411608029	Amananda Susena	611012018000206	31-07-2018	selesai	selesai	Sudah
+1652	S411608035	Novi Widyawati	611012018000121	30-07-2018	selesai	selesai	Sudah
+1653	S411608036	Solikhah	611012018000213	31-07-2018	selesai	selesai	Sudah
+1654	S411608039	Muhammad Arifuddin	611012018000220	31-07-2018	selesai	selesai	Sudah
+1655	S411608040	Rakotoarisoa Maminirina Fenitra	213/UN27.20/S2/2018	06-07-2018	selesai	selesai	Sudah
+1656	S421508009	Ivan Ardianto	601012018000032	27-07-2018	selesai	selesai	Sudah
+1657	S421608013	Danur Condro Guritno	601012018000025	31-07-2018	selesai	selesai	Sudah
+1658	S431608004	Aning Fitriana	214/UN27.20/S2/2018	23-07-2018	selesai	selesai	Sudah
+1659	S431608005	Aqlima Cendera Dewi	215/UN27.20/S2/2018	23-07-2018	selesai	selesai	Sudah
+1660	S441602004	Dewi Pramestuti	881022018000066	12-07-2018	selesai	selesai	Sudah
+1661	S441602005	Fitriana Kartika Sari	881022018000059	31-07-2018	selesai	selesai	Sudah
+1662	S501108065	Sri Wahyuni	111022018000057	16-08-2018	selesai	selesai	Sudah
+1663	S501202005	Anindita Rachmawati	179/UN27.20/S2/2018	06-08-2018	selesai	selesai	Sudah
+1664	S501208060	Zen Firhan	184/UN27.20/S2/2018	05-06-2018	selesai	selesai	Sudah
+1665	S511308003	Savithri Indriani	117152018000017	27-08-2018	selesai	selesai	Sudah
+1666	S511402001	Akhmad Jalaludinsyah	078/R/UN27.06/Sp/2018	28-08-2018	selesai	selesai	Sudah
+1667	S511402002	Astri Kurniati Martiana	077/R/UN27.06/Sp/2018	28-08-2018	selesai	selesai	Sudah
+1668	S521608011	Mia Fatmawati	111022018000040	12-07-2018	selesai	selesai	Sudah
+1669	S531508016	Dwi Handayani	131112018000196	27-08-2018	selesai	selesai	Sudah
+1670	S531508022	Fadliyah	131112018000219	10-08-2018	selesai	selesai	Sudah
+1671	S531508025	Fitria Dhenok Palupi	131112018000158	30-07-2018	selesai	selesai	Sudah
+1672	S531508045	Sumardin	131112018000202	10-08-2018	selesai	selesai	Sudah
+1673	S531608007	Dahliansyah	131112018000189	27-08-2018	selesai	selesai	Sudah
+1674	S531608012	Egy Sunanda Putra	131112018000172	14-08-2018	selesai	selesai	Sudah
+1675	S531608014	Eri Virmando	131112018000165	14-08-2018	selesai	selesai	Sudah
+1676	S561208007	Rahmadi Indra	071/R/UN27.06/Sp/2018	01-09-2018	selesai	proses	belum
+1677	S561208009	Wadhe Omara Soaloon	072/R/UN27.06/Sp/2018	01-09-2018	selesai	proses	belum
+1678	S561308004	Dian Ibnu Wahid	117072018000018	01-09-2018	selesai	proses	belum
+1679	S561308005	Kresna Agung Prabowo	117072018000025	01-09-2018	selesai	proses	belum
+1680	S561308006	Zulfadly	117072018000032	01-09-2018	selesai	proses	belum
+1681	S571108006	Sri Wahyuni	148/R/UN27.06/Sp/2016	30-11-2016	selesai	selesai	Sudah
+1682	S571408001	Afinia Permanasari	117242018000015	28-08-2018	selesai	selesai	Sudah
+1683	S571408005	High Boy Karmulrubog Hutasoit	069/R/UN27.06/Sp/2018	28-08-2018	proses	belum	belum
+1684	S611608003	Arini Al Ifah	229/UN27.20/S2/2018	10-08-2018	selesai	selesai	Sudah
+1685	S611608010	Puguh Bintang Pamungkas	541042018000052	07-08-2018	selesai	selesai	Sudah
+1686	S621208002	Muh Nur Khamid	1216/UN27.20/S2/2017	25-07-2017	selesai	selesai	Sudah
+1687	S701408004	Sulistiyani	1212/UN27.20/S2/2017	31-01-2017	selesai	selesai	Sudah
+1688	S801508001	Dwi Ratna Wulansari	261012018000076	07-08-2018	selesai	selesai	Sudah
+1689	S801608001	Amanda Sofiana	261012018000069	07-08-2018	selesai	selesai	Sudah
+1690	S801608002	Anastasia Febiyani	261012018000083	07-08-2018	selesai	selesai	Sudah
+1691	S801608003	Arinda Soraya Putri	261012018000052	08-08-2018	selesai	selesai	Sudah
+1692	S811508007	Heri Triluqman Budisantoso	228/UN27.20/S2/2018	09-08-2018	selesai	selesai	Sudah
+1693	S811608011	Muhammad Hanif	861032018000054	31-07-2018	selesai	proses	belum
+1694	S811608018	Yustina Laurentius Sri Mulatsih	861032018000061	31-07-2018	selesai	proses	belum
+1695	S831208005	Annisa Nurrul Hamsah	1213/UN27.20/S2/2017	18-08-2017	selesai	selesai	Sudah
+1696	S831208012	Bangun Kriyanto	1214/UN27.20/S2/2017	16-08-2017	selesai	selesai	Sudah
+1697	S831208075	Siti Muthmainah Fadliilah	1217/UN27.20/S2/2017	10-08-2017	selesai	selesai	Sudah
+1698	S831408024	Mita Nugrahani	841012018000472	13-02-2018	selesai	selesai	Sudah
+1699	S831508010	Dhora Vasminingtya Reginaning Charysma	841012018000458	09-08-2018	selesai	selesai	Sudah
+1700	S831508064	Evi Elisanti	841012018000502	01-08-2018	selesai	proses	belum
+1701	S831602011	Fetra May Dawati	841012018000489	06-08-2018	selesai	selesai	Sudah
+1702	S831602016	Marantika Lia Kristyasari	841012018000465	06-08-2018	selesai	selesai	Sudah
+1703	S831602024	Septian Murnawianto	841012018000540	10-08-2018	selesai	selesai	Sudah
+1704	S831602028	Turino Adi Irawan	841012018000557	10-08-2018	selesai	selesai	Sudah
+1705	S831602032	Inayah Rohmi	841012018000496	10-08-2018	selesai	selesai	Sudah
+1706	S831608007	Arnita Cahya Saputri	841012018000519	10-08-2018	selesai	proses	belum
+1707	S831608032	Nadiyah Rif'atul 'Azizah	841012018000533	09-08-2018	selesai	selesai	Sudah
+1708	S831608059	Fadilah Nur Sugiyanto	841012018000526	10-08-2018	selesai	selesai	Sudah
+1709	S841608001	Aditya Mahendra Ariputra	881012018000210	08-08-2018	selesai	selesai	Sudah
+1710	S841608005	Arif Yuandana Sinaga	881012018000173	01-08-2018	selesai	proses	belum
+1711	S841608007	Bekty Tandaningtyas Sundoro	881012018000142	30-07-2018	selesai	selesai	Sudah
+1712	S841608008	Candra Kirana	881012018000166	09-08-2018	selesai	selesai	Sudah
+1713	S841608009	Dinari Oktaria	881012018000197	16-07-2018	selesai	selesai	Sudah
+1714	S841608012	Haniah	881012018000227	27-07-2018	selesai	selesai	Sudah
+1715	S841608016	Muhammad Rois Abdulfatah	881012018000159	30-07-2018	selesai	selesai	Sudah
+1716	S841608017	Nada Hafizha	881012018000241	08-08-2018	selesai	selesai	Sudah
+1717	S841608020	Rosinawati Dewi	881012018000234	08-08-2018	selesai	selesai	Sudah
+1718	S841608021	Ruth Remilani Simatupang	881012018000180	09-08-2018	selesai	selesai	Sudah
+1719	S841608022	Sugeng Supriyono	881012018000203	24-07-2018	selesai	selesai	Sudah
+1720	S841608026	Reza Pandudinata	881012018000258	09-08-2018	selesai	selesai	Sudah
+1721	S851308028	Irma Ludyana Sari	841022018000303	31-07-2018	selesai	selesai	Sudah
+1722	S851402027	Iwan Kurnianto	187/UN27.20/S2/2018	26-07-2018	selesai	selesai	Sudah
+1723	S851502025	Taufik Fajar Gumilang	841022018000280	10-08-2018	selesai	selesai	Sudah
+1724	S851508003	Ahmad Junaedi	841022018000372	10-08-2018	selesai	selesai	Sudah
+1725	S851508007	Antinah	841022018000358	10-08-2018	selesai	selesai	Sudah
+1726	S851508019	Labiba Zahra	841022018000297	30-07-2018	selesai	selesai	Sudah
+1727	S851508025	Nida Sri Utami	841022018000327	10-08-2018	selesai	selesai	Sudah
+1728	S851508027	Putri Permata Sari	841022018000310	31-07-2018	selesai	selesai	Sudah
+1729	S851602030	Rahadiyan Bayu Hananto	841022018000334	31-07-2018	selesai	selesai	Sudah
+1730	S851608020	Intan Permatasari	841022018000341	10-08-2018	selesai	selesai	Sudah
+1731	S851608023	Niyan Fajar Kusuma	841022018000365	10-09-2018	selesai	selesai	Sudah
+1732	S861508009	Edi Nurcahyo	871012018000305	01-08-2018	selesai	selesai	Sudah
+1733	S861508017	Maria Florentina Tery	871012018000275	30-07-2018	selesai	selesai	Sudah
+1734	S861508024	Suci Rahayu	871012018000329	30-07-2018	selesai	selesai	Sudah
+1735	S861608010	Jona Erwenta	871012018000312	04-08-2018	selesai	selesai	Sudah
+1736	S861608014	Muhammad Sahal	871012018000282	04-08-2018	selesai	selesai	Sudah
+1737	S861608027	Yohanis Kristianus Tampani	871012018000299	04-08-2018	selesai	selesai	Sudah
+1738	S881508005	Dominikus Victorius Bate	190/UN27.20/S2/2018	08-08-2018	selesai	selesai	Sudah
+1739	S891402005	Ardiyani Widya Permatasari	881032018000287	16-05-2018	selesai	selesai	Sudah
+1740	S891402010	Arumsyah Erlinda Retnowati	881032018000270	19-05-2018	selesai	selesai	Sudah
+1741	S891508024	Muhammad Dhika Arif Rizqon	881032018000256	30-05-2018	selesai	selesai	Sudah
+1742	S891602005	Bayu Nandra Ramadhan	227/UN27.20/S2/2018	09-08-2018	selesai	selesai	Sudah
+1743	S891608002	Asep Budiman	191/UN27.20/S2/2018	01-08-2018	selesai	selesai	Sudah
+1744	S891608011	Mia Febriana	881032018000263	18-07-2018	selesai	selesai	Sudah
+1745	S891608015	Ruly Morganna	216/UN27.20/S2/2018	18-07-2018	selesai	selesai	Sudah
+1746	S891608017	Sri Rejeki	881032018000249	09-08-2018	selesai	selesai	Sudah
+1747	S891608019	Suci Maharani	226/UN27.20/S2/2018	09-08-2018	selesai	selesai	Sudah
+1748	S891608020	Ummy Khoirunisya' Masyhudianti	218/UN27.20/S2/2018	09-08-2018	selesai	selesai	Sudah
+1749	S891608021	Umu Arifatul Azizah	881032018000232	18-07-2018	selesai	selesai	Sudah
+1750	S891702028	Tosriadi	217/UN27.20/S2/2018	05-09-2018	selesai	selesai	Sudah
+1751	S901408008	Muh Nahrowi B	461012018000067	04-05-2018	selesai	selesai	Sudah
+1752	S901608001	Anik Prihatin	461012018000043	03-08-2018	selesai	selesai	Sudah
+1753	S901608024	Vivin Alfyana Yulia Pratami	461012018000050	03-08-2018	selesai	selesai	Sudah
+1754	S911608005	Isnaini Lilis Elviyanti	225/UN27.20/S2/2018	08-08-2018	selesai	selesai	Sudah
+1755	S921302003	Mohammad Arifianto	073/R/UN27.06/Sp/2018	03-09-2018	selesai	selesai	Sudah
+1756	S921302004	Wawan Siswadi	076/R/UN27.06/Sp/2018	03-09-2018	selesai	selesai	Sudah
+1757	S921308001	Rokhaeni	075/R/UN27.06/Sp/2018	03-09-2018	selesai	selesai	Sudah
+1758	S921308002	Satrio Wishnu Pratomo	074/R/UN27.06/Sp/2018	03-09-2018	selesai	selesai	Sudah
+1759	S931208003	Muhammad Bayuaji Meiarso	117282018000035	28-06-2018	selesai	selesai	Sudah
+1760	S931208004	Zen Firhan	117282018000028	28-06-2018	selesai	selesai	Sudah
+1761	S931302001	Bagus Nur Graha Wahyu Aji	117282018000042	28-06-2018	selesai	selesai	Sudah
+1762	S931302002	Dhina Hafiz Sa'ban	117282018000011	28-06-2018	selesai	selesai	Sudah
+1763	S931308001	Alifia Rifki Rimanda	117282018000059	28-06-2018	selesai	selesai	Sudah
+1764	S941308010	Joko Tri Haryanta	230/UN27.20/S2/2018	31-05-2018	selesai	selesai	Sudah
+1765	S941608024	Wardatul Jamilah	221012018000030	09-08-2018	selesai	selesai	Sudah
+1766	S951608007	Sunarto Kaleg	224/UN27.20/S2/2018	31-07-2018	selesai	selesai	Sudah
+1767	S961108010	Anindita Rachmawati	066/R/UN27.06/Sp/2018	31-07-2018	selesai	selesai	Sudah
+1768	S961302003	Isa Akbar Browijoyo	117022018000112	14-09-2018	selesai	selesai	Sudah
+1769	S961408001	Albafith	117022018000105	19-09-2018	selesai	selesai	Sudah
+1770	S961408003	Ari Prasetyo Nugroho	117022018000082	10-09-2018	selesai	selesai	Sudah
+1771	S961408005	Fatnan Setyo Hariwibowo	117022018000075	27-08-2018	selesai	selesai	Sudah
+1772	S971402002	Harsono	117192018000037	18-09-2018	selesai	selesai	Sudah
+1773	S971402003	Kurniawan Prihutomo	117192018000013	17-07-2018	selesai	selesai	Sudah
+1774	S971402004	Rudy Santoso	117192018000020	17-09-2018	selesai	selesai	Sudah
+1775	S981402003	Frans Kausario Muslihan	067/R/UN27.06/Sp/2018	25-08-2018	selesai	proses	belum
+1776	S981402005	Wahyu Hananto	068/R/UN27.06/Sp/2018	25-08-2018	selesai	proses	belum
+1777	S981408005	Elshurafa Mueen Zayed	117062018000019	25-08-2018	selesai	selesai	Sudah
+1778	S991508018	Sugiono	871032018000099	01-08-2018	selesai	selesai	Sudah
+1779	S991608009	Noviyana Sari	871032018000129	10-08-2018	selesai	selesai	Sudah
+1780	S991702001	Achmad Mustofa	871032018000105	10-08-2018	selesai	selesai	Sudah
+1781	S991702003	Betanika Nila Nirbita	871032018000112	08-08-2018	selesai	selesai	Sudah
+1782	T110908002	Fransiskus Xaverius Sawardi	033/UN27.20/S3/2018	29-08-2018	selesai	selesai	Sudah
+1783	T111108001	Dwi Astuti Wahyu Nurhayati	037/UN27.20/S3/2018	13-09-2018	selesai	selesai	Sudah
+1784	T130908004	Miftah Nugroho	028/UN27.20/S3/2018	16-08-2018	selesai	selesai	Sudah
+1785	T141008005	Soelistini Dwi Poetranti	031/UN27.20/S3/2018	08-08-2018	selesai	selesai	Sudah
+1786	T141508005	SF. Luthfie Arguby Purnomo	030/UN27.20/S3/2018	09-08-2018	selesai	selesai	Sudah
+1787	T311308012	Rabith Madah Khulaili Harsya	740012018000047	04-07-2018	selesai	selesai	Sudah
+1788	T431008013	Ely Masykuroh	029/UN27.20/S3/2018	01-08-2018	selesai	selesai	Sudah
+1789	T431108007	Saiful	039/UN27.20/S3/2018	12-09-2018	selesai	selesai	Sudah
+1790	T501108005	Heru Priyanto	032/UN27.20/S3/2018	28-06-2018	selesai	selesai	Sudah
+1791	T611008004	Diwi Acita Irawati	036/UN27.20/S3/2018	07-06-2018	selesai	selesai	Sudah
+1792	T611008009	Atik Badi'ah	038/UN27.20/S3/2018	12-09-2018	selesai	selesai	Sudah
+1793	T641402002	Ninik Nurhidayah	035/UN27.20/S3/2018	23-08-2018	selesai	selesai	Sudah
+1794	T651308002	Ekawati	034/UN27.20/S3/2018	18-07-2018	selesai	selesai	Sudah
+1795	T851308002	Jeffry Handhika	840012018000022	01-08-2018	selesai	selesai	Sudah
